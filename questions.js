@@ -1,7 +1,7 @@
 window.MKS_QUESTIONS = [
   {
     "id": "MKS-ELITE-ILK3-001",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Sürekli yaşadığı yer dışına geçici olarak çıkan, gittiği yerde en az bir gece konaklayan ve gelir getirici sürekli bir iş yapmayan kişi aşağıdakilerden hangisidir?",
     "options": {
@@ -16,7 +16,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-002",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Turist ve günübirlikçiyi kapsayan üst kavram aşağıdakilerden hangisidir?",
     "options": {
@@ -31,7 +31,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-003",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Her turizm bir seyahattir; ancak her seyahat turizm değildir. Bu ayrımın temel nedeni aşağıdakilerden hangisidir?",
     "options": {
@@ -46,7 +46,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-004",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Boş zamanlarda dinlenme, eğlenme, yenilenme veya kendini geliştirme amacıyla yapılan etkinlikler aşağıdakilerden hangisidir?",
     "options": {
@@ -61,7 +61,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-005",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Gittiği yerde geceleme yapmadan aynı gün dönen kişi aşağıdakilerden hangisidir?",
     "options": {
@@ -76,7 +76,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-006",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Türkiye’ye gelen yabancı turistler Türkiye açısından hangi turizm türüne örnektir?",
     "options": {
@@ -91,7 +91,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-007",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Türkiye’den yurt dışına tatile giden Türk vatandaşları Türkiye açısından hangi turizm türünü oluşturur?",
     "options": {
@@ -106,7 +106,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-008",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Aşağıdakilerden hangisi turizmin temel koşullarından biri değildir?",
     "options": {
@@ -121,7 +121,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-009",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Kişinin çalışma, uyku ve zorunlu ihtiyaçlar dışında kalan zamanına ne ad verilir?",
     "options": {
@@ -136,7 +136,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-010",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Bir Türk vatandaşının Türkiye içinde Kapadokya’ya tatile gitmesi hangi turizm türüne örnektir?",
     "options": {
@@ -151,7 +151,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-011",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Aşağıdakilerden hangisi ziyaretçi kavramının kapsamına girer?",
     "options": {
@@ -166,7 +166,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-012",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Bir kişinin başka bir ülkeye çalışmak ve gelir elde etmek amacıyla uzun süreli gitmesi turizm sayılmaz. Bunun temel nedeni nedir?",
     "options": {
@@ -181,7 +181,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-013",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Aşağıdakilerden hangisi rekreasyon ile turizm arasındaki ilişkiyi en doğru açıklar?",
     "options": {
@@ -196,7 +196,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-014",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Turistin gittiği yerde gelir getirici sürekli bir iş yapmaması, turizmin hangi niteliğini vurgular?",
     "options": {
@@ -211,7 +211,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-015",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Temel Turizm Kavramları",
     "question": "Aşağıdakilerden hangisi günübirlikçiyi turistten ayıran temel ölçüttür?",
     "options": {
@@ -226,7 +226,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-016",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Çok sayıda kişinin standart hizmetlerle ve çoğunlukla paket tur düzeninde seyahat etmesi aşağıdakilerden hangisidir?",
     "options": {
@@ -241,7 +241,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-017",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Tarihî eser, müze, ören yeri ve yerel kültürel değerleri tanıma amacıyla yapılan turizm türü aşağıdakilerden hangisidir?",
     "options": {
@@ -256,7 +256,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-018",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Kutsal kabul edilen yerleri ve dini merkezleri ziyaret etme amacıyla yapılan turizm türü aşağıdakilerden hangisidir?",
     "options": {
@@ -271,7 +271,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-019",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Aşağıdakilerden hangisi sağlık turizminin alt türleri arasında yer alır?",
     "options": {
@@ -286,7 +286,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-020",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Yat, marina ve mavi yolculuk kavramları en çok hangi turizm türüyle ilişkilidir?",
     "options": {
@@ -301,7 +301,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-021",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Büyük gemilerle yapılan, gemide konaklama ve eğlence hizmetleri sunulan, belirli limanlara uğranan turizm türü hangisidir?",
     "options": {
@@ -316,7 +316,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-022",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Doğal çevreyi koruma, yerel halka katkı sağlama ve sürdürülebilirlik ilkeleriyle yapılan doğa temelli turizm aşağıdakilerden hangisidir?",
     "options": {
@@ -331,7 +331,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-023",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Turistik mal ve hizmetleri satın alma isteği ile satın alma gücünün birleşmesi aşağıdakilerden hangisidir?",
     "options": {
@@ -346,7 +346,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-024",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Kişinin turizm ürününü satın alma isteği ve gücü vardır; talep fiilen gerçekleşmiştir. Bu durum hangisidir?",
     "options": {
@@ -361,7 +361,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-025",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Kişinin seyahat isteği vardır; ancak ekonomik, sağlık, güvenlik veya zaman gibi nedenlerle seyahatini ileri tarihe bırakması hangisidir?",
     "options": {
@@ -376,7 +376,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-026",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Turistlerin ihtiyaçlarını karşılamak üzere sunulan doğal, tarihî, kültürel çekicilikler ve hizmetlerin tamamı aşağıdakilerden hangisidir?",
     "options": {
@@ -391,7 +391,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-027",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Bir kişinin seyahat etme isteği ve satın alma gücü bulunmasına rağmen henüz seyahat etmemesi hangi talep türüne daha yakındır?",
     "options": {
@@ -406,7 +406,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-028",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Aşağıdakilerden hangisi turizm arzına örnek değildir?",
     "options": {
@@ -421,7 +421,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-029",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Yüksek kesimlerde serin iklim, doğal çevre ve geleneksel yaşamla ilişkili turizm türü aşağıdakilerden hangisidir?",
     "options": {
@@ -436,7 +436,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-030",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Kaplıca, sıcak su ve şifalı su kaynaklarına dayalı turizm türü aşağıdakilerden hangisidir?",
     "options": {
@@ -451,7 +451,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-031",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Toplantı, seminer, konferans ve bilimsel etkinliklere katılma amacıyla yapılan turizm türü hangisidir?",
     "options": {
@@ -466,7 +466,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-032",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Düşük gelirli grupların turizme katılımını destekleme anlayışı aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -481,7 +481,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-033",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Turistik alanın doğal ve kültürel değerlerini gelecek kuşakları düşünerek koruyan yaklaşım hangisidir?",
     "options": {
@@ -496,7 +496,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-034",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Destinasyonun turistleri kendine çeken doğal, kültürel veya iklimsel özellikleri turist motivasyonunda ne olarak adlandırılır?",
     "options": {
@@ -511,7 +511,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-035",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turizm sosyolojisinin temel konusu aşağıdakilerden hangisidir?",
     "options": {
@@ -526,7 +526,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-036",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turistin ihtiyaç, beklenti, motivasyon ve davranışlarını inceleyen alan aşağıdakilerden hangisidir?",
     "options": {
@@ -541,7 +541,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-037",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Plog tipolojisine göre maceracı, yenilik arayan ve farklı kültürleri keşfetmek isteyen turist tipi hangisidir?",
     "options": {
@@ -556,7 +556,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-038",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Güvenli, tanıdık, konforlu ve bilinen destinasyonları tercih eden turist tipi hangisidir?",
     "options": {
@@ -571,7 +571,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-039",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Allocentric ve psychocentric özellikler arasında yer alan turist tipi aşağıdakilerden hangisidir?",
     "options": {
@@ -586,7 +586,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-040",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Cohen tipolojisine göre paket turla gezen, programı belli olan ve düşük riskli seyahatleri tercih eden turist tipi hangisidir?",
     "options": {
@@ -601,7 +601,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-041",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Standart turistik yapıdan uzak durup yerel yaşama karışmak isteyen, planı esnek turist tipi hangisidir?",
     "options": {
@@ -616,7 +616,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-042",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doxey Irridex modeli aşağıdakilerden hangisini açıklar?",
     "options": {
@@ -631,7 +631,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-043",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doxey modelinde yerel halkın turistleri olumlu ve sevinçle karşıladığı ilk evre hangisidir?",
     "options": {
@@ -646,7 +646,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-044",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doxey modelinde turist sayısı arttıkça yerel halkın turistleri sıradan görmeye başladığı evre hangisidir?",
     "options": {
@@ -661,7 +661,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-045",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doxey Irridex modelinin doğru sıralaması aşağıdakilerden hangisidir?",
     "options": {
@@ -676,7 +676,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-046",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bireyin kendi toplumunun kültürünü öğrenme süreci aşağıdakilerden hangisidir?",
     "options": {
@@ -691,7 +691,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-047",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "İki farklı kültürün uzun süreli etkileşimi sonucunda birbirinden etkilenmesi aşağıdakilerden hangisidir?",
     "options": {
@@ -706,7 +706,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-048",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bir birey veya grubun başka bir kültürün değerlerini benimseyip kendi kültürel özelliklerini büyük ölçüde kaybetmesi hangisidir?",
     "options": {
@@ -721,7 +721,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-049",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bireyin alışık olmadığı farklı bir kültürel çevreyle karşılaşması sonucu yaşadığı şaşkınlık, stres ve uyum güçlüğü hangisidir?",
     "options": {
@@ -736,7 +736,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-050",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 1",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turisti seyahat etmeye yönelten içsel ve dışsal nedenler genel olarak hangi kavramla ifade edilir?",
     "options": {
@@ -751,7 +751,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-051",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Dinlenme isteği, kaçış isteği, merak ve prestij gibi kişinin içinden gelen seyahat nedenleri hangisidir?",
     "options": {
@@ -766,7 +766,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-052",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bir destinasyonun doğal güzellikleri, tarihi eserleri, iklimi ve kültürel etkinlikleri turist açısından hangisine örnektir?",
     "options": {
@@ -781,7 +781,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-053",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turistin seyahat öncesi beklentileri ile seyahat deneyimini karşılaştırması sonucunda oluşan durum hangisidir?",
     "options": {
@@ -796,7 +796,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-054",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turistin elde ettiği fayda ile katlandığı maliyetleri karşılaştırması aşağıdakilerden hangisidir?",
     "options": {
@@ -811,7 +811,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-055",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bir destinasyonun doğal, sosyal, kültürel ve ekonomik yapısı zarar görmeden kaldırabileceği maksimum ziyaretçi düzeyi hangisidir?",
     "options": {
@@ -826,7 +826,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-056",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bir alanın fiziksel olarak alabileceği maksimum kişi sayısı aşağıdakilerden hangisidir?",
     "options": {
@@ -841,7 +841,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-057",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doğal çevre zarar görmeden kabul edilebilecek ziyaretçi düzeyi hangisidir?",
     "options": {
@@ -856,7 +856,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-058",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Yerel halkın sosyal ve kültürel yaşamı bozulmadan kabul edebileceği ziyaretçi düzeyi hangisidir?",
     "options": {
@@ -871,7 +871,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-059",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turistlerin kalabalıktan rahatsız olmadan kaliteli deneyim yaşayabileceği ziyaretçi düzeyi hangisidir?",
     "options": {
@@ -886,7 +886,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-060",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Yerel halkın turistleri kalabalık, fiyat artışı ve çevre sorunları nedeniyle olumsuz algılamaya başladığı Doxey evresi hangisidir?",
     "options": {
@@ -901,7 +901,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-061",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Cohen tipolojisine göre ana programı belli olmakla birlikte bazı konularda bireysel hareket edebilen turist tipi hangisidir?",
     "options": {
@@ -916,7 +916,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-062",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Cohen tipolojisinde keşif isteği bulunan ancak tamamen güvenlik ağından kopmayan turist tipi hangisidir?",
     "options": {
@@ -931,7 +931,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-063",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bir toplumun geleneksel kültürel değerlerinin zamanla zayıflaması veya bozulması hangisidir?",
     "options": {
@@ -946,7 +946,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-064",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turist sayısının aşırı artması sonucunda yerel halkın turistleri sorunların kaynağı olarak görmesi Doxey modelinde hangi evredir?",
     "options": {
@@ -961,7 +961,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-065",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turist motivasyonunda 'şehir hayatından uzaklaşma' ve 'dinlenme ihtiyacı' hangi faktör grubuna girer?",
     "options": {
@@ -976,7 +976,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-066",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turist motivasyonunda 'destinasyonun iklimi, doğal güzelliği ve kültürel mirası' hangi faktör grubuna girer?",
     "options": {
@@ -991,7 +991,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-067",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Taşıma kapasitesinin aşılması aşağıdakilerden hangisine yol açabilir?",
     "options": {
@@ -1006,7 +1006,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-068",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Paket turu, bilinen destinasyonu ve riskten kaçınmayı tercih eden turist Plog tipolojisinde hangi tipe yakındır?",
     "options": {
@@ -1021,7 +1021,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-069",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Az bilinen bir destinasyona gidip farklı kültürleri keşfetmek isteyen turist Plog tipolojisinde hangi tipe yakındır?",
     "options": {
@@ -1036,7 +1036,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-070",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Yerel halk ile turist arasındaki kültürel etkileşim, turizmin daha çok hangi boyutuyla ilgilidir?",
     "options": {
@@ -1051,7 +1051,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-071",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Bir turist adayının parası ve isteği olmasına rağmen henüz karar vermemiş olması hangi talep türüne örnektir?",
     "options": {
@@ -1066,7 +1066,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-072",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Bir bölgede konaklama tesisleri, ulaşım olanakları ve doğal çekicilikler artıyorsa doğrudan hangi unsur güçlenmektedir?",
     "options": {
@@ -1081,7 +1081,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-073",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Seyahat etmeyi çok isteyen bir kişinin ekonomik kriz nedeniyle planını iptal etmeyip sonraki yıla bırakması hangi talep türüdür?",
     "options": {
@@ -1096,7 +1096,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-074",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Troya, Efes, Hattuşa ve Göbeklitepe gibi alanların ziyaret edilmesi en çok hangi turizm türüyle ilişkilidir?",
     "options": {
@@ -1111,7 +1111,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-075",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Meryem Ana Evi, Sümela Manastırı ve Mevlana Türbesi gibi ziyaretler en çok hangi turizm türüyle ilgilidir?",
     "options": {
@@ -1126,7 +1126,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-076",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Bir kişinin sürekli yaşadığı çevre dışına geçici olarak çıkması, gittiği yerde gelir getirici sürekli bir iş yapmaması ve en az bir gece konaklaması aşağıdakilerden hangisini tanımlar?",
     "options": {
@@ -1141,7 +1141,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-077",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Aşağıdakilerden hangisi turizmi sıradan seyahatten ayıran temel unsurlardan biri değildir?",
     "options": {
@@ -1156,7 +1156,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-078",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Turist ve günübirlikçi kavramlarını birlikte kapsayan üst kavram aşağıdakilerden hangisidir?",
     "options": {
@@ -1171,7 +1171,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-079",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Bir kişinin günübirlik olarak Kapadokya'yı gezip aynı gün yaşadığı şehre dönmesi aşağıdakilerden hangisine örnektir?",
     "options": {
@@ -1186,7 +1186,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-080",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Boş zamanın dinlenme, eğlenme, yenilenme veya kendini geliştirme amacıyla değerlendirilmesi aşağıdaki kavramlardan hangisidir?",
     "options": {
@@ -1201,7 +1201,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-081",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Aşağıdakilerden hangisi 'her turizm seyahattir fakat her seyahat turizm değildir' cümlesini en iyi açıklar?",
     "options": {
@@ -1216,7 +1216,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-082",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Türkiye'de yaşayan bir kişinin Antalya'da tatil yapması Türkiye açısından hangi turizm türüdür?",
     "options": {
@@ -1231,7 +1231,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-083",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Almanya'dan Türkiye'ye gelen bir turist Türkiye açısından hangi turizm türünü oluşturur?",
     "options": {
@@ -1246,7 +1246,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-084",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Türkiye'den İtalya'ya tatile giden Türk vatandaşları Türkiye açısından aşağıdakilerden hangisine örnektir?",
     "options": {
@@ -1261,7 +1261,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-085",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Turistin gittiği yerde ücret karşılığı sürekli bir işte çalışması durumunda, bu hareketin turizm sayılmamasının temel nedeni nedir?",
     "options": {
@@ -1276,7 +1276,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-086",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Aşağıdakilerden hangisi rekreasyonun turizmden daha geniş bir kavram olabileceğini gösterir?",
     "options": {
@@ -1291,7 +1291,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-087",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Turizm olayında 'geçicilik' unsurunun anlamı aşağıdakilerden hangisidir?",
     "options": {
@@ -1306,7 +1306,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-088",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Bir yabancının Türkiye'de tatil yapması Türkiye ekonomisi açısından genellikle hangi sonucu doğurur?",
     "options": {
@@ -1321,7 +1321,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-089",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Aşağıdakilerden hangisi turist kavramı için en belirleyici ölçütlerden biridir?",
     "options": {
@@ -1336,7 +1336,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-090",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Bir kişinin iş görüşmesi için başka şehre gidip aynı gün dönmesi hangi nedenle turist sayılmayabilir?",
     "options": {
@@ -1351,7 +1351,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-091",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Turizm faaliyetlerinin temelinde aşağıdakilerden hangisi en genel biçimde yer alır?",
     "options": {
@@ -1366,7 +1366,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-092",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Aşağıdakilerden hangisi iç turizme örnektir?",
     "options": {
@@ -1381,7 +1381,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-093",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Turizmde 'ziyaretçi' kavramı için aşağıdakilerden hangisi doğrudur?",
     "options": {
@@ -1396,7 +1396,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-094",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Sosyal turizm aşağıdakilerden hangisiyle en çok ilişkilidir?",
     "options": {
@@ -1411,7 +1411,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-095",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Temel Turizm Kavramları",
     "question": "Lüks turizm aşağıdakilerden hangisiyle daha çok ilişkilidir?",
     "options": {
@@ -1426,7 +1426,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-096",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Efes, Troya ve Göbeklitepe gibi alanları tanımaya yönelik seyahatler en çok hangi turizm türüyle ilişkilidir?",
     "options": {
@@ -1441,7 +1441,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-097",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Kutsal mekanları, türbeleri veya dini merkezleri ziyaret etme amacı taşıyan turizm türü aşağıdakilerden hangisidir?",
     "options": {
@@ -1456,7 +1456,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-098",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Tedavi, rehabilitasyon, termal kaynaklardan yararlanma veya yaşlı bakımı amacıyla yapılan seyahatler hangi turizm türü kapsamındadır?",
     "options": {
@@ -1471,7 +1471,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-099",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Toplantı, seminer, fuar ve bilimsel etkinliklere katılma amacıyla yapılan turizm türü aşağıdakilerden hangisidir?",
     "options": {
@@ -1486,7 +1486,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-100",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 2",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Marina, mavi yolculuk ve yat kavramları aşağıdakilerden hangisiyle doğrudan ilişkilidir?",
     "options": {
@@ -1501,7 +1501,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-101",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Büyük gemilerle belirli limanlara uğranarak yapılan, gemide konaklama ve eğlence hizmetleri sunan turizm türü aşağıdakilerden hangisidir?",
     "options": {
@@ -1516,7 +1516,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-102",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Karadeniz'deki yüksek kesimlerde serin iklim ve doğal çevre odaklı yapılan seyahatler en çok hangi turizm türüne örnektir?",
     "options": {
@@ -1531,7 +1531,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-103",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Kaplıca, sıcak su ve şifalı kaynaklardan yararlanma amacı hangi turizm türünü ifade eder?",
     "options": {
@@ -1546,7 +1546,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-104",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Doğayı koruma, yerel halka katkı sağlama ve düşük çevresel etki ilkeleri hangi turizm yaklaşımının temelidir?",
     "options": {
@@ -1561,7 +1561,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-105",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Çok sayıda kişinin standart hizmetlerle ve paket programlarla seyahat etmesi aşağıdakilerden hangisidir?",
     "options": {
@@ -1576,7 +1576,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-106",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Kişinin seyahat programını büyük ölçüde kendi belirlediği, bağımsız hareket ettiği turizm türü aşağıdakilerden hangisidir?",
     "options": {
@@ -1591,7 +1591,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-107",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Turistik ürünleri satın alma isteği ve satın alma gücünün birleşmesi aşağıdakilerden hangisidir?",
     "options": {
@@ -1606,7 +1606,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-108",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Talebin fiilen gerçekleştiği, ürünün satın alındığı durum aşağıdakilerden hangisidir?",
     "options": {
@@ -1621,7 +1621,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-109",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Seyahat isteği bulunan ancak ekonomik nedenlerle tatilini sonraya bırakan kişi hangi talep türüne örnektir?",
     "options": {
@@ -1636,7 +1636,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-110",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Seyahat etme ihtimali bulunan ancak henüz seyahate dönüşmemiş talep türü aşağıdakilerden hangisidir?",
     "options": {
@@ -1651,7 +1651,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-111",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Bir destinasyonun konaklama, ulaşım, yeme-içme, rehberlik, doğal ve kültürel çekicilikleri aşağıdakilerden hangisinin kapsamındadır?",
     "options": {
@@ -1666,7 +1666,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-112",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Aşağıdakilerden hangisi turizm arzına örnektir?",
     "options": {
@@ -1681,7 +1681,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-113",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Aşağıdakilerden hangisi turizm talebiyle daha doğrudan ilişkilidir?",
     "options": {
@@ -1696,7 +1696,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-114",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Doğal ve kültürel çevreye zarar vermeden, gelecek kuşakların haklarını da gözeterek yapılan turizm yaklaşımı aşağıdakilerden hangisidir?",
     "options": {
@@ -1711,7 +1711,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-116",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Aşağıdakilerden hangisi çekicilik unsuru olarak turizm arzı içinde değerlendirilebilir?",
     "options": {
@@ -1726,7 +1726,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-117",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Bir destinasyonun turistler tarafından tercih edilmesini sağlayan doğal, kültürel ve hizmete dayalı özelliklerin bütünü aşağıdakilerden hangisine daha yakındır?",
     "options": {
@@ -1741,7 +1741,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-118",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Tatil yapma isteği olan fakat henüz karar ve satın alma aşamasına geçmemiş kişiler aşağıdakilerden hangisine daha yakındır?",
     "options": {
@@ -1756,7 +1756,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-119",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Aşağıdakilerden hangisi deniz turizmiyle en doğrudan ilişkilidir?",
     "options": {
@@ -1771,7 +1771,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-120",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Türleri ve Arz-Talep",
     "question": "Turizme katılımı sınırlı grupların desteklenmesiyle yapılan turizm türü aşağıdakilerden hangisidir?",
     "options": {
@@ -1786,7 +1786,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-121",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turizm ile toplum, yerel halk ve kültürel etkileşim arasındaki ilişkileri inceleyen alan aşağıdakilerden hangisidir?",
     "options": {
@@ -1801,7 +1801,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-123",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Plog tipolojisine göre yenilik arayan, risk alabilen ve az bilinen destinasyonlara yönelen turist tipi aşağıdakilerden hangisidir?",
     "options": {
@@ -1816,7 +1816,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-124",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Plog tipolojisine göre güvenli, tanıdık ve düzenli destinasyonları tercih eden turist tipi aşağıdakilerden hangisidir?",
     "options": {
@@ -1831,7 +1831,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-125",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Allocentric ve psychocentric özellikler arasında kalan turist tipi aşağıdakilerden hangisidir?",
     "options": {
@@ -1846,7 +1846,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-126",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Cohen tipolojisine göre paket tur programına bağlı, düşük riskli ve standart hizmetleri tercih eden turist tipi aşağıdakilerden hangisidir?",
     "options": {
@@ -1861,7 +1861,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-127",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Cohen tipolojisinde paket yapıdan tamamen kopmayan ancak kısmen bireysel hareket edebilen turist aşağıdakilerden hangisidir?",
     "options": {
@@ -1876,7 +1876,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-128",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Cohen tipolojisinde yerel yaşama karışmak isteyen, standart turistik yapıdan uzak duran ve esnek planla gezen turist aşağıdakilerden hangisidir?",
     "options": {
@@ -1891,7 +1891,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-130",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doxey modelinde turizmin yeni başladığı ve yerel halkın turistleri olumlu karşıladığı evre aşağıdakilerden hangisidir?",
     "options": {
@@ -1906,7 +1906,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-131",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doxey modelinde turist sayısının artmasıyla yerel halkın turistleri sıradan görmeye başladığı evre aşağıdakilerden hangisidir?",
     "options": {
@@ -1921,7 +1921,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-132",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doxey modelinde kalabalık, fiyat artışı ve çevre sorunları nedeniyle hoşnutsuzluk oluşan evre aşağıdakilerden hangisidir?",
     "options": {
@@ -1936,7 +1936,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-133",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doxey modelinde yerel halkın turistleri sorunların kaynağı olarak görmeye başladığı son evre aşağıdakilerden hangisidir?",
     "options": {
@@ -1951,7 +1951,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-136",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "İki farklı kültürün uzun süreli etkileşimi sonucunda karşılıklı olarak birbirinden etkilenmesi aşağıdakilerden hangisidir?",
     "options": {
@@ -1966,7 +1966,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-137",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bir birey veya grubun başka bir kültürün değerlerini benimseyip kendi kültürel özelliklerini büyük ölçüde kaybetmesi aşağıdakilerden hangisidir?",
     "options": {
@@ -1981,7 +1981,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-138",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Alışık olunmayan farklı bir kültürel çevreyle karşılaşınca yaşanan şaşkınlık, stres ve uyum güçlüğü aşağıdakilerden hangisidir?",
     "options": {
@@ -1996,7 +1996,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-139",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bir toplumun geleneksel kültürel değerlerinin zamanla zayıflaması veya bozulması aşağıdakilerden hangisidir?",
     "options": {
@@ -2011,7 +2011,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-140",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turisti seyahat etmeye yönelten içsel ve dışsal nedenlerin tümü aşağıdakilerden hangisidir?",
     "options": {
@@ -2026,7 +2026,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-141",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Dinlenme, kaçış, merak ve prestij gibi kişinin içinden gelen seyahat nedenleri aşağıdakilerden hangisidir?",
     "options": {
@@ -2041,7 +2041,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-142",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bir destinasyonun iklimi, doğal güzellikleri, tarihi eserleri ve kültürel etkinlikleri turist açısından aşağıdakilerden hangisidir?",
     "options": {
@@ -2056,7 +2056,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-143",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turistin seyahat öncesi beklentileri ile seyahat deneyimini karşılaştırması sonucunda oluşan durum aşağıdakilerden hangisidir?",
     "options": {
@@ -2071,7 +2071,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-145",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Bir turistik alanın doğal, sosyal, kültürel ve ekonomik yapısı zarar görmeden kaldırabileceği maksimum ziyaretçi düzeyi aşağıdakilerden hangisidir?",
     "options": {
@@ -2086,7 +2086,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-147",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Doğal çevre zarar görmeden kabul edilebilecek ziyaretçi düzeyi aşağıdakilerden hangisidir?",
     "options": {
@@ -2101,7 +2101,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-148",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Yerel halkın sosyal ve kültürel yaşamı bozulmadan kabul edebileceği ziyaretçi düzeyi aşağıdakilerden hangisidir?",
     "options": {
@@ -2116,7 +2116,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-149",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Turistlerin kalabalıktan rahatsız olmadan kaliteli deneyim yaşayabileceği ziyaretçi düzeyi aşağıdakilerden hangisidir?",
     "options": {
@@ -2131,7 +2131,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MKS-ELITE-ILK3-150",
-    "category": "İlk 3 Oturum Karma",
+    "category": "İlk 3 Oturum Karma - Test 3",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
     "question": "Aşağıdakilerden hangisi psikolojik taşıma kapasitesini en iyi açıklar?",
     "options": {
@@ -2146,7 +2146,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-001",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turizmi Teşvik Kanunu şıkta hangi numarayla görünürse doğru olur?",
     "options": {
@@ -2161,7 +2161,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-002",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Seyahat acentaları ve TÜRSAB denildiğinde akla gelen kanun numarası hangisidir?",
     "options": {
@@ -2176,7 +2176,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-003",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turist rehberliği, kokart ve ruhsatname kavramları hangi kanun numarasıyla ilişkilidir?",
     "options": {
@@ -2191,7 +2191,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-004",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Kültür varlığı, tabiat varlığı, sit alanı ve koruma kurulu kavramları hangi kanunun alanıdır?",
     "options": {
@@ -2206,7 +2206,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-005",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Konaklama işletmelerinde kalanların kimlik bilgilerinin bildirilmesi hangi kanunla ilgilidir?",
     "options": {
@@ -2221,7 +2221,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-006",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Pasaport türleri ve pasaport işlemleriyle ilgili temel kanun hangisidir?",
     "options": {
@@ -2236,7 +2236,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-007",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Paket tur sözleşmeleri ve tüketici hakları hangi kanunla ilişkilidir?",
     "options": {
@@ -2251,7 +2251,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-008",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turizm yatırım belgesi ve turizm işletme belgesi hangi kanunun anahtar kavramlarıdır?",
     "options": {
@@ -2266,7 +2266,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-009",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turizm merkezi ve turizm bölgesi kavramları en çok hangi kanunla ilgilidir?",
     "options": {
@@ -2281,7 +2281,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-010",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Acenta grupları, tur satışı ve TÜRSAB hangi kanunla ilgilidir?",
     "options": {
@@ -2296,7 +2296,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-011",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Rehber odası, TÜREB, kokart ve ruhsatname kavramları hangi alanla ilgilidir?",
     "options": {
@@ -2311,7 +2311,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-012",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Tarihî eserlerin korunması ve izinsiz müdahale aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -2326,7 +2326,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-013",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Otelde konaklayan kişinin kimlik kaydı hangi numara ile kodlanmalıdır?",
     "options": {
@@ -2341,7 +2341,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-014",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Şıkta 5682 sayısı görülüyorsa akla ilk gelmesi gereken kavram hangisidir?",
     "options": {
@@ -2356,7 +2356,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-015",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Şıkta 6502 sayısı görülüyorsa akla ilk gelmesi gereken kavram hangisidir?",
     "options": {
@@ -2371,7 +2371,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-016",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Şıkta 2634 sayısı görülüyorsa aşağıdakilerden hangisi en uygun anahtar kelimedir?",
     "options": {
@@ -2386,7 +2386,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-017",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Şıkta 1618 sayısı görülüyorsa aşağıdakilerden hangisi en uygun anahtar kelimedir?",
     "options": {
@@ -2401,7 +2401,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-018",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Şıkta 6326 sayısı görülüyorsa aşağıdakilerden hangisi en uygun anahtar kelimedir?",
     "options": {
@@ -2416,7 +2416,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-019",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Şıkta 2863 sayısı görülüyorsa aşağıdakilerden hangisi en uygun anahtar kelimedir?",
     "options": {
@@ -2431,7 +2431,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-020",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Şıkta 1774 sayısı görülüyorsa aşağıdakilerden hangisi en uygun anahtar kelimedir?",
     "options": {
@@ -2446,7 +2446,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-021",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
     "options": {
@@ -2461,7 +2461,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-022",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
     "options": {
@@ -2476,7 +2476,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-023",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turizm hukukunun doğrudan kaynaklarından biri aşağıdakilerden hangisidir?",
     "options": {
@@ -2491,7 +2491,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-024",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turizm hukukunun dolaylı kaynaklarından biri aşağıdakilerden hangisidir?",
     "options": {
@@ -2506,7 +2506,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-025",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 1",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdakilerden hangisi 2634 sayılı Kanun ile en doğrudan ilişkilidir?",
     "options": {
@@ -2521,7 +2521,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-026",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Seyahat acentalarının meslek kuruluşu aşağıdakilerden hangisidir?",
     "options": {
@@ -2536,7 +2536,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-027",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turist rehberlerinin meslek örgütlenmesi aşağıdakilerden hangisiyle ilgilidir?",
     "options": {
@@ -2551,7 +2551,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-028",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Tüm seyahat acentalığı hizmetlerini yapabilen acenta grubu hangisidir?",
     "options": {
@@ -2566,7 +2566,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-029",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Yalnız Türk vatandaşları için yurt içi turlar düzenleyebilen acenta grubu hangisidir?",
     "options": {
@@ -2581,7 +2581,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-030",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Ulaştırma araçlarının biletlerini ve A grubu acentaların düzenlediği turların biletlerini satabilen grup hangisidir?",
     "options": {
@@ -2596,7 +2596,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-031",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "A grubu acenta için en doğru ifade hangisidir?",
     "options": {
@@ -2611,7 +2611,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-032",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "B grubu acenta için en doğru ifade hangisidir?",
     "options": {
@@ -2626,7 +2626,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-033",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "C grubu acenta için en doğru ifade hangisidir?",
     "options": {
@@ -2641,7 +2641,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-034",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdakilerden hangisi seyahat acentasının faaliyetlerinden biri olabilir?",
     "options": {
@@ -2656,7 +2656,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-035",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Paket tur düzenleme ve turistik ürün satışı hangi alanla daha doğrudan ilgilidir?",
     "options": {
@@ -2671,7 +2671,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-036",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Ruhsatname ve kokart ifadeleri aşağıdaki kişilerden hangisiyle en doğrudan ilişkilidir?",
     "options": {
@@ -2686,7 +2686,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-037",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "6326 sayılı Kanun aşağıdakilerden hangisini düzenler?",
     "options": {
@@ -2701,7 +2701,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-038",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "1618 sayılı Kanun aşağıdakilerden hangisiyle ilgilidir?",
     "options": {
@@ -2716,7 +2716,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-039",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "TÜRSAB ile TÜREB ayrımında doğru ifade hangisidir?",
     "options": {
@@ -2731,7 +2731,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-040",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdakilerden hangisi turist rehberliğiyle doğrudan ilgili değildir?",
     "options": {
@@ -2746,7 +2746,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-041",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdakilerden hangisi seyahat acentalığıyla doğrudan ilgili değildir?",
     "options": {
@@ -2761,7 +2761,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-042",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Bir soru kökünde \"C grubu acenta\" geçiyorsa hangi ifade aranmalıdır?",
     "options": {
@@ -2776,7 +2776,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-043",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Bir soru kökünde \"B grubu acenta\" geçiyorsa hangi ifade aranmalıdır?",
     "options": {
@@ -2791,7 +2791,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-044",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Bir soru kökünde \"A grubu acenta\" geçiyorsa hangi ifade aranmalıdır?",
     "options": {
@@ -2806,7 +2806,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-046",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turist rehberliğiyle ilgili bir soru kökünde aşağıdakilerden hangisi çeldirici olabilir?",
     "options": {
@@ -2821,7 +2821,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-047",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Seyahat acentalarıyla ilgili bir soru kökünde aşağıdakilerden hangisi çeldirici olabilir?",
     "options": {
@@ -2836,7 +2836,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-048",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turist rehberliği mesleğinin kanun numarası sorulursa doğru cevap hangisidir?",
     "options": {
@@ -2851,7 +2851,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-049",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Seyahat acentaları kanun numarası sorulursa doğru cevap hangisidir?",
     "options": {
@@ -2866,7 +2866,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-050",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Acenta, TÜRSAB, A-B-C grupları birlikte verilirse hangi numara seçilmelidir?",
     "options": {
@@ -2881,7 +2881,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-051",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 2",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Sit alanına izinsiz müdahale edilmesi hangi kanunla ilişkilidir?",
     "options": {
@@ -2896,7 +2896,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-052",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Tarihî eserin yurt dışına kaçırılması hangi alanla en doğrudan ilgilidir?",
     "options": {
@@ -2911,7 +2911,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-053",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Koruma kurulu ifadesi şıkta hangi kanunla eşleşmelidir?",
     "options": {
@@ -2926,7 +2926,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-054",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Taşınır ve taşınmaz kültür varlıkları hangi numarayla kodlanmalıdır?",
     "options": {
@@ -2941,7 +2941,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-055",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Otel müşterisinin kimlik bilgilerinin kayda alınması hangi kanunla ilgilidir?",
     "options": {
@@ -2956,7 +2956,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-056",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Kimlik Bildirme Kanunu ile Pasaport Kanunu ayrımında doğru ifade hangisidir?",
     "options": {
@@ -2971,7 +2971,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-057",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Paket tur sözleşmesiyle ilgili tüketici hakkı soruluyorsa hangi numara seçilmelidir?",
     "options": {
@@ -2986,7 +2986,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-058",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Bir turistin paket tur sözleşmesinden doğan hakkı hangi mevzuat alanına yakındır?",
     "options": {
@@ -3001,7 +3001,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-059",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdakilerden hangisi 2863 sayılı Kanun için anahtar kelime değildir?",
     "options": {
@@ -3016,7 +3016,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-060",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdakilerden hangisi 1774 sayılı Kanun için anahtar kelimedir?",
     "options": {
@@ -3031,7 +3031,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-061",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdakilerden hangisi 5682 sayılı Kanun için anahtar kelimedir?",
     "options": {
@@ -3046,7 +3046,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-062",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdakilerden hangisi 6502 sayılı Kanun için anahtar kelimedir?",
     "options": {
@@ -3061,7 +3061,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-063",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turizm merkezlerinin ilanı, yatırım ve işletme belgeleri hangi anahtar grupla birlikte düşünülmelidir?",
     "options": {
@@ -3076,7 +3076,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-064",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Tarihî eser, sit alanı ve koruma kurulu hangi anahtar grupla birlikte düşünülmelidir?",
     "options": {
@@ -3091,7 +3091,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-065",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Otel, motel ve pansiyonlarda kalanların bilgileri sorulursa hangi anahtar kelime aranmalıdır?",
     "options": {
@@ -3106,7 +3106,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-066",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Pasaport türleri sorulduğunda aşağıdaki numaralardan hangisi seçilmelidir?",
     "options": {
@@ -3121,7 +3121,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-067",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Paket tur sözleşmesi sorusunda 1618 ve 6502 birlikte verilirse tüketici hakkı vurgusunda hangisi seçilir?",
     "options": {
@@ -3136,7 +3136,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-068",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Tur düzenleyen acenta vurgusu varsa hangi kanun öne çıkar?",
     "options": {
@@ -3151,7 +3151,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-069",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Turizmi geliştirmek ve sektörün teşvik edilmesini sağlamak hangi kanunun genel amacına daha yakındır?",
     "options": {
@@ -3166,7 +3166,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-070",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdaki ifadelerden hangisi 2634 ile karıştırılmamalıdır?",
     "options": {
@@ -3181,7 +3181,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-071",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdaki ifadelerden hangisi 1618 ile karıştırılmamalıdır?",
     "options": {
@@ -3196,7 +3196,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-072",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdaki ifadelerden hangisi 6326 ile karıştırılmamalıdır?",
     "options": {
@@ -3211,7 +3211,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-073",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdaki ifadelerden hangisi 2863 ile karıştırılmamalıdır?",
     "options": {
@@ -3226,7 +3226,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-074",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Aşağıdaki eşleştirmelerden hangisi doğru değildir?",
     "options": {
@@ -3241,7 +3241,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "MEV-075",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
+    "category": "Turizm Mevzuatı Temel Kanunlar - Test 3",
     "topic": "Turizm Mevzuatı Temel Kanunlar",
     "question": "Temel mevzuat kodlamasında \"teşvik - acenta - rehber - eser - kimlik - pasaport - tüketici\" sıralaması hangi numaralarla eşleşir?",
     "options": {
@@ -3256,7 +3256,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-001",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Türkiye'nin turizm potansiyelinin yüksek olmasında aşağıdakilerden hangisi etkili değildir?",
     "options": {
@@ -3271,7 +3271,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-002",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Deniz-kum-güneş turizminin Türkiye'de en çok geliştiği bölgeler aşağıdakilerden hangisidir?",
     "options": {
@@ -3286,7 +3286,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-003",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Yat turizmi aşağıdaki kavramlardan hangisiyle en yakından ilişkilidir?",
     "options": {
@@ -3301,7 +3301,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-004",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Kruvaziyer turizmini yat turizminden ayıran temel özellik aşağıdakilerden hangisidir?",
     "options": {
@@ -3316,7 +3316,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-005",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Aşağıdakilerden hangisi Türkiye'de yat turizmiyle en çok ilişkilendirilen merkezlerden biridir?",
     "options": {
@@ -3331,7 +3331,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-006",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Türkiye'de kruvaziyer turizmi açısından önemli merkezlerden biri aşağıdakilerden hangisidir?",
     "options": {
@@ -3346,7 +3346,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-007",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Yayla turizmi Türkiye'de en çok hangi bölgeyle ilişkilidir?",
     "options": {
@@ -3361,7 +3361,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-008",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Ayder Yaylası hangi ilimizle ilişkilidir?",
     "options": {
@@ -3376,7 +3376,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-009",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Aşağıdakilerden hangisi kış turizmi merkezidir?",
     "options": {
@@ -3391,7 +3391,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-010",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Erciyes kayak merkezi hangi ilimizle ilişkilidir?",
     "options": {
@@ -3406,7 +3406,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-011",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Termal turizm aşağıdakilerden hangisiyle en yakından ilişkilidir?",
     "options": {
@@ -3421,7 +3421,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-012",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Pamukkale ve Karahayıt aşağıdaki turizm türlerinden hangisiyle özellikle ilişkilidir?",
     "options": {
@@ -3436,7 +3436,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-013",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Meryem Ana Evi hangi turizm türüyle en çok ilişkilidir?",
     "options": {
@@ -3451,7 +3451,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-014",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "St. Pierre Kilisesi hangi ilimizle ilişkilidir?",
     "options": {
@@ -3466,7 +3466,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-015",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Mevlana Türbesi hangi ilimizde yer alır?",
     "options": {
@@ -3481,7 +3481,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-016",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Aşağıdakilerden hangisi kültür turizmi kapsamında değerlendirilebilecek bir merkezdir?",
     "options": {
@@ -3496,7 +3496,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-017",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Hattuşa antik kenti hangi ilimizle ilişkilidir?",
     "options": {
@@ -3511,7 +3511,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-018",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Göbeklitepe hangi ilimizde yer alır?",
     "options": {
@@ -3526,7 +3526,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-019",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Safranbolu hangi ilimizle ilişkilidir?",
     "options": {
@@ -3541,7 +3541,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-020",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Ekoturizm aşağıdakilerden hangisiyle en yakından ilişkilidir?",
     "options": {
@@ -3556,7 +3556,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-021",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Aşağıdakilerden hangisi ekoturizm/doğa turizmi merkezleri arasında sayılabilir?",
     "options": {
@@ -3571,7 +3571,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-022",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Akdeniz Bölgesi turizm açısından en çok aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -3586,7 +3586,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-023",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Karadeniz Bölgesi turizm açısından en çok aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -3601,7 +3601,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-024",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Güneydoğu Anadolu Bölgesi turizm açısından en çok aşağıdakilerden hangisiyle ilişkilendirilebilir?",
     "options": {
@@ -3616,7 +3616,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-025",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Temel Mantık",
     "question": "Kültür turizmi = antik kent + müze + tarihî eser + UNESCO eşleştirmesine aşağıdakilerden hangisi en uygun örnektir?",
     "options": {
@@ -3631,7 +3631,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-027",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Uzungöl hangi ilimizle ilişkilidir?",
     "options": {
@@ -3646,7 +3646,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-028",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Kafkasör Yaylası hangi ilimizle ilişkilidir?",
     "options": {
@@ -3661,7 +3661,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-029",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 1",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Perşembe Yaylası hangi ilimizle ilişkilidir?",
     "options": {
@@ -3676,7 +3676,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-030",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Palandöken kayak merkezi hangi ilimizdedir?",
     "options": {
@@ -3691,7 +3691,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-031",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Erciyes kayak merkezi hangi ilimizdedir?",
     "options": {
@@ -3706,7 +3706,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-032",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Uludağ kayak merkezi hangi ilimizle ilişkilidir?",
     "options": {
@@ -3721,7 +3721,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-033",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Kartalkaya kayak merkezi hangi ilimizle ilişkilidir?",
     "options": {
@@ -3736,7 +3736,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-034",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Sarıkamış kayak merkezi hangi ilimizdedir?",
     "options": {
@@ -3751,7 +3751,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-035",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Pamukkale ve Karahayıt hangi ilimizle ilişkilidir?",
     "options": {
@@ -3766,7 +3766,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-036",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Kızılcahamam termal turizm merkezi hangi ilimizdedir?",
     "options": {
@@ -3781,7 +3781,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-037",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Gönen kaplıcaları hangi ilimizle ilişkilidir?",
     "options": {
@@ -3796,7 +3796,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-038",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Kozaklı termal turizm merkezi hangi ilimizdedir?",
     "options": {
@@ -3811,7 +3811,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-039",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Meryem Ana Evi hangi ilimizle ilişkilidir?",
     "options": {
@@ -3826,7 +3826,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-040",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "St. Pierre Kilisesi hangi ilimizdedir?",
     "options": {
@@ -3841,7 +3841,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-041",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Sümela Manastırı hangi ilimizle ilişkilidir?",
     "options": {
@@ -3856,7 +3856,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-042",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Akdamar Kilisesi hangi ilimizdedir?",
     "options": {
@@ -3871,7 +3871,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-043",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "St. Nicholas Kilisesi hangi ilimizle ilişkilidir?",
     "options": {
@@ -3886,7 +3886,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-044",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Efes Antik Kenti hangi ilimizle ilişkilidir?",
     "options": {
@@ -3901,7 +3901,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-045",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Troya Antik Kenti hangi ilimizdedir?",
     "options": {
@@ -3916,7 +3916,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-046",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Hattuşa hangi ilimizle ilişkilidir?",
     "options": {
@@ -3931,7 +3931,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-047",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Nemrut Dağı hangi ilimizle ilişkilidir?",
     "options": {
@@ -3946,7 +3946,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-048",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Ani Harabeleri hangi ilimizdedir?",
     "options": {
@@ -3961,7 +3961,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-049",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
     "question": "Göbeklitepe hangi ilimizdedir?",
     "options": {
@@ -3976,7 +3976,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-052",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
     "question": "Uzungöl aşağıdaki illerden hangisinde yer alır?",
     "options": {
@@ -3991,7 +3991,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-056",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
     "question": "Palandöken kayak merkezi hangi ilimizle ilişkilidir?",
     "options": {
@@ -4006,7 +4006,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-059",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
     "question": "Kızılcahamam termal turizm merkezi hangi ilimizle ilişkilidir?",
     "options": {
@@ -4021,7 +4021,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-060",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
     "question": "Pamukkale ve Karahayıt aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -4036,7 +4036,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-066",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
     "question": "Efes Antik Kenti aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -4051,7 +4051,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-073",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
     "question": "Aşağıdakilerden hangisi doğru eşleştirilmiştir?",
     "options": {
@@ -4066,7 +4066,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-074",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
     "question": "Aşağıdakilerden hangisi yanlış eşleştirilmiştir?",
     "options": {
@@ -4081,7 +4081,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TTC-077",
-    "category": "Türkiye Turizm Coğrafyası",
+    "category": "Türkiye Turizm Coğrafyası - Test 2",
     "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
     "question": "Uzungöl hangi ilimizde yer alır?",
     "options": {
@@ -4096,7 +4096,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-001",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Ayasofya aşağıdakilerden hangisiyle en doğru şekilde ilişkilendirilir?",
     "options": {
@@ -4111,7 +4111,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-002",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Yerebatan Sarnıcı için aşağıdakilerden hangisi doğrudur?",
     "options": {
@@ -4126,7 +4126,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-003",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Kariye aşağıdaki özelliklerden hangisiyle öne çıkar?",
     "options": {
@@ -4141,7 +4141,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-004",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi Bizans dönemiyle doğrudan ilişkilidir?",
     "options": {
@@ -4156,7 +4156,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-005",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Ayasofya - Yerebatan Sarnıcı - Kariye” yapılarının ortak özelliği aşağıdakilerden hangisidir?",
     "options": {
@@ -4171,7 +4171,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-006",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi İstanbul’daki Bizans mirasıyla ilişkilendirilemez?",
     "options": {
@@ -4186,7 +4186,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-007",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Ayasofya’nın Bizans dönemindeki inşası en çok hangi hükümdarla ilişkilendirilir?",
     "options": {
@@ -4201,7 +4201,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-008",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Theodosius Surları olarak da bilinen yapı grubu aşağıdakilerden hangisidir?",
     "options": {
@@ -4216,7 +4216,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-011",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi Ayasofya için ayırt edici bir ifadedir?",
     "options": {
@@ -4231,7 +4231,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-012",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Bizans dönemi mozaik ve freskleri denildiğinde İstanbul’da akla gelen yapı aşağıdakilerden hangisidir?",
     "options": {
@@ -4246,7 +4246,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-013",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi Bizans su mimarisiyle ilişkilidir?",
     "options": {
@@ -4261,7 +4261,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-014",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdaki yapı-dönem eşleştirmelerinden hangisi doğrudur?",
     "options": {
@@ -4276,7 +4276,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-015",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi “İstanbul - Bizans - mozaik/fresk” ipucuna en uygun cevaptır?",
     "options": {
@@ -4291,7 +4291,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-016",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Topkapı Sarayı aşağıdaki padişahlardan hangisinin dönemiyle başlatılır?",
     "options": {
@@ -4306,7 +4306,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-017",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Dolmabahçe Sarayı aşağıdakilerden hangisiyle en doğru ilişkilidir?",
     "options": {
@@ -4321,7 +4321,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-018",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Yıldız Sarayı en çok hangi padişahla ilişkilendirilir?",
     "options": {
@@ -4336,7 +4336,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-019",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Beylerbeyi Sarayı aşağıdaki padişahlardan hangisiyle ilişkilidir?",
     "options": {
@@ -4351,7 +4351,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-020",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Mimar Sinan’ın ustalık eseri olarak bilinen yapı aşağıdakilerden hangisidir?",
     "options": {
@@ -4366,7 +4366,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-021",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Mimar Sinan’ın kalfalık eseri olarak bilinen yapı aşağıdakilerden hangisidir?",
     "options": {
@@ -4381,7 +4381,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-022",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Mimar Sinan’ın çıraklık eseri olarak bilinen yapı aşağıdakilerden hangisidir?",
     "options": {
@@ -4396,7 +4396,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-023",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Çıraklık - kalfalık - ustalık” sıralaması aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": {
@@ -4411,7 +4411,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-024",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Sultanahmet Camii aşağıdaki kişi eşleştirmelerinden hangisiyle doğrudur?",
     "options": {
@@ -4426,7 +4426,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-025",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Rüstem Paşa Camii aşağıdaki özelliklerden hangisiyle öne çıkar?",
     "options": {
@@ -4441,7 +4441,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-026",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Selimiye Camii için aşağıdakilerden hangisi doğrudur?",
     "options": {
@@ -4456,7 +4456,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-027",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Süleymaniye Camii aşağıdakilerden hangisiyle doğru eşleştirilmiştir?",
     "options": {
@@ -4471,7 +4471,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-028",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi Mimar Sinan’ın eserleri arasında yer almaz?",
     "options": {
@@ -4486,7 +4486,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-029",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Bursa Ulu Camii hangi padişahla ilişkilidir?",
     "options": {
@@ -4501,7 +4501,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-030",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Yeşil Türbe ve Yeşil Camii hangi şehirle ilişkilidir?",
     "options": {
@@ -4516,7 +4516,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-031",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Cumalıkızık aşağıdakilerden hangisiyle en doğru ilişkilendirilir?",
     "options": {
@@ -4531,7 +4531,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-033",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdaki yapılardan hangisi erken Osmanlı dönemiyle ilişkilendirilebilir?",
     "options": {
@@ -4546,7 +4546,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-034",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Dolmabahçe, Beylerbeyi ve Yıldız sarayları en çok hangi genel dönem/üslup bağlamında ele alınır?",
     "options": {
@@ -4561,7 +4561,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-036",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Divriği Ulu Camii ve Darüşşifası aşağıdakilerden hangisiyle en doğru ilişkilendirilir?",
     "options": {
@@ -4576,7 +4576,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-037",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Sivas - Mengücekli - UNESCO - taş işçiliği” eşleştirmesi hangi yapıya aittir?",
     "options": {
@@ -4591,7 +4591,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-038",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "İnce Minareli Medrese hangi şehir ve dönemle ilişkilidir?",
     "options": {
@@ -4606,7 +4606,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-039",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 1",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Karatay Medresesi aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4621,7 +4621,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-040",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Sivas Gök Medrese hangi dönemle ilişkilidir?",
     "options": {
@@ -4636,7 +4636,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-041",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Erzurum Çifte Minareli Medrese aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4651,7 +4651,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-042",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Yakutiye Medresesi hangi şehirle ilişkilidir?",
     "options": {
@@ -4666,7 +4666,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-043",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Sultanhanı aşağıdaki şehir ve yapı türlerinden hangisiyle ilişkilidir?",
     "options": {
@@ -4681,7 +4681,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-044",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Alanya Kalesi ve Kızıl Kule aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4696,7 +4696,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-046",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi Anadolu Selçuklu kervansaray mimarisiyle ilişkilidir?",
     "options": {
@@ -4711,7 +4711,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-047",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Konya - Selçuklu - taç kapı/taş süsleme” ipucuna en uygun eser aşağıdakilerden hangisidir?",
     "options": {
@@ -4726,7 +4726,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-048",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi medrese mimarisiyle değil, kervansaray mimarisiyle ilişkilidir?",
     "options": {
@@ -4741,7 +4741,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-049",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Divriği Ulu Camii ve Darüşşifası’nın ayırt edici özelliği aşağıdakilerden hangisidir?",
     "options": {
@@ -4756,7 +4756,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-051",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Hattuşa aşağıdaki uygarlıklardan hangisinin başkentidir?",
     "options": {
@@ -4771,7 +4771,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-052",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Gordion aşağıdakilerden hangisiyle doğru eşleştirilmiştir?",
     "options": {
@@ -4786,7 +4786,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-053",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Sardes aşağıdakilerden hangisiyle en doğru ilişkilendirilir?",
     "options": {
@@ -4801,7 +4801,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-054",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Nemrut Dağı aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4816,7 +4816,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-055",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Zeugma aşağıdaki özelliklerden hangisiyle öne çıkar?",
     "options": {
@@ -4831,7 +4831,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-056",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aphrodisias aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4846,7 +4846,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-057",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Didyma aşağıdaki özelliklerden hangisiyle bilinir?",
     "options": {
@@ -4861,7 +4861,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-058",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aizanoi aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4876,7 +4876,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-059",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Sagalassos aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4891,7 +4891,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-060",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Patara aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4906,7 +4906,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-061",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Xanthos-Letoon aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4921,7 +4921,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-062",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Efes için aşağıdakilerden hangisi doğrudur?",
     "options": {
@@ -4936,7 +4936,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-063",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Bergama/Pergamon aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4951,7 +4951,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-064",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Troya aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4966,7 +4966,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-065",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Göbeklitepe aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4981,7 +4981,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-066",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 2",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Çatalhöyük aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -4996,7 +4996,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-067",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aslantepe Höyüğü aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -5011,7 +5011,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-068",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Ani Harabeleri için aşağıdakilerden hangisi doğrudur?",
     "options": {
@@ -5026,7 +5026,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-071",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Lidya - para - Manisa” eşleştirmesi aşağıdakilerden hangisini ifade eder?",
     "options": {
@@ -5041,7 +5041,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-072",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Frig - Midas - Ankara” eşleştirmesi aşağıdakilerden hangisini ifade eder?",
     "options": {
@@ -5056,7 +5056,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-073",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Kommagene - Adıyaman - dev heykeller” eşleştirmesi aşağıdakilerden hangisine aittir?",
     "options": {
@@ -5071,7 +5071,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-074",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Roma - Gaziantep - mozaik” eşleştirmesi aşağıdakilerden hangisine aittir?",
     "options": {
@@ -5086,7 +5086,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-076",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Meryem Ana Evi aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -5101,7 +5101,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-077",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "St. Pierre Kilisesi aşağıdakilerden hangisiyle doğru eşleştirilmiştir?",
     "options": {
@@ -5116,7 +5116,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-078",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "St. Nicholas Kilisesi aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -5131,7 +5131,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-079",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Akdamar Kilisesi aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -5146,7 +5146,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-080",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Sümela Manastırı aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -5161,7 +5161,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-081",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Mevlana Türbesi aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -5176,7 +5176,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-082",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Eyüp Sultan aşağıdaki şehirlerden hangisiyle ilişkilidir?",
     "options": {
@@ -5191,7 +5191,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-084",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Van Gölü’ndeki ada üzerinde yer alan kilise” aşağıdakilerden hangisidir?",
     "options": {
@@ -5206,7 +5206,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-085",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Sarp kayalık üzerine kurulmuş Ortodoks manastırı” aşağıdakilerden hangisidir?",
     "options": {
@@ -5221,7 +5221,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-086",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Noel Baba olarak bilinen Aziz Nikolaos” ile ilişkilendirilen yapı aşağıdakilerden hangisidir?",
     "options": {
@@ -5236,7 +5236,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-087",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi Hatay ile ilişkilidir?",
     "options": {
@@ -5251,7 +5251,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-088",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi Antalya/Demre ile ilişkilidir?",
     "options": {
@@ -5266,7 +5266,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-089",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi İzmir/Selçuk ile ilişkilidir?",
     "options": {
@@ -5281,7 +5281,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-090",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdaki inanç merkezi - il eşleştirmelerinden hangisi doğrudur?",
     "options": {
@@ -5296,7 +5296,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-096",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "Aşağıdakilerden hangisi “Mimar Sinan - ustalık eseri” eşleştirmesine karşılık gelir?",
     "options": {
@@ -5311,7 +5311,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-097",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Midas Tümülüsü” ifadesi en çok hangi merkezle ilişkilendirilir?",
     "options": {
@@ -5326,7 +5326,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-098",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Celsus Kütüphanesi” ifadesi en çok hangi antik kentle ilişkilidir?",
     "options": {
@@ -5341,7 +5341,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-099",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“Asklepion” ifadesi aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -5356,7 +5356,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TYD-100",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
+    "category": "Tarihî Yapılar / Destinasyon Kimliği - Test 3",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
     "question": "“1001 kilise şehri” olarak bilinen yer aşağıdakilerden hangisidir?",
     "options": {
@@ -5371,7 +5371,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-001",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Tarih öncesi çağların ayrımında temel ölçüt aşağıdakilerden hangisidir?",
     "options": {
@@ -5386,7 +5386,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-002",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Tarih öncesi dönemlere ait bilgiler en çok hangi kaynaklardan elde edilir?",
     "options": {
@@ -5401,7 +5401,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-003",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Tarih öncesi çağlarda toplumlar arası dönem farklılıklarının görülmesinin temel nedeni aşağıdakilerden hangisidir?",
     "options": {
@@ -5416,7 +5416,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-004",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi tarih öncesi çağların araştırılmasında doğrudan kullanılabilecek bir buluntudur?",
     "options": {
@@ -5431,7 +5431,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-005",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Tarih öncesi dönemlerin sıralaması aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": {
@@ -5446,7 +5446,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-006",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Paleolitik Çağ için aşağıdakilerden hangisi doğrudur?",
     "options": {
@@ -5461,7 +5461,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-007",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Paleolitik Çağ insanlarının barınma alanları genellikle aşağıdakilerden hangisidir?",
     "options": {
@@ -5476,7 +5476,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-008",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Paleolitik Çağ için aşağıdakilerden hangisi yanlıştır?",
     "options": {
@@ -5491,7 +5491,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-009",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Anadolu'da Paleolitik Çağ denince akla gelen Antalya yerleşmesi aşağıdakilerden hangisidir?",
     "options": {
@@ -5506,7 +5506,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-010",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Yarımburgaz Mağarası aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -5521,7 +5521,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-011",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Üçağızlı Mağarası aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -5536,7 +5536,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-012",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Dursunlu yerleşmesi aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -5551,7 +5551,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-013",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Paleolitik Çağ'da yaşam biçimi için en uygun ifade aşağıdakilerden hangisidir?",
     "options": {
@@ -5566,7 +5566,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-014",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Paleolitik merkezleri arasında gösterilemez?",
     "options": {
@@ -5581,7 +5581,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-015",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Öküzini Mağarası aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -5596,7 +5596,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-016",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Mezolitik Çağ'ın en ayırt edici buluntularından biri aşağıdakilerden hangisidir?",
     "options": {
@@ -5611,7 +5611,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-017",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Mezolitik Çağ hangi iki dönem arasında geçiş özelliği gösterir?",
     "options": {
@@ -5626,7 +5626,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-018",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Beldibi ve Belbaşı mağaraları aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -5641,7 +5641,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-019",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Mezolitik Çağ için aşağıdakilerden hangisi doğrudur?",
     "options": {
@@ -5656,7 +5656,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-020",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Mezolitik Çağ ile en çok ilişkilidir?",
     "options": {
@@ -5671,7 +5671,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-021",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Neolitik Çağ'ın en temel özelliği aşağıdakilerden hangisidir?",
     "options": {
@@ -5686,7 +5686,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-022",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Neolitik Çağ'da üretici yaşamın başlaması aşağıdakilerden hangisiyle ilişkilidir?",
     "options": {
@@ -5701,7 +5701,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-023",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Göbeklitepe aşağıdakilerden hangisiyle doğru eşleştirilmiştir?",
     "options": {
@@ -5716,7 +5716,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-024",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Çatalhöyük aşağıdakilerden hangisiyle doğru eşleştirilmiştir?",
     "options": {
@@ -5731,7 +5731,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-025",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Çayönü aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -5746,7 +5746,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-026",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşıklı Höyük aşağıdaki illerden hangisindedir?",
     "options": {
@@ -5761,7 +5761,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-027",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Hacılar Höyüğü aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -5776,7 +5776,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-028",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Canhasan Höyüğü aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -5791,7 +5791,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-029",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Çatalhöyük'ü ayırt ettiren özelliklerden biri aşağıdakilerden hangisidir?",
     "options": {
@@ -5806,7 +5806,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-030",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Göbeklitepe'nin sınavlarda en çok vurgulanan yönü aşağıdakilerden hangisidir?",
     "options": {
@@ -5821,7 +5821,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-031",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Çayönü için aşağıdakilerden hangisi söylenebilir?",
     "options": {
@@ -5836,7 +5836,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-032",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşıklı Höyük için doğru eşleştirme aşağıdakilerden hangisidir?",
     "options": {
@@ -5851,7 +5851,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-033",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Hacılar Höyüğü aşağıdaki dönemlerden hangileriyle ilişkilendirilir?",
     "options": {
@@ -5866,7 +5866,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-034",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Neolitik Çağ için aşağıdakilerden hangisi yanlıştır?",
     "options": {
@@ -5881,7 +5881,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-035",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 1",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Neolitik dönemden itibaren ortaya çıkan değişimlerden biri aşağıdakilerden hangisidir?",
     "options": {
@@ -5896,7 +5896,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-036",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Kalkolitik Çağ için en doğru ifade aşağıdakilerden hangisidir?",
     "options": {
@@ -5911,7 +5911,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-037",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Kalkolitik Çağ aşağıdakilerden hangisiyle de adlandırılır?",
     "options": {
@@ -5926,7 +5926,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-038",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Kalkolitik Çağ ile ilişkilendirilebilir?",
     "options": {
@@ -5941,7 +5941,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-039",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Beycesultan yerleşmesi aşağıdaki illerden hangisiyle ilişkilidir?",
     "options": {
@@ -5956,7 +5956,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-040",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Kalkolitik Çağ'da aşağıdakilerden hangisinin görülmesi beklenir?",
     "options": {
@@ -5971,7 +5971,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-041",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Tunç Çağı'nda kullanılan tunç hangi iki madenin karışımıdır?",
     "options": {
@@ -5986,7 +5986,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-042",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Tunç Çağı'nda aşağıdakilerden hangisi daha belirgin hâle gelmiştir?",
     "options": {
@@ -6001,7 +6001,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-043",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Tunç Çağı ile ilişkilendirilebilecek merkezlerdendir?",
     "options": {
@@ -6016,7 +6016,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-044",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Kültepe / Kaniş-Karum aşağıdakilerden hangisiyle doğru eşleştirilmiştir?",
     "options": {
@@ -6031,7 +6031,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-045",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Alacahöyük aşağıdakilerden hangisiyle en çok ilişkilidir?",
     "options": {
@@ -6046,7 +6046,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-046",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aslantepe Höyüğü hangi ilimizle ilişkilidir?",
     "options": {
@@ -6061,7 +6061,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-047",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aslantepe Höyüğü'nün öne çıkan özelliği aşağıdakilerden hangisidir?",
     "options": {
@@ -6076,7 +6076,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-048",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Kültepe'nin sınavlarda öne çıkan yönü aşağıdakilerden hangisidir?",
     "options": {
@@ -6091,7 +6091,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-049",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Karum kavramı en çok hangi merkezle ilişkilidir?",
     "options": {
@@ -6106,7 +6106,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-053",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Neolitik dönem yerleşmelerindendir?",
     "options": {
@@ -6121,7 +6121,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-054",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Paleolitik dönemle ilişkilidir?",
     "options": {
@@ -6136,7 +6136,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-055",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Mezolitik dönemle ilişkilidir?",
     "options": {
@@ -6151,7 +6151,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-056",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Tarih öncesi çağların sona ermesinde belirleyici kabul edilen gelişme aşağıdakilerden hangisidir?",
     "options": {
@@ -6166,7 +6166,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-057",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Anadolu'da tarih çağlarına geçişi hızlandıran gelişmelerden biri aşağıdakilerden hangisidir?",
     "options": {
@@ -6181,7 +6181,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-058",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi üretici yaşama geçişle en çok ilişkilidir?",
     "options": {
@@ -6196,7 +6196,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-059",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi avcı-toplayıcı yaşamla en çok ilişkilidir?",
     "options": {
@@ -6211,7 +6211,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-060",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi bakır kullanımının başladığı dönemle ilişkilidir?",
     "options": {
@@ -6226,7 +6226,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-061",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi bakır ve kalayın karışımıyla elde edilen madene adını veren dönemdir?",
     "options": {
@@ -6241,7 +6241,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-062",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi yerleşik yaşam ve tarımın başlangıcına en yakın dönemdir?",
     "options": {
@@ -6256,7 +6256,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-063",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “mağara yaşamı ve kaba taş aletler” ifadesiyle en çok ilişkilidir?",
     "options": {
@@ -6271,7 +6271,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-064",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “geçiş dönemi ve küçük taş aletler” ifadesiyle en çok ilişkilidir?",
     "options": {
@@ -6286,7 +6286,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-065",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “köy yerleşmeleri ve üretici yaşam” ifadesiyle en çok ilişkilidir?",
     "options": {
@@ -6301,7 +6301,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-066",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “gelişmiş köy yaşamı ve bakır kullanımı” ifadesiyle en çok ilişkilidir?",
     "options": {
@@ -6316,7 +6316,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-067",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “kentleşme ve ticaretin gelişmesi” ifadesiyle en çok ilişkilidir?",
     "options": {
@@ -6331,7 +6331,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-068",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 2",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Karain Mağarası'nın bulunduğu ildir?",
     "options": {
@@ -6346,7 +6346,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-069",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Yarımburgaz Mağarası'nın bulunduğu ildir?",
     "options": {
@@ -6361,7 +6361,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-070",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Göbeklitepe'nin bulunduğu ildir?",
     "options": {
@@ -6376,7 +6376,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-071",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Çatalhöyük'ün bulunduğu ildir?",
     "options": {
@@ -6391,7 +6391,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-072",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Çayönü'nün bulunduğu ildir?",
     "options": {
@@ -6406,7 +6406,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-073",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Aşıklı Höyük'ün bulunduğu ildir?",
     "options": {
@@ -6421,7 +6421,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-074",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Hacılar Höyüğü'nün bulunduğu ildir?",
     "options": {
@@ -6436,7 +6436,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-075",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Canhasan Höyüğü'nün bulunduğu ildir?",
     "options": {
@@ -6451,7 +6451,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-076",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Kültepe'nin bulunduğu ildir?",
     "options": {
@@ -6466,7 +6466,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-077",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Aslantepe'nin bulunduğu ildir?",
     "options": {
@@ -6481,7 +6481,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-078",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Paleolitik merkezleri arasında yer alır?",
     "options": {
@@ -6496,7 +6496,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-079",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Neolitik merkezleri arasında yer alır?",
     "options": {
@@ -6511,7 +6511,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-080",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Asur ticaret kolonileriyle ilişkilidir?",
     "options": {
@@ -6526,7 +6526,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-081",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “Hitit ve Eski Tunç buluntuları” ifadesiyle ilişkilidir?",
     "options": {
@@ -6541,7 +6541,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-082",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi erken devletleşme ve saray yapısıyla ilişkilidir?",
     "options": {
@@ -6556,7 +6556,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-083",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Neolitik dönemin toplumsal sonucudur?",
     "options": {
@@ -6571,7 +6571,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-084",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Paleolitik Çağ için doğru değildir?",
     "options": {
@@ -6586,7 +6586,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-085",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Neolitik Çağ için doğru değildir?",
     "options": {
@@ -6601,7 +6601,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-086",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Kalkolitik Çağ için doğrudur?",
     "options": {
@@ -6616,7 +6616,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-087",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Tunç Çağı için doğrudur?",
     "options": {
@@ -6631,7 +6631,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-088",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi doğru sıralamadır?",
     "options": {
@@ -6646,7 +6646,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-091",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Göbeklitepe ile Çatalhöyük arasındaki farkı en doğru verir?",
     "options": {
@@ -6661,7 +6661,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-092",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “Karain - Yarımburgaz - Üçağızlı” ortak özelliğini doğru verir?",
     "options": {
@@ -6676,7 +6676,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-093",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “Göbeklitepe - Çatalhöyük - Çayönü - Aşıklı” ortak özelliğini doğru verir?",
     "options": {
@@ -6691,7 +6691,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-094",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “Hacılar - Canhasan - Beycesultan” için daha uygundur?",
     "options": {
@@ -6706,7 +6706,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-095",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi “Kültepe - Alacahöyük - Aslantepe” için daha uygundur?",
     "options": {
@@ -6721,7 +6721,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-096",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Tarih öncesi çağlarla ilgili aşağıdakilerden hangisi doğrudur?",
     "options": {
@@ -6736,7 +6736,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-097",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Tarih öncesi çağların kronolojik incelenmesinde aşağıdakilerden hangisi dikkate alınır?",
     "options": {
@@ -6751,7 +6751,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-098",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Anadolu'da Neolitik dönem merkezlerinden biri olan Çatalhöyük'ün ayırt edici özelliği aşağıdakilerden hangisidir?",
     "options": {
@@ -6766,7 +6766,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-099",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi Kültepe'yi Göbeklitepe'den ayıran temel özelliktir?",
     "options": {
@@ -6781,7 +6781,7 @@ window.MKS_QUESTIONS = [
   },
   {
     "id": "TON-100",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
+    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler - Test 3",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "question": "Aşağıdakilerden hangisi yanlış verilmiştir?",
     "options": {
