@@ -6795,55 +6795,10 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap E: Aslantepe - Antalya. Bu soru Tarih Öncesi Çağlar / İlk Yerleşimler başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "MKS-ANTIK-V2-001",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Xanthos-Letoon aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Likya. Xanthos-Letoon UNESCO alanıdır; Likya’nın en kritik eşleştirmesidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-002",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Patara aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Pamfilya",
-      "B": "Likya",
-      "C": "Pisidia",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Likya. Patara Likya Birliği Meclisi ve Aziz Nikolaos’un doğum yeri kabul edilmesiyle önemlidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-003",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Myra/Demre aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Pamfilya",
-      "B": "Pisidia",
-      "C": "Likya",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Likya. Myra/Demre kaya mezarları ve St. Nicholas bağlantısıyla bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-004",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Tlos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-001",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Likya",
+    "question": "Xanthos-Letoon antik alanı en çok hangi antik bölgeyle ilişkilidir?",
     "options": {
       "A": "Pamfilya",
       "B": "Pisidia",
@@ -6852,58 +6807,13 @@ window.MKS_QUESTIONS = [
       "E": "İyonya"
     },
     "answer": "D",
-    "explanation": "Doğru cevap D: Likya. Tlos Likya kentleri arasında yer alır."
+    "explanation": "Doğru cevap D: Likya. Xanthos-Letoon, Likya uygarlığının UNESCO kapsamındaki en güçlü eşleştirmelerindendir."
   },
   {
-    "id": "MKS-ANTIK-V2-005",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Olympos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Pamfilya",
-      "B": "Pisidia",
-      "C": "Karya",
-      "D": "İyonya",
-      "E": "Likya"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Likya. Olympos Antalya/Kumluca çevresinde Likya kıyı kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-006",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Phaselis aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Likya. Phaselis Antalya/Kemer çevresinde Likya liman kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-007",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Perge aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Pamfilya. Perge Antalya/Aksu çevresinde Pamfilya kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-008",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Aspendos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-002",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Pamfilya",
+    "question": "Perge, Aspendos ve Side birlikte düşünüldüğünde hangi antik bölge akla gelir?",
     "options": {
       "A": "Likya",
       "B": "Pisidia",
@@ -6912,133 +6822,28 @@ window.MKS_QUESTIONS = [
       "E": "İyonya"
     },
     "answer": "C",
-    "explanation": "Doğru cevap C: Pamfilya. Aspendos Pamfilya’da, iyi korunmuş Roma tiyatrosuyla bilinir."
+    "explanation": "Doğru cevap C: Pamfilya. Perge-Aspendos-Side, Antalya orta/doğu kıyısındaki Pamfilya hattıdır."
   },
   {
-    "id": "MKS-ANTIK-V2-009",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Side aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-003",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Pisidia",
+    "question": "Sagalassos Antik Kenti hangi antik bölgenin önemli merkezlerinden biridir?",
     "options": {
       "A": "Likya",
-      "B": "Pisidia",
-      "C": "Karya",
-      "D": "Pamfilya",
-      "E": "İyonya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Pamfilya. Side Pamfilya’da liman kenti ve Apollon Tapınağı ile bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-010",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Attaleia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pisidia",
+      "B": "Pamfilya",
       "C": "Karya",
       "D": "İyonya",
-      "E": "Pamfilya"
+      "E": "Pisidia"
     },
     "answer": "E",
-    "explanation": "Doğru cevap E: Pamfilya. Attaleia Antalya’nın antik adıdır."
+    "explanation": "Doğru cevap E: Pisidia. Sagalassos, Burdur/Ağlasun çevresinde Pisidia kenti olarak sorulur."
   },
   {
-    "id": "MKS-ANTIK-V2-011",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Sagalassos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Pisidia",
-      "B": "Likya",
-      "C": "Pamfilya",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Pisidia. Sagalassos Burdur/Ağlasun çevresinde Pisidia kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-012",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Pisidia Antiocheia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pisidia",
-      "C": "Pamfilya",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Pisidia. Pisidia Antiocheia Isparta/Yalvaç çevresindedir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-013",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Halikarnassos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Karya",
-      "D": "Pisidia",
-      "E": "İyonya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Karya. Halikarnassos bugünkü Bodrum’dur; Mozole ve Herodotos ile bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-014",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Knidos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Karya. Knidos Datça çevresinde Karya kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-015",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Kaunos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "İyonya",
-      "E": "Karya"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Karya. Kaunos Dalyan/Ortaca çevresinde kaya mezarlarıyla bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-016",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Labraunda aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Karya",
-      "B": "Likya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "İyonya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Karya. Labraunda Zeus Labrandos kutsal alanıyla bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-017",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Stratonikeia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-004",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Karya",
+    "question": "Halikarnassos, Knidos ve Kaunos hangi antik bölge hattında değerlendirilir?",
     "options": {
       "A": "Likya",
       "B": "Karya",
@@ -7047,43 +6852,13 @@ window.MKS_QUESTIONS = [
       "E": "İyonya"
     },
     "answer": "B",
-    "explanation": "Doğru cevap B: Karya. Stratonikeia Muğla/Yatağan çevresinde yaşayan antik kent olarak bilinir."
+    "explanation": "Doğru cevap B: Karya. Bodrum-Datça-Dalyan çevresindeki bu kentler Karya içinde düşünülür."
   },
   {
-    "id": "MKS-ANTIK-V2-018",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Aphrodisias aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Karya",
-      "D": "Pisidia",
-      "E": "İyonya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Karya. Aphrodisias Aydın/Karacasu, Aphrodite kültü ve heykeltıraşlıkla bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-019",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Efes aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "İyonya",
-      "E": "Karya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: İyonya. Efes İzmir/Selçuk çevresinde İyonya/Roma hattında önemli kenttir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-020",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Milet aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-005",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "İyonya",
+    "question": "Efes, Milet, Didyma ve Priene hangi antik bölgeyle ilişkilidir?",
     "options": {
       "A": "Likya",
       "B": "Pamfilya",
@@ -7092,103 +6867,13 @@ window.MKS_QUESTIONS = [
       "E": "İyonya"
     },
     "answer": "E",
-    "explanation": "Doğru cevap E: İyonya. Milet Aydın çevresinde bilim ve felsefeyle bilinen İyon kentidir."
+    "explanation": "Doğru cevap E: İyonya. Ege kıyılarındaki bu kentler İyonya’nın temel merkezleridir."
   },
   {
-    "id": "MKS-ANTIK-V2-021",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Didyma aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "İyonya",
-      "B": "Likya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: İyonya. Didyma Aydın/Didim çevresinde Apollon Tapınağı ile bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-022",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Priene aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "İyonya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: İyonya. Priene Aydın çevresinde planlı kent yapısıyla bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-023",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Teos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "İyonya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: İyonya. Teos İzmir/Seferihisar çevresinde Dionysos Tapınağı ile anılır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-024",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Erythrai aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "İyonya",
-      "E": "Karya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: İyonya. Erythrai İzmir/Çeşme-Ildırı çevresinde İyon kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-025",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Klazomenai aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: İyonya. Klazomenai İzmir/Urla çevresinde zeytinyağı işlikleriyle anılabilir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-026",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Phokaia/Foça aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "İyonya",
-      "B": "Likya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: İyonya. Phokaia/Foça denizcilik ve kolonizasyonla ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-027",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Kyme aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-006",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Aiolis",
+    "question": "Kyme ve Aigai antik kentleri hangi bölgeyle ilişkilendirilir?",
     "options": {
       "A": "Likya",
       "B": "Aiolis",
@@ -7197,28 +6882,13 @@ window.MKS_QUESTIONS = [
       "E": "Karya"
     },
     "answer": "B",
-    "explanation": "Doğru cevap B: Aiolis. Kyme Aiolis kentidir."
+    "explanation": "Doğru cevap B: Aiolis. Kyme ve Aigai, Kuzey Ege/Aiolis hattının en tipik kentlerindendir."
   },
   {
-    "id": "MKS-ANTIK-V2-028",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Aigai aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Aiolis",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Aiolis. Aigai Manisa/Yunusemre çevresinde Aiolis kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-029",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Troya aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-007",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Troas",
+    "question": "Troya, Assos ve Alexandria Troas hangi bölge altında ele alınır?",
     "options": {
       "A": "Likya",
       "B": "Pamfilya",
@@ -7227,58 +6897,13 @@ window.MKS_QUESTIONS = [
       "E": "Karya"
     },
     "answer": "D",
-    "explanation": "Doğru cevap D: Troas. Troya Çanakkale’de, Homeros ve İlyada ile ilişkilidir."
+    "explanation": "Doğru cevap D: Troas. Çanakkale ve Biga Yarımadası çevresi Troas olarak anılır."
   },
   {
-    "id": "MKS-ANTIK-V2-030",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Assos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Karya",
-      "E": "Troas"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Troas. Assos Çanakkale/Ayvacık çevresinde Athena Tapınağı ve Aristoteles ile ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-031",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Alexandria Troas aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Troas",
-      "B": "Likya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Troas. Alexandria Troas Çanakkale çevresindeki Troas kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-032",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Sardes aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Lidya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Lidya. Sardes Manisa/Salihli’de Lidya başkentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-033",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Philadelphia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-008",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Lidya",
+    "question": "Sardes, Philadelphia ve Thyateira hangi bölgeyle ilişkilidir?",
     "options": {
       "A": "Likya",
       "B": "Pamfilya",
@@ -7287,28 +6912,13 @@ window.MKS_QUESTIONS = [
       "E": "Karya"
     },
     "answer": "C",
-    "explanation": "Doğru cevap C: Lidya. Philadelphia Alaşehir/Manisa çevresinde Lidya hattında düşünülür."
+    "explanation": "Doğru cevap C: Lidya. Sardes başta olmak üzere bu kentler Lidya/Manisa hattında sorulur."
   },
   {
-    "id": "MKS-ANTIK-V2-034",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Thyateira aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Lidya",
-      "E": "Karya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Lidya. Thyateira Akhisar/Manisa çevresinde Lidya hattındadır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-035",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Gordion aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-009",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Frigya",
+    "question": "Gordion, Pessinus ve Midas/Yazılıkaya anıtları hangi bölgeyle ilişkilidir?",
     "options": {
       "A": "Likya",
       "B": "Pamfilya",
@@ -7317,73 +6927,13 @@ window.MKS_QUESTIONS = [
       "E": "Frigya"
     },
     "answer": "E",
-    "explanation": "Doğru cevap E: Frigya. Gordion Ankara/Polatlı çevresinde Frig başkentidir."
+    "explanation": "Doğru cevap E: Frigya. Gordion-Midas-Pessinus üçlüsü Frigya için en güçlü işarettir."
   },
   {
-    "id": "MKS-ANTIK-V2-036",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Pessinus aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Frigya",
-      "B": "Likya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Frigya. Pessinus Frigya’da Kibele kültüyle ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-037",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Midas/Yazılıkaya aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Frigya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Frigya. Midas/Yazılıkaya Frig kaya anıtlarıyla ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-038",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Tarsus aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Kilikya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Kilikya. Tarsus Mersin’de, St. Paul ve Kleopatra Kapısı ile bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-039",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Anemurium aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Kilikya",
-      "E": "Karya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Kilikya. Anemurium Mersin/Anamur çevresindedir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-040",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Kızkalesi/Korykos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-010",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Kilikya",
+    "question": "Tarsus, Anemurium, Kızkalesi ve Uzuncaburç hangi bölgeyle ilişkilidir?",
     "options": {
       "A": "Likya",
       "B": "Pamfilya",
@@ -7392,58 +6942,13 @@ window.MKS_QUESTIONS = [
       "E": "Kilikya"
     },
     "answer": "E",
-    "explanation": "Doğru cevap E: Kilikya. Kızkalesi/Korykos Mersin/Erdemli çevresindedir."
+    "explanation": "Doğru cevap E: Kilikya. Mersin-Adana hattındaki bu merkezler Kilikya içinde değerlendirilir."
   },
   {
-    "id": "MKS-ANTIK-V2-041",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Uzuncaburç aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Kilikya",
-      "B": "Likya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Kilikya. Uzuncaburç Mersin/Silifke çevresindedir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-042",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Soli-Pompeiopolis aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Kilikya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Kilikya. Soli-Pompeiopolis Mersin çevresinde Kilikya hattındadır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-043",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Nemrut Dağı aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Kommagene",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Kommagene. Nemrut Dağı Adıyaman’da Kommagene Krallığı ile ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-044",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Arsameia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-011",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Kommagene",
+    "question": "Nemrut Dağı, Arsameia, Cendere Köprüsü ve Karakuş Tümülüsü hangi krallıkla ilişkilidir?",
     "options": {
       "A": "Likya",
       "B": "Pamfilya",
@@ -7452,88 +6957,13 @@ window.MKS_QUESTIONS = [
       "E": "Karya"
     },
     "answer": "D",
-    "explanation": "Doğru cevap D: Kommagene. Arsameia Adıyaman çevresinde Kommagene merkezidir."
+    "explanation": "Doğru cevap D: Kommagene. Adıyaman çevresindeki bu merkezler Kommagene Krallığı’nın ayırt edici unsurlarıdır."
   },
   {
-    "id": "MKS-ANTIK-V2-045",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Cendere Köprüsü aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Karya",
-      "E": "Kommagene"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Kommagene. Cendere Köprüsü Adıyaman/Kommagene hattında sorulur."
-  },
-  {
-    "id": "MKS-ANTIK-V2-046",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Karakuş Tümülüsü aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Kommagene",
-      "B": "Likya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Kommagene. Karakuş Tümülüsü Adıyaman/Kommagene hattındadır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-047",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Tuşpa aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Urartu",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Urartu. Tuşpa Van çevresinde Urartu başkentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-048",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Van Kalesi aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Urartu",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Urartu. Van Kalesi Urartu/Tuşpa bağlantısıyla önemlidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-049",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Çavuştepe aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Urartu",
-      "E": "Karya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Urartu. Çavuştepe Van/Gürpınar çevresinde Urartu kalesidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-050",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Ayanis aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-012",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Urartu",
+    "question": "Tuşpa, Van Kalesi, Çavuştepe ve Ayanis hangi uygarlık hattına aittir?",
     "options": {
       "A": "Likya",
       "B": "Pamfilya",
@@ -7542,28 +6972,13 @@ window.MKS_QUESTIONS = [
       "E": "Urartu"
     },
     "answer": "E",
-    "explanation": "Doğru cevap E: Urartu. Ayanis Van Gölü kıyısında Urartu merkezi/kalesidir."
+    "explanation": "Doğru cevap E: Urartu. Van merkezli kale ve su yapıları Urartu ile ilişkilidir."
   },
   {
-    "id": "MKS-ANTIK-V2-051",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Göreme aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Kapadokya",
-      "B": "Likya",
-      "C": "Pamfilya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Kapadokya. Göreme kaya kiliseleri ve freskleriyle Kapadokya’nın merkezidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-052",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Derinkuyu aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-013",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Kapadokya",
+    "question": "Göreme, Derinkuyu, Kaymaklı, Ihlara ve Soğanlı hangi bölgeyle ilişkilidir?",
     "options": {
       "A": "Likya",
       "B": "Kapadokya",
@@ -7572,726 +6987,2061 @@ window.MKS_QUESTIONS = [
       "E": "Karya"
     },
     "answer": "B",
-    "explanation": "Doğru cevap B: Kapadokya. Derinkuyu Nevşehir’de yer altı şehridir."
+    "explanation": "Doğru cevap B: Kapadokya. Nevşehir-Aksaray-Kayseri-Niğde hattı Kapadokya olarak düşünülür."
   },
   {
-    "id": "MKS-ANTIK-V2-053",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Kaymaklı aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Kapadokya",
-      "D": "Pisidia",
-      "E": "Karya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Kapadokya. Kaymaklı Nevşehir’de yer altı şehridir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-054",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Ihlara Vadisi aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
-    "options": {
-      "A": "Likya",
-      "B": "Pamfilya",
-      "C": "Pisidia",
-      "D": "Kapadokya",
-      "E": "Karya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Kapadokya. Ihlara Vadisi Aksaray’dadır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-055",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Antik Bölge-Kent",
-    "question": "Soğanlı Vadisi aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "id": "MKS-ANTIK-1-014",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Likya",
+    "question": "Patara, Myra, Tlos, Olympos ve Phaselis hangi bölgeye aittir?",
     "options": {
       "A": "Likya",
       "B": "Pamfilya",
       "C": "Pisidia",
       "D": "Karya",
-      "E": "Kapadokya"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Kapadokya. Soğanlı Vadisi Kayseri çevresindedir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-056",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Aziz Nikolaos / Noel Baba için doğru eşleştirme hangisidir?",
-    "options": {
-      "A": "Patara doğumlu kabul edilir; Myra/Demre’de piskoposluk yapmıştır",
-      "B": "Hatay’da doğmuş ve St. Pierre’de görev yapmıştır",
-      "C": "Tarsus doğumlu kabul edilir; Yalvaç ile ilişkilidir",
-      "D": "Efes’te Artemis Tapınağı’nı yaptırmıştır",
-      "E": "Bodrum’da tarih yazıcılığını başlatmıştır"
+      "E": "İyonya"
     },
     "answer": "A",
-    "explanation": "Doğru cevap A: Patara doğumlu kabul edilir; Myra/Demre’de piskoposluk yapmıştır. Aziz Nikolaos Patara-Myra-Demre hattıyla ilişkilidir."
+    "explanation": "Doğru cevap A: Likya. Bu kentler Antalya batısı ve Muğla doğusundaki Likya hattıdır."
   },
   {
-    "id": "MKS-ANTIK-V2-057",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
+    "id": "MKS-ANTIK-1-015",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Pamfilya",
+    "question": "Attaleia antik adıyla bilinen kent aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Antalya",
+      "B": "İzmir",
+      "C": "Muğla",
+      "D": "Mersin",
+      "E": "Aydın"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Antalya. Attaleia, Antalya’nın antik adıdır ve II. Attalos ile ilişkilendirilir."
+  },
+  {
+    "id": "MKS-ANTIK-1-016",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Pisidia",
+    "question": "Burdur/Ağlasun çevresindeki Antoninler Çeşmesi ile bilinen antik kent hangisidir?",
+    "options": {
+      "A": "Aspendos",
+      "B": "Patara",
+      "C": "Sagalassos",
+      "D": "Kaunos",
+      "E": "Assos"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Sagalassos. Sagalassos, Pisidia bölgesinin Burdur’daki en bilinen antik kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-017",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Karya",
+    "question": "Bodrum ile ilişkilendirilen Halikarnas Mozolesi hangi antik kenttedir?",
+    "options": {
+      "A": "Knidos",
+      "B": "Kaunos",
+      "C": "Halikarnassos",
+      "D": "Patara",
+      "E": "Priene"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Halikarnassos. Halikarnassos, bugünkü Bodrum’dur; Mausoleum/Halikarnas Mozolesi ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-1-018",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Karya",
+    "question": "Datça çevresinde yer alan ve Aphrodite heykeliyle bilinen kent hangisidir?",
+    "options": {
+      "A": "Kaunos",
+      "B": "Halikarnassos",
+      "C": "Aphrodisias",
+      "D": "Teos",
+      "E": "Knidos"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Knidos. Knidos, Datça çevresinde Karya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-019",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Karya",
+    "question": "Dalyan-Ortaca çevresindeki kaya mezarlarıyla bilinen Karya kenti hangisidir?",
+    "options": {
+      "A": "Knidos",
+      "B": "Kaunos",
+      "C": "Sagalassos",
+      "D": "Aigai",
+      "E": "Tlos"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Kaunos. Kaunos, Dalyan/Ortaca çevresinde kaya mezarlarıyla tanınır."
+  },
+  {
+    "id": "MKS-ANTIK-1-020",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Karya",
+    "question": "Aydın/Karacasu çevresindeki, Aphrodite kültü ve heykeltıraşlıkla bilinen kent hangisidir?",
+    "options": {
+      "A": "Didyma",
+      "B": "Efes",
+      "C": "Aphrodisias",
+      "D": "Aizanoi",
+      "E": "Sardes"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Aphrodisias. Aphrodisias; Aphrodite kültü, heykeltıraşlık okulu ve Aydın/Karacasu ile hatırlanır."
+  },
+  {
+    "id": "MKS-ANTIK-1-021",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "İyonya",
+    "question": "İzmir/Selçuk çevresindeki Artemis Tapınağı ve Celsus Kütüphanesi ile bilinen antik kent hangisidir?",
+    "options": {
+      "A": "Milet",
+      "B": "Didyma",
+      "C": "Efes",
+      "D": "Priene",
+      "E": "Bergama"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Efes. Efes, İyonya-Roma hattının en önemli kentlerinden biridir."
+  },
+  {
+    "id": "MKS-ANTIK-1-022",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "İyonya",
+    "question": "Apollon Tapınağı ile bilinen Aydın/Didim çevresindeki merkez hangisidir?",
+    "options": {
+      "A": "Efes",
+      "B": "Priene",
+      "C": "Milet",
+      "D": "Didyma",
+      "E": "Teos"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Didyma. Didyma, Apollon Tapınağı ile sorulan çok güçlü bir eşleştirmedir."
+  },
+  {
+    "id": "MKS-ANTIK-1-023",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "İyonya",
+    "question": "Thales ve Hippodamos ile ilişkilendirilen İyon kenti hangisidir?",
+    "options": {
+      "A": "Milet",
+      "B": "Efes",
+      "C": "Sardes",
+      "D": "Troya",
+      "E": "Aizanoi"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Milet. Milet; İyonya, bilim-felsefe ve şehircilik isimleriyle öne çıkar."
+  },
+  {
+    "id": "MKS-ANTIK-1-024",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Troas",
+    "question": "Çanakkale/Ayvacık çevresinde Athena Tapınağı ve Aristoteles bağlantısıyla bilinen kent hangisidir?",
+    "options": {
+      "A": "Troya",
+      "B": "Aigai",
+      "C": "Kyme",
+      "D": "Assos",
+      "E": "Sardes"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Assos. Assos, Troas hattında Athena Tapınağı ve Aristoteles ile ilişkilendirilir."
+  },
+  {
+    "id": "MKS-ANTIK-1-025",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Troas",
+    "question": "Homeros’un İlyada destanı ve Troya Savaşı anlatılarıyla ilişkilendirilen kent hangisidir?",
+    "options": {
+      "A": "Assos",
+      "B": "Troya",
+      "C": "Gordion",
+      "D": "Sardes",
+      "E": "Patara"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Troya. Troya, Çanakkale ve Homeros/İlyada bağlantısıyla sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-1-026",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Lidya",
+    "question": "Lidya’nın başkenti ve paranın kullanımıyla ilişkilendirilen kent hangisidir?",
+    "options": {
+      "A": "Sardes",
+      "B": "Gordion",
+      "C": "Tuşpa",
+      "D": "Efes",
+      "E": "Priene"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Sardes. Sardes, Manisa/Salihli çevresinde Lidya başkentidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-027",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Frigya",
+    "question": "Friglerin başkenti ve Kral Midas ile ilişkilendirilen kent hangisidir?",
+    "options": {
+      "A": "Sardes",
+      "B": "Hattuşa",
+      "C": "Tuşpa",
+      "D": "Gordion",
+      "E": "Aizanoi"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Gordion. Gordion, Ankara/Polatlı çevresinde Frigya’nın en önemli merkezidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-028",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Frigya",
+    "question": "Ana Tanrıça Kibele kültüyle öne çıkan Frig merkezi hangisidir?",
+    "options": {
+      "A": "Sardes",
+      "B": "Pessinus",
+      "C": "Patara",
+      "D": "Didyma",
+      "E": "Kaunos"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Pessinus. Pessinus, Frigya ve Kibele kültüyle birlikte düşünülür."
+  },
+  {
+    "id": "MKS-ANTIK-1-029",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Kilikya",
+    "question": "St. Paul’un doğum yeri kabul edilen Kilikya merkezi hangisidir?",
+    "options": {
+      "A": "Yalvaç",
+      "B": "Antakya",
+      "C": "Demre",
+      "D": "Tarsus",
+      "E": "Selçuk"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Tarsus. Tarsus, Mersin/Kilikya hattında St. Paul ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-030",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Kilikya",
+    "question": "Mersin/Anamur çevresindeki antik kent hangisidir?",
+    "options": {
+      "A": "Uzuncaburç",
+      "B": "Kızkalesi",
+      "C": "Soli-Pompeiopolis",
+      "D": "Anemurium",
+      "E": "Perge"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Anemurium. Anemurium, Mersin/Anamur çevresindeki Kilikya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-031",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Kommagene",
+    "question": "Adıyaman’daki dev heykeller ve I. Antiochos ile bilinen alan hangisidir?",
+    "options": {
+      "A": "Nemrut Dağı",
+      "B": "Nemrut Krater Gölü",
+      "C": "Göbeklitepe",
+      "D": "Sagalassos",
+      "E": "Tuşpa"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Nemrut Dağı. Nemrut Dağı Kommagene Krallığı ve I. Antiochos ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-032",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Kommagene",
+    "question": "Kommagene Krallığı’nın Adıyaman çevresindeki önemli merkezi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Arsameia",
+      "B": "Attaleia",
+      "C": "Antiocheia",
+      "D": "Aigai",
+      "E": "Priene"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Arsameia. Arsameia, Kommagene hattının Nemrut çevresindeki önemli merkezidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-033",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Urartu",
+    "question": "Urartuların başkenti olarak bilinen merkez hangisidir?",
+    "options": {
+      "A": "Gordion",
+      "B": "Tuşpa",
+      "C": "Sardes",
+      "D": "Hattuşa",
+      "E": "Pessinus"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Tuşpa. Tuşpa, bugünkü Van çevresindeki Urartu başkentidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-034",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Urartu",
+    "question": "Urartuların baş tanrısı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kibele",
+      "B": "Zeus",
+      "C": "Apollon",
+      "D": "Artemis",
+      "E": "Haldi"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Haldi. Haldi, Urartu baş tanrısıdır; Van/Tuşpa hattıyla birlikte öğrenilir."
+  },
+  {
+    "id": "MKS-ANTIK-1-035",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Kapadokya",
+    "question": "Nevşehir’deki yer altı şehirleri denince aşağıdaki ikililerden hangisi akla gelir?",
+    "options": {
+      "A": "Ihlara ve Soğanlı",
+      "B": "Perge ve Side",
+      "C": "Derinkuyu ve Kaymaklı",
+      "D": "Xanthos ve Letoon",
+      "E": "Kaunos ve Knidos"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Derinkuyu ve Kaymaklı. Derinkuyu ve Kaymaklı Kapadokya’nın Nevşehir’deki yer altı şehirleridir."
+  },
+  {
+    "id": "MKS-ANTIK-1-036",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Kapadokya",
+    "question": "Aksaray ile ilişkilendirilen Kapadokya vadisi hangisidir?",
+    "options": {
+      "A": "Soğanlı Vadisi",
+      "B": "Zelve Vadisi",
+      "C": "Devrent Vadisi",
+      "D": "Kelebekler Vadisi",
+      "E": "Ihlara Vadisi"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Ihlara Vadisi. Ihlara Vadisi, Kapadokya içinde Aksaray eşleştirmesiyle bilinmelidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-037",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Hatay/Antakya",
+    "question": "Hatay/Antakya’da erken Hristiyanlıkla ilişkilendirilen kilise hangisidir?",
+    "options": {
+      "A": "St. Nicholas Kilisesi",
+      "B": "Meryem Ana Evi",
+      "C": "St. Pierre Kilisesi",
+      "D": "Akdamar Kilisesi",
+      "E": "Aya Nikola Kilisesi"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: St. Pierre Kilisesi. St. Pierre Kilisesi, Hatay/Antakya inanç hattının ana eşleştirmesidir."
+  },
+  {
+    "id": "MKS-ANTIK-1-038",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Likya",
     "question": "St. Nicholas Kilisesi hangi yerle ilişkilidir?",
     "options": {
       "A": "Hatay/Antakya",
       "B": "Antalya/Demre",
       "C": "İzmir/Selçuk",
       "D": "Mersin/Tarsus",
-      "E": "Isparta/Yalvaç"
+      "E": "Van/Akdamar"
     },
     "answer": "B",
-    "explanation": "Doğru cevap B: Antalya/Demre. St. Nicholas Kilisesi Demre’dedir."
+    "explanation": "Doğru cevap B: Antalya/Demre. St. Nicholas Kilisesi, Aziz Nikolaos/Noel Baba ve Demre bağlantısıyla sorulur."
   },
   {
-    "id": "MKS-ANTIK-V2-058",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "St. Pierre Kilisesi hangi yerle ilişkilidir?",
-    "options": {
-      "A": "Antalya/Demre",
-      "B": "İzmir/Selçuk",
-      "C": "Hatay/Antakya",
-      "D": "Mersin/Tarsus",
-      "E": "Isparta/Yalvaç"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Hatay/Antakya. St. Pierre Kilisesi Antakya/Hatay’dadır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-059",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "St. Paul / Aziz Paulus için doğru eşleştirme hangisidir?",
-    "options": {
-      "A": "Patara + Myra",
-      "B": "Hatay + St. Pierre",
-      "C": "Bodrum + Herodotos",
-      "D": "Tarsus + Yalvaç/Pisidia Antiocheia",
-      "E": "Gordion + Midas"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Tarsus + Yalvaç/Pisidia Antiocheia. St. Paul Tarsus doğumlu kabul edilir; Yalvaç/Pisidia Antiocheia ile ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-060",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
+    "id": "MKS-ANTIK-1-039",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "İyonya",
     "question": "Meryem Ana Evi hangi yerle ilişkilidir?",
     "options": {
       "A": "Antalya/Demre",
       "B": "Hatay/Antakya",
       "C": "Mersin/Tarsus",
-      "D": "Van/Akdamar",
-      "E": "İzmir/Selçuk"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: İzmir/Selçuk. Meryem Ana Evi Selçuk/İzmir çevresindedir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-061",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Herodotos için doğru eşleştirme hangisidir?",
-    "options": {
-      "A": "Halikarnassos/Bodrum + tarihin babası",
-      "B": "Milet + şehir planı",
-      "C": "Gordion + Frig kralı",
-      "D": "Sardes + zengin Lidya kralı",
-      "E": "Assos + Athena Tapınağı"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Halikarnassos/Bodrum + tarihin babası. Herodotos Halikarnassos/Bodrum doğumludur."
-  },
-  {
-    "id": "MKS-ANTIK-V2-062",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Homeros hangi eserler ve kent anlatısıyla bilinir?",
-    "options": {
-      "A": "Kral Yolu + Sardes",
-      "B": "İlyada/Odysseia + Troya",
-      "C": "Mozole + Halikarnassos",
-      "D": "Yer altı şehirleri + Kapadokya",
-      "E": "Kibele + Pessinus"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: İlyada/Odysseia + Troya. Homeros Troya anlatıları ve İlyada/Odysseia ile bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-063",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Aristoteles bu konu kapsamında hangi kentle ilişkilendirilebilir?",
-    "options": {
-      "A": "Tarsus",
-      "B": "Patara",
-      "C": "Assos",
-      "D": "Aigai",
-      "E": "Sardes"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Assos. Aristoteles’in Assos’ta bir süre bulunduğu bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-064",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Thales hangi kent/bölgeyle ilişkilidir?",
-    "options": {
-      "A": "Sardes/Lidya",
-      "B": "Gordion/Frigya",
-      "C": "Tuşpa/Urartu",
-      "D": "Milet/İyonya",
-      "E": "Myra/Likya"
+      "D": "İzmir/Selçuk",
+      "E": "Adıyaman/Nemrut"
     },
     "answer": "D",
-    "explanation": "Doğru cevap D: Milet/İyonya. Thales Miletli filozoftur."
+    "explanation": "Doğru cevap D: İzmir/Selçuk. Meryem Ana Evi, Efes/Selçuk çevresindeki inanç turizmi merkezidir."
   },
   {
-    "id": "MKS-ANTIK-V2-065",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Hippodamos hangi kent ve alanla ilişkilendirilir?",
+    "id": "MKS-ANTIK-1-040",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Pamfilya",
+    "question": "Antik bölge eşleştirmeleri açısından aşağıdakilerden hangisi doğrudur?",
     "options": {
-      "A": "Bodrum + Mozole",
-      "B": "Patara + Aziz Nikolaos",
-      "C": "Sardes + para",
-      "D": "Nemrut + dev heykeller",
-      "E": "Milet + ızgara planlı şehircilik"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Milet + ızgara planlı şehircilik. Hippodamos Milet ve şehir planlamasıyla bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-066",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Kroisos/Krezüs hangi uygarlıkla ilişkilidir?",
-    "options": {
-      "A": "Lidya",
-      "B": "Frigya",
-      "C": "Urartu",
-      "D": "Karya",
-      "E": "İyonya"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Lidya. Krezüs Lidya kralıdır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-067",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Midas hangi uygarlık/kentle ilişkilidir?",
-    "options": {
-      "A": "Lidya/Sardes",
-      "B": "Frigya/Gordion",
-      "C": "Karya/Halikarnassos",
-      "D": "Kommagene/Nemrut",
-      "E": "Urartu/Tuşpa"
+      "A": "Aspendos - Likya",
+      "B": "Aspendos - Pamfilya",
+      "C": "Patara - Pamfilya",
+      "D": "Sagalassos - Karya",
+      "E": "Knidos - İyonya"
     },
     "answer": "B",
-    "explanation": "Doğru cevap B: Frigya/Gordion. Midas Frig kralıdır ve Gordion ile ilişkilidir."
+    "explanation": "Doğru cevap B: Aspendos - Pamfilya. Aspendos, Perge ve Side ile birlikte Pamfilya hattındadır."
   },
   {
-    "id": "MKS-ANTIK-V2-068",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "I. Antiochos hangi krallık ve alanla ilişkilidir?",
+    "id": "MKS-ANTIK-1-041",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Karma",
+    "question": "Antik bölge eşleştirmeleri açısından aşağıdakilerden hangisi yanlıştır?",
     "options": {
-      "A": "Lidya + Sardes",
-      "B": "Frigya + Pessinus",
-      "C": "Kommagene + Nemrut Dağı",
-      "D": "Karya + Knidos",
-      "E": "İyonya + Efes"
+      "A": "Patara - Likya",
+      "B": "Perge - Pamfilya",
+      "C": "Sardes - İyonya",
+      "D": "Sagalassos - Pisidia",
+      "E": "Knidos - Karya"
     },
     "answer": "C",
-    "explanation": "Doğru cevap C: Kommagene + Nemrut Dağı. I. Antiochos Kommagene kralıdır; Nemrut Dağı ile ilişkilidir."
+    "explanation": "Doğru cevap C: Sardes - İyonya. Sardes, İyonya değil Lidya merkezidir."
   },
   {
-    "id": "MKS-ANTIK-V2-069",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "II. Attalos hangi kent/şehir adıyla ilişkilidir?",
+    "id": "MKS-ANTIK-1-042",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Likya",
+    "question": "“Antalya batısı-Muğla doğusu; Xanthos, Patara, Myra” tanımı hangi bölgeye aittir?",
     "options": {
-      "A": "Halikarnassos/Bodrum",
-      "B": "Sardes/Manisa",
-      "C": "Tuşpa/Van",
-      "D": "Attaleia/Antalya",
-      "E": "Patara/Antalya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Attaleia/Antalya. Antalya’nın antik adı Attaleia, II. Attalos ile ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-070",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Urartuların baş tanrısı hangisidir?",
-    "options": {
-      "A": "Teşup",
-      "B": "Kibele",
-      "C": "Artemis",
-      "D": "Apollon",
-      "E": "Haldi"
+      "A": "Pamfilya",
+      "B": "Karya",
+      "C": "Pisidia",
+      "D": "Aiolis",
+      "E": "Likya"
     },
     "answer": "E",
-    "explanation": "Doğru cevap E: Haldi. Haldi Urartu baş tanrısıdır."
+    "explanation": "Doğru cevap E: Likya. Bu tanım doğrudan Likya bölgesini verir."
   },
   {
-    "id": "MKS-ANTIK-V2-071",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Friglerde Ana Tanrıça kültü hangi adla bilinir?",
+    "id": "MKS-ANTIK-1-043",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Pamfilya",
+    "question": "“Antalya/Aksu; sütunlu cadde ve stadion” denince hangi antik kent akla gelir?",
     "options": {
-      "A": "Kibele",
-      "B": "Haldi",
-      "C": "Artemis",
-      "D": "Apollon",
-      "E": "Teşup"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Kibele. Kibele Frigya ve Pessinus ile ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-072",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Didyma hangi tapınakla bilinir?",
-    "options": {
-      "A": "Artemis Tapınağı",
-      "B": "Apollon Tapınağı",
-      "C": "Zeus Tapınağı",
-      "D": "Athena Tapınağı",
-      "E": "Haldi Tapınağı"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Apollon Tapınağı. Didyma Apollon Tapınağı ile bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-073",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Efes hangi tapınakla bilinir?",
-    "options": {
-      "A": "Apollon Tapınağı",
-      "B": "Zeus Labrandos",
-      "C": "Artemis Tapınağı",
-      "D": "Athena Tapınağı",
-      "E": "Haldi Tapınağı"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Artemis Tapınağı. Efes Artemis Tapınağı ile bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-074",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Labraunda hangi kutsal alanla bilinir?",
-    "options": {
-      "A": "Apollon Didymaios",
-      "B": "Artemis Ephesia",
-      "C": "Kibele/Pessinus",
-      "D": "Zeus Labrandos",
-      "E": "Haldi/Tuşpa"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Zeus Labrandos. Labraunda Zeus Labrandos kutsal alanıdır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-075",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Aizanoi için doğru eşleştirme hangisidir?",
-    "options": {
-      "A": "Burdur + Antoninler Çeşmesi",
-      "B": "Aydın + Apollon Tapınağı",
-      "C": "Antalya + St. Nicholas",
-      "D": "Muğla + Kibele",
-      "E": "Kütahya + Zeus Tapınağı"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Kütahya + Zeus Tapınağı. Aizanoi Kütahya’da Zeus Tapınağı ile bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-076",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Sagalassos için doğru eşleştirme hangisidir?",
-    "options": {
-      "A": "Burdur/Ağlasun + Antoninler Çeşmesi",
-      "B": "Kütahya + Zeus Tapınağı",
-      "C": "Aydın + Apollon Tapınağı",
-      "D": "Antalya/Demre + St. Nicholas",
-      "E": "Muğla/Bodrum + Mozole"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Burdur/Ağlasun + Antoninler Çeşmesi. Sagalassos Burdur/Ağlasun ve Antoninler Çeşmesiyle bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-077",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Kaunos için doğru eşleştirme hangisidir?",
-    "options": {
-      "A": "Datça + Apollon Tapınağı",
-      "B": "Dalyan/Ortaca + kaya mezarları",
-      "C": "Bodrum + Athena Tapınağı",
-      "D": "Burdur + tiyatro",
-      "E": "Mersin + yer altı şehri"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Dalyan/Ortaca + kaya mezarları. Kaunos Karya’da kaya mezarlarıyla tanınır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-078",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Halikarnas Mozolesi için doğru eşleştirme hangisidir?",
-    "options": {
-      "A": "Gordion + Midas",
-      "B": "Sardes + Krezüs",
-      "C": "Bodrum/Halikarnassos + Mausolos",
-      "D": "Nemrut + Antiochos",
-      "E": "Tarsus + St. Paul"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Bodrum/Halikarnassos + Mausolos. Halikarnas Mozolesi Mausolos adına yaptırılmıştır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-079",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Kişiler ve İnanç",
-    "question": "Aphrodisias için doğru eşleştirme hangisidir?",
-    "options": {
-      "A": "Burdur + Antoninler",
-      "B": "Kütahya + Zeus",
-      "C": "Antalya/Demre + St. Nicholas",
-      "D": "Aydın/Karacasu + Aphrodite + heykeltıraşlık",
-      "E": "İzmir/Selçuk + Artemis"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Aydın/Karacasu + Aphrodite + heykeltıraşlık. Aphrodisias Aydın/Karacasu’da, Aphrodite ve heykeltıraşlıkla bilinir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-082",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Aşağıdakilerden hangisi Likya hattında değildir?",
-    "options": {
-      "A": "Xanthos",
+      "A": "Side",
       "B": "Aspendos",
-      "C": "Letoon",
-      "D": "Patara",
+      "C": "Patara",
+      "D": "Perge",
       "E": "Myra"
     },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Aspendos. Aspendos Pamfilya kentidir."
+    "answer": "D",
+    "explanation": "Doğru cevap D: Perge. Perge, Antalya/Aksu çevresinde Pamfilya kentidir."
   },
   {
-    "id": "MKS-ANTIK-V2-083",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Aşağıdakilerden hangisi Pamfilya hattında değildir?",
+    "id": "MKS-ANTIK-1-044",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Pamfilya",
+    "question": "“Serik; iyi korunmuş Roma tiyatrosu” hangi merkez için ayırt edicidir?",
     "options": {
-      "A": "Perge",
-      "B": "Aspendos",
+      "A": "Side",
+      "B": "Perge",
       "C": "Myra",
-      "D": "Side",
-      "E": "Attaleia"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Myra. Myra Likya/Demre hattındadır."
-  },
-  {
-    "id": "MKS-ANTIK-V2-084",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Aşağıdakilerden hangisi Karya hattında değildir?",
-    "options": {
-      "A": "Halikarnassos",
-      "B": "Knidos",
-      "C": "Kaunos",
-      "D": "Perge",
-      "E": "Labraunda"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Perge. Perge Pamfilya kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-085",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Aşağıdakilerden hangisi İyonya hattında değildir?",
-    "options": {
-      "A": "Efes",
-      "B": "Milet",
-      "C": "Didyma",
-      "D": "Priene",
-      "E": "Sardes"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Sardes. Sardes Lidya başkentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-086",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Aşağıdaki kişi-kent eşleştirmelerinden hangisi yanlıştır?",
-    "options": {
-      "A": "Aziz Nikolaos — Hatay/Antakya",
-      "B": "St. Paul — Tarsus",
-      "C": "Herodotos — Halikarnassos",
-      "D": "Midas — Gordion",
-      "E": "Krezüs — Sardes"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Aziz Nikolaos — Hatay/Antakya. Aziz Nikolaos Antalya/Demre ve Patara-Myra hattıyla ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-087",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "St. Pierre, St. Nicholas ve St. Paul eşleştirmesi için doğru seçenek hangisidir?",
-    "options": {
-      "A": "St. Pierre-Demre, St. Nicholas-Hatay, St. Paul-Efes",
-      "B": "St. Pierre-Hatay, St. Nicholas-Demre, St. Paul-Tarsus",
-      "C": "St. Pierre-Tarsus, St. Nicholas-Selçuk, St. Paul-Demre",
-      "D": "St. Pierre-Van, St. Nicholas-Tarsus, St. Paul-Hatay",
-      "E": "St. Pierre-Bodrum, St. Nicholas-Patara, St. Paul-Kars"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: St. Pierre-Hatay, St. Nicholas-Demre, St. Paul-Tarsus. Üçlü tuzak: St. Pierre Hatay, St. Nicholas Demre, St. Paul Tarsus."
-  },
-  {
-    "id": "MKS-ANTIK-V2-088",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Nemrut Dağı ile Nemrut Krater Gölü ayrımı için doğru ifade hangisidir?",
-    "options": {
-      "A": "İkisi de Adıyaman’dadır",
-      "B": "İkisi de Bitlis’tedir",
-      "C": "Nemrut Dağı Adıyaman, Nemrut Krater Gölü Bitlis",
-      "D": "Nemrut Dağı Van’dadır",
-      "E": "Nemrut Krater Gölü Antalya’dadır"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Nemrut Dağı Adıyaman, Nemrut Krater Gölü Bitlis. Nemrut Dağı Kommagene/Adıyaman; Nemrut Krater Gölü Bitlis’tedir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-089",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Aşağıdakilerden hangisi aynı bölgenin kentleri değildir?",
-    "options": {
-      "A": "Xanthos, Letoon, Myra",
-      "B": "Halikarnassos, Knidos, Kaunos",
-      "C": "Efes, Milet, Didyma",
-      "D": "Perge, Aspendos, Patara",
-      "E": "Troya, Assos, Alexandria Troas"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Perge, Aspendos, Patara. Perge-Aspendos Pamfilya, Patara ise Likya kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-090",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Aşağıdakilerden hangisi aynı bölgenin kentleridir?",
-    "options": {
-      "A": "Perge, Sagalassos, Side",
-      "B": "Sardes, Efes, Milet",
-      "C": "Tuşpa, Patara, Myra",
-      "D": "Gordion, Nemrut, Tarsus",
-      "E": "Halikarnassos, Knidos, Kaunos"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Halikarnassos, Knidos, Kaunos. Halikarnassos-Knidos-Kaunos Karya kentleridir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-093",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Aşağıdakilerden hangisi Kilikya hattındadır?",
-    "options": {
-      "A": "Aizanoi",
-      "B": "Sagalassos",
-      "C": "Anemurium",
-      "D": "Xanthos",
-      "E": "Assos"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Anemurium. Anemurium Mersin/Anamur çevresindeki Kilikya kentidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-094",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "Aşağıdakilerden hangisi Kommagene hattındadır?",
-    "options": {
-      "A": "Kızkalesi",
-      "B": "Olympos",
-      "C": "Pessinus",
-      "D": "Karakuş Tümülüsü",
-      "E": "Klazomenai"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Karakuş Tümülüsü. Karakuş Tümülüsü Adıyaman/Kommagene hattında sorulur."
-  },
-  {
-    "id": "MKS-ANTIK-V2-095",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Roma tiyatrosu” denince en doğrudan hangi kent akla gelir?",
-    "options": {
-      "A": "Patara",
-      "B": "Tuşpa",
-      "C": "Sardes",
-      "D": "Pessinus",
+      "D": "Sagalassos",
       "E": "Aspendos"
     },
     "answer": "E",
-    "explanation": "Doğru cevap E: Aspendos. Aspendos iyi korunmuş Roma tiyatrosu ile bilinir."
+    "explanation": "Doğru cevap E: Aspendos. Aspendos’un en güçlü sınav anahtarı Roma tiyatrosudur."
   },
   {
-    "id": "MKS-ANTIK-V2-096",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Likya Birliği Meclisi” denince hangi kent akla gelir?",
+    "id": "MKS-ANTIK-1-045",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Pamfilya",
+    "question": "“Manavgat; Apollon Tapınağı ve liman kenti” hangi merkeze aittir?",
     "options": {
-      "A": "Patara",
-      "B": "Perge",
-      "C": "Aspendos",
-      "D": "Sagalassos",
+      "A": "Perge",
+      "B": "Aspendos",
+      "C": "Side",
+      "D": "Phaselis",
+      "E": "Patara"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Side. Side, Apollon Tapınağı ve liman kenti özelliğiyle bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-1-046",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Karya",
+    "question": "“Milas çevresi; Zeus Labrandos kutsal alanı” hangi merkezle ilişkilidir?",
+    "options": {
+      "A": "Labraunda",
+      "B": "Stratonikeia",
+      "C": "Kaunos",
+      "D": "Knidos",
+      "E": "Didyma"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Labraunda. Labraunda, Karya’da Zeus Labrandos kutsal alanı olarak sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-1-047",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Karya",
+    "question": "“Muğla/Yatağan; yaşayan antik kent” ifadesi hangi merkeze işaret eder?",
+    "options": {
+      "A": "Stratonikeia",
+      "B": "Halikarnassos",
+      "C": "Kaunos",
+      "D": "Knidos",
+      "E": "Priene"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Stratonikeia. Stratonikeia, Muğla/Yatağan çevresinde yaşayan antik kent olarak bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-1-048",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "İyonya",
+    "question": "“İzmir/Seferihisar; Dionysos Tapınağı” hangi İyon kentiyle ilişkilidir?",
+    "options": {
+      "A": "Teos",
+      "B": "Erythrai",
+      "C": "Klazomenai",
+      "D": "Priene",
+      "E": "Milet"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Teos. Teos, Seferihisar çevresinde Dionysos Tapınağı ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-1-049",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "İyonya",
+    "question": "“İzmir/Urla; zeytinyağı işlikleri” hangi antik kent için ayırt edicidir?",
+    "options": {
+      "A": "Klazomenai",
+      "B": "Erythrai",
+      "C": "Teos",
+      "D": "Kyme",
       "E": "Aigai"
     },
     "answer": "A",
-    "explanation": "Doğru cevap A: Patara. Patara Likya Birliği Meclisi ile bilinir."
+    "explanation": "Doğru cevap A: Klazomenai. Klazomenai, Urla çevresinde zeytinyağı işlikleriyle anılır."
   },
   {
-    "id": "MKS-ANTIK-V2-097",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Yaşayan antik kent” ifadesi hangi yerle ilişkilidir?",
+    "id": "MKS-ANTIK-1-050",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 1",
+    "topic": "Aiolis",
+    "question": "“Manisa/Yunusemre; Aiolis kenti” ifadesi hangi antik kente aittir?",
     "options": {
-      "A": "Priene",
-      "B": "Stratonikeia",
-      "C": "Aigai",
-      "D": "Olympos",
-      "E": "Anemurium"
+      "A": "Kyme",
+      "B": "Aigai",
+      "C": "Sardes",
+      "D": "Thyateira",
+      "E": "Philadelphia"
     },
     "answer": "B",
-    "explanation": "Doğru cevap B: Stratonikeia. Stratonikeia Muğla/Yatağan çevresindedir."
+    "explanation": "Doğru cevap B: Aigai. Aigai, Manisa çevresinde Aiolis kenti olarak bilinir."
   },
   {
-    "id": "MKS-ANTIK-V2-098",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Dionysos Tapınağı” hangi İyon kentiyle ilişkilidir?",
+    "id": "MKS-ANTIK-2-001",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Önemli Kişiler",
+    "question": "Aziz Nikolaos’un doğum yeri olarak kabul edilen Likya kenti hangisidir?",
     "options": {
-      "A": "Didyma",
-      "B": "Efes",
-      "C": "Teos",
+      "A": "Myra",
+      "B": "Perge",
+      "C": "Patara",
+      "D": "Side",
+      "E": "Tarsus"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Patara. Aziz Nikolaos’un Patara’da doğduğu, Myra/Demre’de piskoposluk yaptığı kabul edilir."
+  },
+  {
+    "id": "MKS-ANTIK-2-002",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Önemli Kişiler",
+    "question": "Aziz Nikolaos’un piskoposluk yaptığı yer olarak hangi merkez öne çıkar?",
+    "options": {
+      "A": "Myra/Demre",
+      "B": "Patara",
+      "C": "Tarsus",
+      "D": "Antakya",
+      "E": "Selçuk"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Myra/Demre. Myra/Demre, St. Nicholas Kilisesi ve Aziz Nikolaos bağlantısıyla sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-2-003",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Önemli Kişiler",
+    "question": "Noel Baba olarak bilinen Aziz Nikolaos hangi inanç turizmi merkeziyle ilişkilidir?",
+    "options": {
+      "A": "Hatay/Antakya",
+      "B": "Mersin/Tarsus",
+      "C": "İzmir/Selçuk",
+      "D": "Nevşehir/Hacıbektaş",
+      "E": "Antalya/Demre"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Antalya/Demre. St. Nicholas Kilisesi Antalya/Demre’dedir."
+  },
+  {
+    "id": "MKS-ANTIK-2-004",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Önemli Kişiler",
+    "question": "St. Paul’un doğum yeri kabul edilen kent hangisidir?",
+    "options": {
+      "A": "Tarsus",
+      "B": "Antakya",
+      "C": "Demre",
+      "D": "Patara",
+      "E": "Selçuk"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Tarsus. St. Paul, Tarsus doğumlu kabul edilir ve Kilikya hattıyla ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-005",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Önemli Kişiler",
+    "question": "St. Paul’un Anadolu yolculuklarıyla ilişkilendirilen Pisidia merkezi hangisidir?",
+    "options": {
+      "A": "Yalvaç/Pisidia Antiocheia",
+      "B": "Demre/Myra",
+      "C": "Antakya/St. Pierre",
+      "D": "Bodrum/Halikarnassos",
+      "E": "Aksu/Perge"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Yalvaç/Pisidia Antiocheia. Pisidia Antiocheia, Isparta/Yalvaç çevresinde St. Paul bağlantısıyla önemlidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-006",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Hatay/Antakya",
+    "question": "St. Pierre Kilisesi hangi il/ilçe hattıyla ilişkilidir?",
+    "options": {
+      "A": "Antalya/Demre",
+      "B": "İzmir/Selçuk",
+      "C": "Mersin/Tarsus",
+      "D": "Trabzon/Maçka",
+      "E": "Hatay/Antakya"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Hatay/Antakya. St. Pierre Kilisesi, Antakya’nın erken Hristiyanlık merkezi oluşuyla ilgilidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-007",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "İyonya",
+    "question": "Meryem Ana Evi hangi merkez çevresinde ziyaret edilir?",
+    "options": {
+      "A": "Antalya/Demre",
+      "B": "İzmir/Selçuk",
+      "C": "Hatay/Antakya",
+      "D": "Mersin/Tarsus",
+      "E": "Adıyaman/Nemrut"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: İzmir/Selçuk. Meryem Ana Evi, Efes/Selçuk çevresindeki inanç turizmi merkezidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-008",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Karya",
+    "question": "Herodotos hangi antik kentle ve hangi unvanla ilişkilendirilir?",
+    "options": {
+      "A": "Milet - Tıbbın babası",
+      "B": "Troya - Destan şairi",
+      "C": "Gordion - Frig kralı",
+      "D": "Halikarnassos - Tarihin babası",
+      "E": "Sardes - Zengin Lidya kralı"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Halikarnassos - Tarihin babası. Herodotos, Halikarnassos/Bodrum doğumlu kabul edilir ve tarihin babası olarak bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-009",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Karya",
+    "question": "Halikarnas Mozolesi hangi kişi adına yaptırılmıştır?",
+    "options": {
+      "A": "Mausolos",
+      "B": "Midas",
+      "C": "Kroisos",
+      "D": "I. Antiochos",
+      "E": "II. Attalos"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Mausolos. Mausolos, Karya satrabıdır; Mozole onun adına yapılmıştır."
+  },
+  {
+    "id": "MKS-ANTIK-2-010",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Frigya",
+    "question": "Kral Midas hangi uygarlık/bölgeyle ilişkilendirilir?",
+    "options": {
+      "A": "Lidya",
+      "B": "Urartu",
+      "C": "Frigya",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Frigya. Midas, Gordion ve Frigya ile birlikte düşünülür."
+  },
+  {
+    "id": "MKS-ANTIK-2-011",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Lidya",
+    "question": "Kroisos/Krezüs hangi uygarlığın kralıdır?",
+    "options": {
+      "A": "Frigya",
+      "B": "Lidya",
+      "C": "Urartu",
+      "D": "Hitit",
+      "E": "Kommagene"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Lidya. Krezüs, zenginliği ve Sardes-Lidya hattıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-012",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kommagene",
+    "question": "I. Antiochos hangi krallık ve alanla ilişkilidir?",
+    "options": {
+      "A": "Lidya - Sardes",
+      "B": "Kommagene - Nemrut Dağı",
+      "C": "Frigya - Gordion",
+      "D": "Urartu - Tuşpa",
+      "E": "İyonya - Efes"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Kommagene - Nemrut Dağı. I. Antiochos, Kommagene kralı olarak Nemrut Dağı düzenlemeleriyle bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-013",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Pamfilya",
+    "question": "II. Attalos hangi kentin kuruluşuyla ilişkilendirilir?",
+    "options": {
+      "A": "Patara",
+      "B": "Sardes",
+      "C": "Attaleia/Antalya",
+      "D": "Tuşpa",
+      "E": "Gordion"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Attaleia/Antalya. Antalya’nın antik adı Attaleia’dır ve II. Attalos ile ilişkilendirilir."
+  },
+  {
+    "id": "MKS-ANTIK-2-014",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "İyonya",
+    "question": "Thales en çok hangi İyon kentiyle ilişkilendirilir?",
+    "options": {
+      "A": "Efes",
+      "B": "Milet",
+      "C": "Priene",
+      "D": "Sardes",
+      "E": "Halikarnassos"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Milet. Thales, Miletli filozof olarak İyonya bilim-felsefe geleneğinin simgelerindendir."
+  },
+  {
+    "id": "MKS-ANTIK-2-015",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "İyonya",
+    "question": "Izgara planlı şehircilik anlayışıyla bilinen Hippodamos hangi kentle ilişkilendirilir?",
+    "options": {
+      "A": "Efes",
+      "B": "Teos",
+      "C": "Sardes",
+      "D": "Milet",
+      "E": "Troya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Milet. Hippodamos, Milet ve şehir planlamasıyla birlikte sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-2-016",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Troas",
+    "question": "Homeros hangi destanlar ve hangi kent anlatısıyla ilişkilidir?",
+    "options": {
+      "A": "Anabasis - Sardes",
+      "B": "İlyada/Odysseia - Troya",
+      "C": "Geographika - Amasya",
+      "D": "Historia - Halikarnassos",
+      "E": "Devlet - Milet"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: İlyada/Odysseia - Troya. Homeros, İlyada ve Odysseia destanlarıyla; Troya anlatılarıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-017",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Troas",
+    "question": "Aristoteles’in bir süre bulunduğu ve Athena Tapınağıyla bilinen kent hangisidir?",
+    "options": {
+      "A": "Troya",
+      "B": "Assos",
+      "C": "Efes",
+      "D": "Sardes",
+      "E": "Perge"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Assos. Assos, Çanakkale/Ayvacık çevresinde Aristoteles bağlantısıyla da sorulabilir."
+  },
+  {
+    "id": "MKS-ANTIK-2-018",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kapadokya",
+    "question": "Hacı Bektaş Veli hangi il/ilçe ile ilişkilendirilir?",
+    "options": {
+      "A": "Nevşehir/Hacıbektaş",
+      "B": "Konya/Meram",
+      "C": "Aksaray/Güzelyurt",
+      "D": "Kayseri/Soğanlı",
+      "E": "İzmir/Selçuk"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Nevşehir/Hacıbektaş. Hacı Bektaş Veli, Kapadokya çevresinde Nevşehir/Hacıbektaş ile anılır."
+  },
+  {
+    "id": "MKS-ANTIK-2-019",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Urartu",
+    "question": "Urartuların baş tanrısı hangisidir?",
+    "options": {
+      "A": "Haldi",
+      "B": "Kibele",
+      "C": "Teşup",
+      "D": "Arinna",
+      "E": "Zeus"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Haldi. Haldi, Urartu dininin baş tanrısı olarak öğrenilmelidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-020",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Urartu",
+    "question": "Urartu’da güneş tanrısı olarak bilinen isim hangisidir?",
+    "options": {
+      "A": "Haldi",
+      "B": "Teişeba",
+      "C": "Şivini",
+      "D": "Kibele",
+      "E": "Arinna"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Şivini. Şivini, Urartu güneş tanrısıdır."
+  },
+  {
+    "id": "MKS-ANTIK-2-021",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Urartu",
+    "question": "Urartu’da fırtına/savaş tanrısı olarak bilinen isim hangisidir?",
+    "options": {
+      "A": "Teişeba",
+      "B": "Haldi",
+      "C": "Şivini",
+      "D": "Kibele",
+      "E": "Zeus"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Teişeba. Teişeba, Urartu fırtına/savaş tanrısı olarak anılır."
+  },
+  {
+    "id": "MKS-ANTIK-2-022",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Frigya",
+    "question": "Friglerde Ana Tanrıça kültünün en bilinen adı hangisidir?",
+    "options": {
+      "A": "Haldi",
+      "B": "Artemis",
+      "C": "Aphrodite",
+      "D": "Arinna",
+      "E": "Kibele"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Kibele. Kibele, Frigya ve Pessinus ile birlikte düşünülür."
+  },
+  {
+    "id": "MKS-ANTIK-2-023",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "İyonya",
+    "question": "Didyma hangi tanrıya adanan tapınakla bilinir?",
+    "options": {
+      "A": "Artemis",
+      "B": "Apollon",
+      "C": "Zeus",
+      "D": "Aphrodite",
+      "E": "Dionysos"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Apollon. Didyma = Apollon Tapınağı eşleştirmesi çok sınavlıktır."
+  },
+  {
+    "id": "MKS-ANTIK-2-024",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "İyonya",
+    "question": "Efes hangi büyük tapınakla ilişkilendirilir?",
+    "options": {
+      "A": "Apollon Tapınağı",
+      "B": "Zeus Tapınağı",
+      "C": "Artemis Tapınağı",
+      "D": "Dionysos Tapınağı",
+      "E": "Athena Tapınağı"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Artemis Tapınağı. Efes, Artemis Tapınağı ve Celsus Kütüphanesiyle bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-025",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Karya",
+    "question": "Aphrodisias hangi kült ve sanat alanıyla öne çıkar?",
+    "options": {
+      "A": "Apollon - kehanet",
+      "B": "Zeus - tapınak",
+      "C": "Aphrodite - heykeltıraşlık",
+      "D": "Kibele - tümülüs",
+      "E": "Haldi - kale"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Aphrodite - heykeltıraşlık. Aphrodisias, Aphrodite kültü ve heykeltıraşlık okulu ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-026",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Antik Kentler",
+    "question": "Aizanoi Antik Kenti özellikle hangi yapı ile bilinir?",
+    "options": {
+      "A": "Apollon Tapınağı",
+      "B": "Artemis Tapınağı",
+      "C": "St. Nicholas Kilisesi",
+      "D": "Zeus Tapınağı",
+      "E": "Antoninler Çeşmesi"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Zeus Tapınağı. Aizanoi, Kütahya ve Zeus Tapınağı eşleştirmesiyle bilinmelidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-027",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Bergama",
+    "question": "Bergama/Pergamon hangi sağlık merkeziyle ilişkilidir?",
+    "options": {
+      "A": "Letoon",
+      "B": "Didyma",
+      "C": "Pessinus",
+      "D": "Asklepion",
+      "E": "Labraunda"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Asklepion. Bergama Asklepion, sağlık kültü ve antik tedavi merkezi olarak sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-2-028",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Bergama",
+    "question": "Bergama ile ilişkilendirilen ünlü hekim aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Herodotos",
+      "B": "Galen",
+      "C": "Homeros",
+      "D": "Thales",
+      "E": "Midas"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Galen. Galen, Bergama/Pergamon ile ilişkilendirilen önemli hekimdir."
+  },
+  {
+    "id": "MKS-ANTIK-2-029",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Pamfilya",
+    "question": "Side antik kentinin ayırt edici tapınağı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Apollon Tapınağı",
+      "B": "Artemis Tapınağı",
+      "C": "Zeus Tapınağı",
+      "D": "Dionysos Tapınağı",
+      "E": "Athena Tapınağı"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Apollon Tapınağı. Side, Apollon Tapınağı ve liman kenti kimliğiyle bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-030",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "İyonya",
+    "question": "Teos antik kenti hangi tapınakla ilişkilendirilebilir?",
+    "options": {
+      "A": "Apollon Tapınağı",
+      "B": "Artemis Tapınağı",
+      "C": "Zeus Labrandos",
+      "D": "Dionysos Tapınağı",
+      "E": "Athena Tapınağı"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Dionysos Tapınağı. Teos, İzmir/Seferihisar çevresinde Dionysos Tapınağı ile sorulabilir."
+  },
+  {
+    "id": "MKS-ANTIK-2-031",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Troas",
+    "question": "Assos antik kentinde öne çıkan tapınak aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Apollon Tapınağı",
+      "B": "Artemis Tapınağı",
+      "C": "Zeus Tapınağı",
+      "D": "Aphrodite Tapınağı",
+      "E": "Athena Tapınağı"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Athena Tapınağı. Assos, Athena Tapınağı ve Çanakkale/Ayvacık bağlantısıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-032",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Karya",
+    "question": "Labraunda kutsal alanı hangi tanrı adıyla ilişkilendirilir?",
+    "options": {
+      "A": "Apollon Didymaios",
+      "B": "Artemis Ephesia",
+      "C": "Aphrodite Knidia",
+      "D": "Haldi",
+      "E": "Zeus Labrandos"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Zeus Labrandos. Labraunda, Milas çevresinde Zeus Labrandos kutsal alanıdır."
+  },
+  {
+    "id": "MKS-ANTIK-2-033",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kilikya",
+    "question": "Kleopatra Kapısı hangi kentle ilişkilendirilir?",
+    "options": {
+      "A": "Side",
+      "B": "Tarsus",
+      "C": "Perge",
+      "D": "Efes",
+      "E": "Sardes"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Tarsus. Kleopatra Kapısı, Tarsus’un sınavda ayırt edici unsurlarından biridir."
+  },
+  {
+    "id": "MKS-ANTIK-2-034",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Hatay/Antakya",
+    "question": "Habib-i Neccar Camii hangi şehirle ilişkilidir?",
+    "options": {
+      "A": "Antalya/Demre",
+      "B": "Konya",
+      "C": "Hatay/Antakya",
+      "D": "Nevşehir",
+      "E": "Mardin"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Hatay/Antakya. Habib-i Neccar Camii Hatay/Antakya inanç hattı içinde sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-2-035",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Hatay/Antakya",
+    "question": "Hatay Arkeoloji Müzesi özellikle hangi eser grubu ile tanınır?",
+    "options": {
+      "A": "Frig tümülüsleri",
+      "B": "Urartu su kanalları",
+      "C": "Selçuklu çinileri",
+      "D": "Mozaikler",
+      "E": "Karya kaya mezarları"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Mozaikler. Hatay Arkeoloji Müzesi, Roma dönemi mozaikleriyle çok bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-036",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "İyonya",
+    "question": "Celsus Kütüphanesi hangi antik kentte yer alır?",
+    "options": {
+      "A": "Milet",
+      "B": "Bergama",
+      "C": "Efes",
       "D": "Sardes",
       "E": "Aizanoi"
     },
     "answer": "C",
-    "explanation": "Doğru cevap C: Teos. Teos İzmir/Seferihisar çevresinde Dionysos Tapınağı ile bilinir."
+    "explanation": "Doğru cevap C: Efes. Celsus Kütüphanesi, Efes’in en bilinen Roma dönemi yapılarındandır."
   },
   {
-    "id": "MKS-ANTIK-V2-099",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Zeytinyağı işlikleri” ifadesi hangi İyon kenti için kullanılabilir?",
+    "id": "MKS-ANTIK-2-037",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Pisidia",
+    "question": "Antoninler Çeşmesi hangi kentle ilişkilidir?",
     "options": {
-      "A": "Priene",
-      "B": "Milet",
-      "C": "Erythrai",
-      "D": "Klazomenai",
-      "E": "Sardes"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Klazomenai. Klazomenai İzmir/Urla çevresinde zeytinyağı işlikleriyle anılabilir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-100",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Denizcilik ve kolonizasyon” ifadesi İyonya içinde hangi kentle özellikle ilişkilidir?",
-    "options": {
-      "A": "Tuşpa",
-      "B": "Gordion",
-      "C": "Sardes",
-      "D": "Pessinus",
-      "E": "Phokaia/Foça"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Phokaia/Foça. Phokaia/Foça denizcilik ve kolonizasyonla ilişkilidir."
-  },
-  {
-    "id": "MKS-ANTIK-V2-EXTRA-001",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Celsus Kütüphanesi” ifadesi hangi antik kentle ilişkilidir?",
-    "options": {
-      "A": "Efes",
-      "B": "Sardes",
-      "C": "Perge",
-      "D": "Sagalassos",
-      "E": "Tuşpa"
+      "A": "Sagalassos",
+      "B": "Perge",
+      "C": "Aspendos",
+      "D": "Aphrodisias",
+      "E": "Aizanoi"
     },
     "answer": "A",
-    "explanation": "Doğru cevap A: Efes. Efes İzmir/Selçuk çevresinde Celsus Kütüphanesi ve Artemis Tapınağı ile bilinir."
+    "explanation": "Doğru cevap A: Sagalassos. Antoninler Çeşmesi, Sagalassos’un en ayırt edici yapılarındandır."
   },
   {
-    "id": "MKS-ANTIK-V2-EXTRA-002",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Aphrodite heykeli” ifadesi Karya içinde en çok hangi kentle ilişkilendirilir?",
+    "id": "MKS-ANTIK-2-038",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Likya",
+    "question": "Likya Birliği Meclisi ile bilinen kent hangisidir?",
     "options": {
-      "A": "Knidos",
-      "B": "Kaunos",
-      "C": "Halikarnassos",
+      "A": "Myra",
+      "B": "Xanthos",
+      "C": "Letoon",
+      "D": "Side",
+      "E": "Patara"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Patara. Patara, Likya Birliği Meclisi ve Aziz Nikolaos doğum yeri bilgisiyle önemlidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-039",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Likya",
+    "question": "Kaya mezarları ve Aziz Nikolaos bağlantısıyla bilinen Likya kenti hangisidir?",
+    "options": {
+      "A": "Patara",
+      "B": "Tlos",
+      "C": "Phaselis",
       "D": "Perge",
+      "E": "Myra"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Myra. Myra/Demre, kaya mezarları, tiyatrosu ve Aziz Nikolaos bağlantısıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-040",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Likya",
+    "question": "Yanartaş/Chimera ile birlikte anılabilecek Likya merkezi hangisidir?",
+    "options": {
+      "A": "Patara",
+      "B": "Myra",
+      "C": "Perge",
+      "D": "Olympos",
+      "E": "Side"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Olympos. Olympos, Antalya/Kumluca çevresinde Likya kıyı kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-041",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Likya",
+    "question": "Antalya/Kemer çevresinde liman kenti özelliğiyle bilinen Likya kenti hangisidir?",
+    "options": {
+      "A": "Patara",
+      "B": "Xanthos",
+      "C": "Phaselis",
+      "D": "Perge",
+      "E": "Aspendos"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Phaselis. Phaselis, Kemer çevresinde Likya liman kenti olarak bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-042",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kilikya",
+    "question": "Kızkalesi/Korykos hangi il ve bölgeyle ilişkilidir?",
+    "options": {
+      "A": "Mersin - Kilikya",
+      "B": "Antalya - Likya",
+      "C": "Muğla - Karya",
+      "D": "İzmir - İyonya",
+      "E": "Burdur - Pisidia"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Mersin - Kilikya. Kızkalesi/Korykos, Mersin/Erdemli çevresinde Kilikya hattındadır."
+  },
+  {
+    "id": "MKS-ANTIK-2-043",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kilikya",
+    "question": "Uzuncaburç hangi il ve antik çevreyle ilişkilidir?",
+    "options": {
+      "A": "Antalya/Demre - Myra",
+      "B": "Aydın/Didim - Didyma",
+      "C": "Muğla/Datça - Knidos",
+      "D": "Çanakkale/Ayvacık - Assos",
+      "E": "Mersin/Silifke - Olba-Diocaesarea"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Mersin/Silifke - Olba-Diocaesarea. Uzuncaburç, Mersin/Silifke çevresinde Olba-Diocaesarea ile anılır."
+  },
+  {
+    "id": "MKS-ANTIK-2-044",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kilikya",
+    "question": "Soli-Pompeiopolis hangi il çevresinde değerlendirilir?",
+    "options": {
+      "A": "Antalya",
+      "B": "Mersin",
+      "C": "İzmir",
+      "D": "Muğla",
+      "E": "Burdur"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Mersin. Soli-Pompeiopolis, Mersin’de Kilikya hattının önemli antik merkezlerindendir."
+  },
+  {
+    "id": "MKS-ANTIK-2-045",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kommagene",
+    "question": "Karakuş Tümülüsü hangi bölgeyle ilişkilidir?",
+    "options": {
+      "A": "Frigya",
+      "B": "Lidya",
+      "C": "Karya",
+      "D": "Kommagene",
+      "E": "İyonya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Kommagene. Karakuş Tümülüsü, Adıyaman/Kommagene hattında sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-2-046",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kommagene",
+    "question": "Cendere Köprüsü sınavda hangi hatla birlikte düşünülmelidir?",
+    "options": {
+      "A": "Bitlis - Urartu",
+      "B": "Mersin - Kilikya",
+      "C": "Adıyaman - Kommagene",
+      "D": "Muğla - Karya",
+      "E": "İzmir - İyonya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Adıyaman - Kommagene. Cendere Köprüsü, Kommagene çevresi ve Adıyaman ile ilişkilendirilir."
+  },
+  {
+    "id": "MKS-ANTIK-2-047",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Urartu",
+    "question": "Van Gölü kıyısındaki Ayanis hangi uygarlıkla ilişkilidir?",
+    "options": {
+      "A": "Frigya",
+      "B": "Lidya",
+      "C": "Kommagene",
+      "D": "Urartu",
+      "E": "Likya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Urartu. Ayanis, Van çevresinde Urartu merkezi/kalesidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-048",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Urartu",
+    "question": "Çavuştepe hangi il ve uygarlıkla ilişkilidir?",
+    "options": {
+      "A": "Kars - Ani",
+      "B": "Ağrı - İshak Paşa",
+      "C": "Adıyaman - Kommagene",
+      "D": "Van - Urartu",
+      "E": "Aydın - İyonya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Van - Urartu. Çavuştepe, Van/Gürpınar çevresinde Urartu kalesidir."
+  },
+  {
+    "id": "MKS-ANTIK-2-049",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kapadokya",
+    "question": "Kapadokya’da çömlekçilik ve Kızılırmak kıyısıyla bilinen merkez hangisidir?",
+    "options": {
+      "A": "Ürgüp",
+      "B": "Uçhisar",
+      "C": "Zelve",
+      "D": "Derinkuyu",
+      "E": "Avanos"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Avanos. Avanos, Kapadokya’da çömlekçilik ve Kızılırmak ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-2-050",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 2",
+    "topic": "Kapadokya",
+    "question": "Kayseri çevresinde kaya kiliseleri ve bebekleriyle bilinen Kapadokya vadisi hangisidir?",
+    "options": {
+      "A": "Ihlara Vadisi",
+      "B": "Zelve Vadisi",
+      "C": "Devrent Vadisi",
+      "D": "Güvercinlik Vadisi",
+      "E": "Soğanlı Vadisi"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Soğanlı Vadisi. Soğanlı Vadisi, Kayseri çevresiyle ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-001",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Zor Karma",
+    "question": "İnanç merkezleri ve kişiler açısından aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": {
+      "A": "St. Nicholas - Antalya/Demre",
+      "B": "St. Pierre - Antalya/Demre",
+      "C": "St. Paul - Tarsus",
+      "D": "Meryem Ana - İzmir/Selçuk",
+      "E": "Herodotos - Halikarnassos"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: St. Pierre - Antalya/Demre. St. Pierre, Antalya/Demre değil Hatay/Antakya ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-002",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Likya",
+    "question": "Aşağıdakilerden hangisi Likya kenti değildir?",
+    "options": {
+      "A": "Patara",
+      "B": "Myra",
+      "C": "Xanthos",
+      "D": "Perge",
+      "E": "Letoon"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Perge. Perge Pamfilya kentidir; diğerleri Likya hattındadır."
+  },
+  {
+    "id": "MKS-ANTIK-3-003",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Pamfilya",
+    "question": "Aşağıdakilerden hangisi Pamfilya kentidir?",
+    "options": {
+      "A": "Patara",
+      "B": "Side",
+      "C": "Myra",
+      "D": "Knidos",
+      "E": "Sagalassos"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Side. Side, Perge ve Aspendos ile birlikte Pamfilya’dadır."
+  },
+  {
+    "id": "MKS-ANTIK-3-004",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Karya",
+    "question": "Aşağıdakilerden hangisi Karya ile ilişkilidir?",
+    "options": {
+      "A": "Perge",
+      "B": "Sagalassos",
+      "C": "Aigai",
+      "D": "Kaunos",
+      "E": "Tarsus"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Kaunos. Kaunos, Dalyan/Ortaca çevresinde Karya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-005",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "İyonya",
+    "question": "Aşağıdakilerden hangisi İyonya hattına aittir?",
+    "options": {
+      "A": "Gordion",
+      "B": "Priene",
+      "C": "Tuşpa",
+      "D": "Pessinus",
+      "E": "Arsameia"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Priene. Priene, Aydın çevresinde İyonya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-006",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Aiolis",
+    "question": "Aşağıdakilerden hangisi Aiolis ile ilişkilidir?",
+    "options": {
+      "A": "Kyme",
+      "B": "Patara",
+      "C": "Perge",
+      "D": "Kaunos",
       "E": "Tarsus"
     },
     "answer": "A",
-    "explanation": "Doğru cevap A: Knidos. Knidos Datça çevresindedir ve Aphrodite heykeliyle anılır."
+    "explanation": "Doğru cevap A: Kyme. Kyme, Kuzey Ege/Aiolis kentidir."
   },
   {
-    "id": "MKS-ANTIK-V2-EXTRA-003",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Kızılırmak kıyısı ve çömlekçilik” ifadesi Kapadokya’da hangi merkezle ilişkilidir?",
+    "id": "MKS-ANTIK-3-007",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Troas",
+    "question": "Aşağıdakilerden hangisi Troas bölgesinde değerlendirilir?",
     "options": {
-      "A": "Ürgüp",
-      "B": "Avanos",
-      "C": "Göreme",
-      "D": "Ihlara",
-      "E": "Soğanlı"
+      "A": "Aizanoi",
+      "B": "Didyma",
+      "C": "Tarsus",
+      "D": "Alexandria Troas",
+      "E": "Letoon"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Alexandria Troas. Alexandria Troas, Çanakkale çevresindeki Troas kentlerindendir."
+  },
+  {
+    "id": "MKS-ANTIK-3-008",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Kommagene",
+    "question": "Aşağıdakilerden hangisi Kommagene ile ilişkilidir?",
+    "options": {
+      "A": "Karakuş Tümülüsü",
+      "B": "Pessinus",
+      "C": "Aigai",
+      "D": "Labraunda",
+      "E": "Teos"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Karakuş Tümülüsü. Karakuş Tümülüsü Adıyaman/Kommagene hattındadır."
+  },
+  {
+    "id": "MKS-ANTIK-3-009",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Urartu",
+    "question": "Aşağıdakilerden hangisi Urartu ile ilişkilidir?",
+    "options": {
+      "A": "Pessinus",
+      "B": "Sardes",
+      "C": "Toprakkale",
+      "D": "Knidos",
+      "E": "Priene"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Toprakkale. Toprakkale, Van çevresinde Urartu ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-010",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Kilikya",
+    "question": "Aşağıdakilerden hangisi Kilikya hattında yer alır?",
+    "options": {
+      "A": "Sagalassos",
+      "B": "Soli-Pompeiopolis",
+      "C": "Patara",
+      "D": "Erythrai",
+      "E": "Aigai"
     },
     "answer": "B",
-    "explanation": "Doğru cevap B: Avanos. Avanos çömlekçilik ve Kızılırmak kıyısıyla bilinir."
+    "explanation": "Doğru cevap B: Soli-Pompeiopolis. Soli-Pompeiopolis, Mersin/Kilikya hattındadır."
   },
   {
-    "id": "MKS-ANTIK-V2-EXTRA-004",
-    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
-    "topic": "Karışık Tuzak",
-    "question": "“Sütunlu cadde, stadion ve Antalya/Aksu” ifadesi hangi Pamfilya kentini anlatır?",
+    "id": "MKS-ANTIK-3-011",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Önemli Kişiler",
+    "question": "Aşağıdaki kişi-yer eşleştirmelerinden hangisi yanlıştır?",
+    "options": {
+      "A": "Herodotos - Halikarnassos",
+      "B": "Midas - Sardes",
+      "C": "Mausolos - Halikarnassos",
+      "D": "Krezüs - Lidya",
+      "E": "Thales - Milet"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Midas - Sardes. Midas Frigya/Gordion ile ilişkilidir; Sardes Lidya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-012",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Karya",
+    "question": "Karya ve Aphrodisias açısından aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": {
+      "A": "Aphrodisias - Aydın/Karacasu - heykeltıraşlık",
+      "B": "Aphrodisias - Antalya/Demre - Noel Baba",
+      "C": "Aphrodisias - Mersin/Tarsus - St. Paul",
+      "D": "Aphrodisias - Çanakkale - Troya",
+      "E": "Aphrodisias - Burdur - Antoninler Çeşmesi"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Aphrodisias - Aydın/Karacasu - heykeltıraşlık. Aphrodisias, Aydın/Karacasu ve heykeltıraşlık okulu ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-3-013",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Pisidia",
+    "question": "Aşağıdakilerden hangisi “Burdur-Ağlasun-Pisidia” üçlüsünü tamamlar?",
     "options": {
       "A": "Aspendos",
-      "B": "Side",
-      "C": "Patara",
-      "D": "Myra",
-      "E": "Perge"
+      "B": "Patara",
+      "C": "Knidos",
+      "D": "Sagalassos",
+      "E": "Tarsus"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Sagalassos. Sagalassos = Burdur/Ağlasun + Pisidia + Antoninler Çeşmesi."
+  },
+  {
+    "id": "MKS-ANTIK-3-014",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Pisidia",
+    "question": "Aşağıdakilerden hangisi “Isparta/Yalvaç-St. Paul” bağlantısıyla sorulur?",
+    "options": {
+      "A": "Myra",
+      "B": "Attaleia",
+      "C": "Labraunda",
+      "D": "Gordion",
+      "E": "Pisidia Antiocheia"
     },
     "answer": "E",
-    "explanation": "Doğru cevap E: Perge. Perge Antalya/Aksu çevresindedir; sütunlu cadde ve stadionla bilinir."
+    "explanation": "Doğru cevap E: Pisidia Antiocheia. Pisidia Antiocheia, Yalvaç ve St. Paul bağlantısıyla önemlidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-015",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Karya",
+    "question": "Aşağıdakilerden hangisi “Bodrum-Mausoleum-Herodotos” hattında yer alır?",
+    "options": {
+      "A": "Knidos",
+      "B": "Halikarnassos",
+      "C": "Kaunos",
+      "D": "Aphrodisias",
+      "E": "Didyma"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Halikarnassos. Halikarnassos, Bodrum ve Halikarnas Mozolesi ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-3-016",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Karma",
+    "question": "Aşağıdaki tapınak-kent eşleştirmelerinden hangisi yanlıştır?",
+    "options": {
+      "A": "Apollon Tapınağı - Didyma",
+      "B": "Artemis Tapınağı - Efes",
+      "C": "Zeus Tapınağı - Aizanoi",
+      "D": "Athena Tapınağı - Assos",
+      "E": "Apollon Tapınağı - Efes"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Apollon Tapınağı - Efes. Efes’in ana tapınak eşleştirmesi Artemis’tir; Apollon için Didyma akla gelir."
+  },
+  {
+    "id": "MKS-ANTIK-3-017",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Pamfilya",
+    "question": "“II. Attalos” soruda geçerse öncelikle hangi kent adı akla gelmelidir?",
+    "options": {
+      "A": "Patara",
+      "B": "Sardes",
+      "C": "Attaleia/Antalya",
+      "D": "Tuşpa",
+      "E": "Assos"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Attaleia/Antalya. Attaleia adı Antalya ile ilişkilidir ve II. Attalos’a bağlanır."
+  },
+  {
+    "id": "MKS-ANTIK-3-018",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Likya",
+    "question": "“Kaya mezarları + Aziz Nikolaos + Demre” ifadesi hangi merkeze işaret eder?",
+    "options": {
+      "A": "Myra",
+      "B": "Patara",
+      "C": "Xanthos",
+      "D": "Letoon",
+      "E": "Kaunos"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Myra. Myra/Demre, kaya mezarları ve Aziz Nikolaos piskoposluğu ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-3-019",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Likya",
+    "question": "“Likya Birliği Meclisi + Aziz Nikolaos’un doğum yeri” hangi kent için kullanılır?",
+    "options": {
+      "A": "Myra",
+      "B": "Xanthos",
+      "C": "Patara",
+      "D": "Letoon",
+      "E": "Side"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Patara. Patara, hem Likya Birliği Meclisi hem de Aziz Nikolaos’un doğum yeri kabul edilmesiyle önemlidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-020",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Karya",
+    "question": "“Zeus Labrandos kutsal alanı” hangi merkezle ilişkilidir?",
+    "options": {
+      "A": "Aizanoi",
+      "B": "Didyma",
+      "C": "Labraunda",
+      "D": "Efes",
+      "E": "Pessinus"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Labraunda. Labraunda, Karya’da Zeus Labrandos kutsal alanıdır."
+  },
+  {
+    "id": "MKS-ANTIK-3-021",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Karya",
+    "question": "“Yaşayan antik kent” ifadesi aşağıdakilerden hangisi için kullanılır?",
+    "options": {
+      "A": "Sagalassos",
+      "B": "Patara",
+      "C": "Stratonikeia",
+      "D": "Myra",
+      "E": "Aigai"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Stratonikeia. Stratonikeia, Muğla/Yatağan çevresinde yaşayan antik kent olarak bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-3-022",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Kilikya",
+    "question": "Aşağıdakilerden hangisi “Mersin/Silifke” çevresiyle ilişkilidir?",
+    "options": {
+      "A": "Perge",
+      "B": "Aigai",
+      "C": "Tlos",
+      "D": "Uzuncaburç",
+      "E": "Priene"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Uzuncaburç. Uzuncaburç, Mersin/Silifke çevresinde Kilikya hattındadır."
+  },
+  {
+    "id": "MKS-ANTIK-3-023",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Kommagene",
+    "question": "Aşağıdakilerden hangisi “Adıyaman-Kommagene” hattında yer almaz?",
+    "options": {
+      "A": "Nemrut Krater Gölü",
+      "B": "Nemrut Dağı",
+      "C": "Arsameia",
+      "D": "Cendere Köprüsü",
+      "E": "Karakuş Tümülüsü"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Nemrut Krater Gölü. Nemrut Krater Gölü Bitlis’tedir; Adıyaman’daki Nemrut Dağı Kommagene ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-024",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Urartu",
+    "question": "Aşağıdakilerden hangisi “Van-Urartu” hattında yer almaz?",
+    "options": {
+      "A": "Tuşpa",
+      "B": "Van Kalesi",
+      "C": "Çavuştepe",
+      "D": "Ayanis",
+      "E": "Akdamar Kilisesi"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Akdamar Kilisesi. Akdamar Van’dadır ama Urartu değil, Ermeni kilisesi olarak sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-3-025",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Kapadokya",
+    "question": "Kapadokya için aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": {
+      "A": "Soğanlı Vadisi - Aksaray",
+      "B": "Ihlara Vadisi - Aksaray",
+      "C": "Derinkuyu - Nevşehir",
+      "D": "Kaymaklı - Nevşehir",
+      "E": "Avanos - çömlekçilik"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Soğanlı Vadisi - Aksaray. Soğanlı Vadisi Kayseri çevresiyle, Ihlara Vadisi ise Aksaray ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-026",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "İyonya",
+    "question": "Aşağıdakilerden hangisi “İzmir/Urla” ile ilişkilidir?",
+    "options": {
+      "A": "Erythrai",
+      "B": "Teos",
+      "C": "Kyme",
+      "D": "Aigai",
+      "E": "Klazomenai"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Klazomenai. Klazomenai, İzmir/Urla çevresi ve zeytinyağı işlikleriyle bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-3-027",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "İyonya",
+    "question": "“İzmir/Çeşme-Ildırı” hangi İyon kentiyle ilişkilidir?",
+    "options": {
+      "A": "Klazomenai",
+      "B": "Teos",
+      "C": "Erythrai",
+      "D": "Milet",
+      "E": "Priene"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Erythrai. Erythrai, Çeşme-Ildırı çevresinde İyonya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-028",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "İyonya",
+    "question": "“İzmir/Foça; denizcilik ve kolonizasyon” hangi kent için ayırt edicidir?",
+    "options": {
+      "A": "Erythrai",
+      "B": "Klazomenai",
+      "C": "Kyme",
+      "D": "Phokaia/Foça",
+      "E": "Aigai"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Phokaia/Foça. Phokaia/Foça, denizcilik ve kolonizasyonla ilişkilendirilir."
+  },
+  {
+    "id": "MKS-ANTIK-3-029",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Lidya",
+    "question": "Aşağıdakilerden hangisi “Lidya” için daha ayırt edicidir?",
+    "options": {
+      "A": "Gordion - Midas - Kibele",
+      "B": "Tuşpa - Haldi - Van",
+      "C": "Sardes - para - Kral Yolu",
+      "D": "Xanthos - Letoon - Patara",
+      "E": "Tarsus - St. Paul - Kızkalesi"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Sardes - para - Kral Yolu. Lidya için Sardes, para, ticaret ve Kral Yolu temel işaretlerdir."
+  },
+  {
+    "id": "MKS-ANTIK-3-030",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Frigya",
+    "question": "Aşağıdakilerden hangisi “Frigya” için daha ayırt edicidir?",
+    "options": {
+      "A": "Sardes - Krezüs - para",
+      "B": "Tuşpa - Haldi - Van",
+      "C": "Gordion - Midas - Kibele",
+      "D": "Patara - Myra - Nikolaos",
+      "E": "Didyma - Apollon - Milet"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Gordion - Midas - Kibele. Frigya; Gordion, Midas, Pessinus/Kibele ve fibula ile sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-3-031",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Frigya",
+    "question": "“Fibula” hangi uygarlık/bölgeyle ilişkilendirilir?",
+    "options": {
+      "A": "Lidya",
+      "B": "Frigya",
+      "C": "Urartu",
+      "D": "İyonya",
+      "E": "Likya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Frigya. Fibula, Frigler için ayırt edici kültür unsurlarından biridir."
+  },
+  {
+    "id": "MKS-ANTIK-3-032",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Karya",
+    "question": "Aşağıdaki seçeneklerden hangisi “Karya” grubunu doğru verir?",
+    "options": {
+      "A": "Perge - Aspendos - Side",
+      "B": "Efes - Milet - Didyma",
+      "C": "Troya - Assos - Alexandria Troas",
+      "D": "Sardes - Philadelphia - Thyateira",
+      "E": "Halikarnassos - Knidos - Kaunos"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Halikarnassos - Knidos - Kaunos. Halikarnassos, Knidos ve Kaunos Karya grubudur."
+  },
+  {
+    "id": "MKS-ANTIK-3-033",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Pamfilya",
+    "question": "Aşağıdaki seçeneklerden hangisi “Pamfilya” grubunu doğru verir?",
+    "options": {
+      "A": "Patara - Myra - Xanthos",
+      "B": "Sagalassos - Antiocheia - Yalvaç",
+      "C": "Perge - Aspendos - Side",
+      "D": "Halikarnassos - Kaunos - Knidos",
+      "E": "Efes - Milet - Priene"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Perge - Aspendos - Side. Perge, Aspendos ve Side Pamfilya’nın en tipik kentleridir."
+  },
+  {
+    "id": "MKS-ANTIK-3-034",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Likya",
+    "question": "Aşağıdaki seçeneklerden hangisi “Likya” grubunu doğru verir?",
+    "options": {
+      "A": "Perge - Aspendos - Side",
+      "B": "Sagalassos - Antiocheia - Yalvaç",
+      "C": "Sardes - Philadelphia - Thyateira",
+      "D": "Xanthos - Letoon - Patara",
+      "E": "Tarsus - Anemurium - Kızkalesi"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Xanthos - Letoon - Patara. Xanthos, Letoon ve Patara Likya grubudur."
+  },
+  {
+    "id": "MKS-ANTIK-3-035",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "İyonya",
+    "question": "Aşağıdaki seçeneklerden hangisi “İyonya” grubunu doğru verir?",
+    "options": {
+      "A": "Gordion - Pessinus - Midas",
+      "B": "Sardes - Thyateira - Philadelphia",
+      "C": "Tuşpa - Çavuştepe - Ayanis",
+      "D": "Nemrut - Arsameia - Karakuş",
+      "E": "Efes - Milet - Didyma"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Efes - Milet - Didyma. Efes, Milet ve Didyma İyonya hattındadır."
+  },
+  {
+    "id": "MKS-ANTIK-3-036",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Troas",
+    "question": "Aşağıdakilerden hangisi “Troas” grubunu doğru verir?",
+    "options": {
+      "A": "Aigai - Kyme - Larissa",
+      "B": "Perge - Side - Aspendos",
+      "C": "Tarsus - Anemurium - Korykos",
+      "D": "Sardes - Thyateira - Philadelphia",
+      "E": "Troya - Assos - Alexandria Troas"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Troya - Assos - Alexandria Troas. Troas, Çanakkale çevresinde Troya, Assos ve Alexandria Troas ile öğrenilir."
+  },
+  {
+    "id": "MKS-ANTIK-3-037",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Urartu",
+    "question": "Aşağıdakilerden hangisi “Urartu” grubunu doğru verir?",
+    "options": {
+      "A": "Gordion - Pessinus - Midas",
+      "B": "Sardes - Krezüs - Kral Yolu",
+      "C": "Tuşpa - Van Kalesi - Çavuştepe",
+      "D": "Patara - Myra - Nikolaos",
+      "E": "Efes - Artemis - Celsus"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Tuşpa - Van Kalesi - Çavuştepe. Urartu, Van merkezli Tuşpa, Van Kalesi ve Çavuştepe ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-3-038",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "İnanç Merkezleri",
+    "question": "İnanç turizmi merkezleri açısından aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": {
+      "A": "St. Nicholas - Antalya/Demre",
+      "B": "Meryem Ana Evi - Antalya/Demre",
+      "C": "St. Pierre - Hatay/Antakya",
+      "D": "St. Paul - Tarsus",
+      "E": "Meryem Ana Evi - İzmir/Selçuk"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Meryem Ana Evi - Antalya/Demre. Meryem Ana Evi İzmir/Selçuk çevresindedir."
+  },
+  {
+    "id": "MKS-ANTIK-3-039",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Önemli Kişiler",
+    "question": "St. Paul bağlantısı açısından aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": {
+      "A": "St. Paul - Demre ve Myra",
+      "B": "St. Paul - Xanthos ve Letoon",
+      "C": "St. Paul - Gordion ve Pessinus",
+      "D": "St. Paul - Sardes ve Krezüs",
+      "E": "St. Paul - Tarsus ve Yalvaç bağlantısı"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: St. Paul - Tarsus ve Yalvaç bağlantısı. St. Paul, Tarsus doğumu ve Pisidia Antiocheia/Yalvaç bağlantısıyla öğrenilir."
+  },
+  {
+    "id": "MKS-ANTIK-3-040",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Hatay/Antakya",
+    "question": "“Hristiyanlığın erken dönemleri + Antakya + mağara kilise” ifadesi hangi merkeze işaret eder?",
+    "options": {
+      "A": "St. Pierre Kilisesi",
+      "B": "St. Nicholas Kilisesi",
+      "C": "Meryem Ana Evi",
+      "D": "Akdamar Kilisesi",
+      "E": "Sümela Manastırı"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: St. Pierre Kilisesi. Bu ifade St. Pierre Kilisesi’ni verir."
+  },
+  {
+    "id": "MKS-ANTIK-3-041",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Hatay/Antakya",
+    "question": "“Mozaikleriyle ünlü arkeoloji müzesi” ifadesi bu konu içinde en çok hangi il için ayırt edicidir?",
+    "options": {
+      "A": "Burdur",
+      "B": "Aksaray",
+      "C": "Kars",
+      "D": "Manisa",
+      "E": "Hatay"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Hatay. Hatay Arkeoloji Müzesi mozaikleriyle bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-3-042",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Aiolis",
+    "question": "Aiolis kentleri açısından aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": {
+      "A": "Aigai - Aiolis",
+      "B": "Kyme - Aiolis",
+      "C": "Troya - Troas",
+      "D": "Aigai - Kilikya",
+      "E": "Assos - Troas"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Aigai - Kilikya. Aigai Kilikya değil Aiolis kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-3-043",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Bergama",
+    "question": "Bergama/Pergamon açısından aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": {
+      "A": "Bergama - Zeus Labrandos - Herodotos",
+      "B": "Bergama - Noel Baba - Demre",
+      "C": "Bergama - Haldi - Tuşpa",
+      "D": "Bergama - Asklepion - Galen",
+      "E": "Bergama - Krezüs - Sardes"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Bergama - Asklepion - Galen. Bergama, Asklepion ve Galen bağlantısıyla sorulabilir."
+  },
+  {
+    "id": "MKS-ANTIK-3-044",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Antik Kentler",
+    "question": "Aşağıdakilerden hangisi “Kütahya + Zeus Tapınağı” eşleştirmesidir?",
+    "options": {
+      "A": "Sagalassos",
+      "B": "Aizanoi",
+      "C": "Aphrodisias",
+      "D": "Didyma",
+      "E": "Perge"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Aizanoi. Aizanoi, Kütahya ve Zeus Tapınağı ile öğrenilir."
+  },
+  {
+    "id": "MKS-ANTIK-3-045",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "İnanç Merkezleri",
+    "question": "St. Pierre ve Tarsus ayrımı açısından aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": {
+      "A": "Tarsus - St. Paul",
+      "B": "Antakya - St. Pierre",
+      "C": "Demre - St. Nicholas",
+      "D": "Selçuk - Meryem Ana",
+      "E": "Tarsus - St. Pierre Kilisesi"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Tarsus - St. Pierre Kilisesi. St. Pierre Kilisesi Tarsus’ta değil Hatay/Antakya’dadır."
+  },
+  {
+    "id": "MKS-ANTIK-3-046",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Kapadokya",
+    "question": "“Kapadokya sadece Nevşehir değildir” bilgisini destekleyen doğru eşleştirme hangisidir?",
+    "options": {
+      "A": "Ihlara - İzmir",
+      "B": "Ihlara - Aksaray",
+      "C": "Soğanlı - Muğla",
+      "D": "Derinkuyu - Hatay",
+      "E": "Kaymaklı - Mersin"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Ihlara - Aksaray. Ihlara Vadisi Aksaray’dadır ve Kapadokya kapsamında düşünülür."
+  },
+  {
+    "id": "MKS-ANTIK-3-047",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Kapadokya",
+    "question": "Aşağıdakilerden hangisi “Nevşehir” ile doğrudan ilişkilidir?",
+    "options": {
+      "A": "Derinkuyu",
+      "B": "Ihlara",
+      "C": "Soğanlı",
+      "D": "Assos",
+      "E": "Tarsus"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Derinkuyu. Derinkuyu ve Kaymaklı, Nevşehir’deki yer altı şehirleridir."
+  },
+  {
+    "id": "MKS-ANTIK-3-048",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Kilikya",
+    "question": "Aşağıdaki seçeneklerden hangisi “Mersin/Kilikya” için yanlıştır?",
+    "options": {
+      "A": "Perge",
+      "B": "Tarsus",
+      "C": "Anemurium",
+      "D": "Kızkalesi",
+      "E": "Uzuncaburç"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Perge. Perge Antalya/Pamfilya kentidir; Mersin/Kilikya hattında değildir."
+  },
+  {
+    "id": "MKS-ANTIK-3-049",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Pamfilya",
+    "question": "Aşağıdaki seçeneklerden hangisi “Antalya/Pamfilya” için yanlıştır?",
+    "options": {
+      "A": "Patara",
+      "B": "Perge",
+      "C": "Aspendos",
+      "D": "Side",
+      "E": "Attaleia"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Patara. Patara Likya kentidir; Pamfilya grubunda değildir."
+  },
+  {
+    "id": "MKS-ANTIK-3-050",
+    "category": "Anadolu Antik Bölgeleri ve Kişiler - Test 3",
+    "topic": "Likya",
+    "question": "Aşağıdaki seçeneklerden hangisi “Antalya-Muğla/Likya” için yanlıştır?",
+    "options": {
+      "A": "Xanthos",
+      "B": "Letoon",
+      "C": "Patara",
+      "D": "Aspendos",
+      "E": "Myra"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Aspendos. Aspendos Pamfilya kentidir; Likya grubunda değildir."
   }
 ];

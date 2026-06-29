@@ -1,17 +1,9 @@
-MKS Ciddi Soru Bankası V2
+MKS Ciddi Soru Bankası V3
 
-GitHub Pages için:
-- index.html
-- questions.js
-- README.txt
-
-Yükleme:
-1) ZIP'i aç.
-2) index.html ve questions.js dosyalarını GitHub repo ana dizinine yükle.
-3) Settings > Pages > Deploy from a branch > main / root > Save.
-
-Kontrol sonucu:
-- Toplam soru: 553
-- Yeni eklenen konu: Anadolu Antik Bölgeleri ve Önemli Kişiler = 100 soru
-- Tüm sorular A-B-C-D-E olmak üzere 5 şıklıdır.
-- Exact tekrar eden soru metinleri ayıklandı.
+Güncelleme:
+- Anadolu Antik Bölgeleri ve Kişiler konusu 150 soruya çıkarıldı.
+- Bu konu 3 ayrı test olarak bölündü: Test 1, Test 2, Test 3.
+- Her test 50 sorudur.
+- Her testte A/B/C/D/E doğru cevap dağılımı 10'ar adettir.
+- Tüm sorular 5 şıklıdır.
+- GitHub Pages için index.html ve questions.js ana dizinde olmalıdır.
