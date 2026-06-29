@@ -1710,21 +1710,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap A: Sürdürülebilir turizm. Bu soru Turizm Türleri ve Arz-Talep başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "MKS-ELITE-ILK3-115",
-    "category": "İlk 3 Oturum Karma",
-    "topic": "Turizm Türleri ve Arz-Talep",
-    "question": "Taşıma kapasitesinin aşılması aşağıdakilerden hangisine yol açabilir?",
-    "options": {
-      "A": "Çevresel bozulma ve ziyaretçi memnuniyetinin azalması",
-      "B": "Doğal kaynakların sınırsız artması",
-      "C": "Yerel halkın hiç etkilenmemesi",
-      "D": "Turizm talebinin zorunlu olarak yok olması",
-      "E": "Tüm tesislerin kalitesinin otomatik artması"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Çevresel bozulma ve ziyaretçi memnuniyetinin azalması. Bu soru Turizm Türleri ve Arz-Talep başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "MKS-ELITE-ILK3-116",
     "category": "İlk 3 Oturum Karma",
     "topic": "Turizm Türleri ve Arz-Talep",
@@ -1813,21 +1798,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Turizm sosyolojisi. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "MKS-ELITE-ILK3-122",
-    "category": "İlk 3 Oturum Karma",
-    "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
-    "question": "Turistin ihtiyaç, beklenti, motivasyon ve davranışlarını inceleyen alan aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Turizm coğrafyası",
-      "B": "Turist psikolojisi",
-      "C": "Turizm arzı",
-      "D": "Müzecilik",
-      "E": "Turizm mevzuatı"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Turist psikolojisi. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "MKS-ELITE-ILK3-123",
@@ -1920,21 +1890,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap C: Başıboş/gezgin turist. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "MKS-ELITE-ILK3-129",
-    "category": "İlk 3 Oturum Karma",
-    "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
-    "question": "Doxey Irridex modeli aşağıdakilerden hangisini açıklar?",
-    "options": {
-      "A": "Yerel halkın turistlere yönelik tutumunun turist sayısı arttıkça değişmesini",
-      "B": "Turizm işletmelerinin mali tablolarını",
-      "C": "Seyahat acentelerinin belge ücretlerini",
-      "D": "Antik kentlerin mimari tiplerini",
-      "E": "Turistlerin pasaport türlerini"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Yerel halkın turistlere yönelik tutumunun turist sayısı arttıkça değişmesini. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "MKS-ELITE-ILK3-130",
     "category": "İlk 3 Oturum Karma",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
@@ -1993,36 +1948,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "D",
     "explanation": "Doğru cevap D: Düşmanlık. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "MKS-ELITE-ILK3-134",
-    "category": "İlk 3 Oturum Karma",
-    "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
-    "question": "Doxey Irridex modelinin doğru sıralaması aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Coşku - Kayıtsızlık - Rahatsızlık - Düşmanlık",
-      "B": "Kayıtsızlık - Coşku - Rahatsızlık - Düşmanlık",
-      "C": "Rahatsızlık - Kayıtsızlık - Coşku - Düşmanlık",
-      "D": "Coşku - Rahatsızlık - Kayıtsızlık - Düşmanlık",
-      "E": "Düşmanlık - Rahatsızlık - Kayıtsızlık - Coşku"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Coşku - Kayıtsızlık - Rahatsızlık - Düşmanlık. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "MKS-ELITE-ILK3-135",
-    "category": "İlk 3 Oturum Karma",
-    "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
-    "question": "Bireyin kendi toplumunun kültürünü öğrenme süreci aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Kültürleme",
-      "B": "Kültürleşme",
-      "C": "Asimilasyon",
-      "D": "Kültür şoku",
-      "E": "Kültürel erozyon"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Kültürleme. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "MKS-ELITE-ILK3-136",
@@ -2145,21 +2070,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap A: Turist memnuniyeti. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "MKS-ELITE-ILK3-144",
-    "category": "İlk 3 Oturum Karma",
-    "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
-    "question": "Turistin elde ettiği fayda ile katlandığı maliyetleri karşılaştırması aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Turist memnuniyeti",
-      "B": "Müşteri değeri",
-      "C": "Turizm talebi",
-      "D": "Doxey modeli",
-      "E": "Kültür şoku"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Müşteri değeri. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "MKS-ELITE-ILK3-145",
     "category": "İlk 3 Oturum Karma",
     "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
@@ -2173,21 +2083,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Taşıma kapasitesi. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "MKS-ELITE-ILK3-146",
-    "category": "İlk 3 Oturum Karma",
-    "topic": "Turizm Sosyolojisi ve Turist Psikolojisi",
-    "question": "Bir alanın fiziksel olarak alabileceği maksimum kişi sayısı aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Fiziksel taşıma kapasitesi",
-      "B": "Ekolojik taşıma kapasitesi",
-      "C": "Sosyo-kültürel taşıma kapasitesi",
-      "D": "Psikolojik taşıma kapasitesi",
-      "E": "Potansiyel talep"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Fiziksel taşıma kapasitesi. Bu soru Turizm Sosyolojisi ve Turist Psikolojisi başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "MKS-ELITE-ILK3-147",
@@ -2258,7 +2153,8 @@ window.MKS_QUESTIONS = [
       "A": "1618",
       "B": "2634",
       "C": "6326",
-      "D": "2863"
+      "D": "2863",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: 2634. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2272,7 +2168,8 @@ window.MKS_QUESTIONS = [
       "A": "1618",
       "B": "1774",
       "C": "2863",
-      "D": "6502"
+      "D": "6502",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 1618. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2286,7 +2183,8 @@ window.MKS_QUESTIONS = [
       "A": "2634",
       "B": "1618",
       "C": "6326",
-      "D": "5682"
+      "D": "5682",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: 6326. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2300,7 +2198,8 @@ window.MKS_QUESTIONS = [
       "A": "1774",
       "B": "2863",
       "C": "6326",
-      "D": "1618"
+      "D": "1618",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: 2863. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2314,7 +2213,8 @@ window.MKS_QUESTIONS = [
       "A": "1774",
       "B": "5682",
       "C": "2634",
-      "D": "6502"
+      "D": "6502",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 1774. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2328,7 +2228,8 @@ window.MKS_QUESTIONS = [
       "A": "2863",
       "B": "1774",
       "C": "5682",
-      "D": "6326"
+      "D": "6326",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: 5682. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2342,7 +2243,8 @@ window.MKS_QUESTIONS = [
       "A": "6502",
       "B": "1618",
       "C": "1774",
-      "D": "2863"
+      "D": "2863",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 6502. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2356,7 +2258,8 @@ window.MKS_QUESTIONS = [
       "A": "6326",
       "B": "1618",
       "C": "2634",
-      "D": "1774"
+      "D": "1774",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: 2634. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2370,7 +2273,8 @@ window.MKS_QUESTIONS = [
       "A": "2863",
       "B": "2634",
       "C": "1774",
-      "D": "5682"
+      "D": "5682",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: 2634. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2384,7 +2288,8 @@ window.MKS_QUESTIONS = [
       "A": "1618",
       "B": "6326",
       "C": "6502",
-      "D": "2863"
+      "D": "2863",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 1618. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2398,7 +2303,8 @@ window.MKS_QUESTIONS = [
       "A": "Seyahat acentaları",
       "B": "Turist rehberliği",
       "C": "Kimlik bildirimi",
-      "D": "Pasaport işlemleri"
+      "D": "Pasaport işlemleri",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Turist rehberliği. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2412,7 +2318,8 @@ window.MKS_QUESTIONS = [
       "A": "6326",
       "B": "1618",
       "C": "2863",
-      "D": "1774"
+      "D": "1774",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: 2863. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2426,7 +2333,8 @@ window.MKS_QUESTIONS = [
       "A": "1774",
       "B": "5682",
       "C": "6502",
-      "D": "2634"
+      "D": "2634",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 1774. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2440,7 +2348,8 @@ window.MKS_QUESTIONS = [
       "A": "Kimlik bildirimi",
       "B": "Pasaport",
       "C": "TÜRSAB",
-      "D": "Kültür varlığı"
+      "D": "Kültür varlığı",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Pasaport. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2454,7 +2363,8 @@ window.MKS_QUESTIONS = [
       "A": "Paket tur ve tüketici",
       "B": "Pasaport",
       "C": "Kokart",
-      "D": "Turizm merkezi"
+      "D": "Turizm merkezi",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Paket tur ve tüketici. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2468,7 +2378,8 @@ window.MKS_QUESTIONS = [
       "A": "Kokart",
       "B": "Kimlik",
       "C": "Teşvik",
-      "D": "Sit alanı"
+      "D": "Sit alanı",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: Teşvik. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2482,7 +2393,8 @@ window.MKS_QUESTIONS = [
       "A": "Acenta",
       "B": "Rehber",
       "C": "Pasaport",
-      "D": "Kimlik"
+      "D": "Kimlik",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Acenta. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2496,7 +2408,8 @@ window.MKS_QUESTIONS = [
       "A": "Turizm yatırımı",
       "B": "Rehber",
       "C": "Kültür varlığı",
-      "D": "Paket tur"
+      "D": "Paket tur",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Rehber. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2510,7 +2423,8 @@ window.MKS_QUESTIONS = [
       "A": "Turizm işletme belgesi",
       "B": "Kimlik bildirimi",
       "C": "Kültür varlığı",
-      "D": "Seyahat acentası"
+      "D": "Seyahat acentası",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: Kültür varlığı. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2524,7 +2438,8 @@ window.MKS_QUESTIONS = [
       "A": "Otel kimlik bildirimi",
       "B": "Pasaport",
       "C": "Kokart",
-      "D": "TÜRSAB"
+      "D": "TÜRSAB",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Otel kimlik bildirimi. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2538,7 +2453,8 @@ window.MKS_QUESTIONS = [
       "A": "1774 - Pasaport",
       "B": "5682 - Kimlik Bildirme",
       "C": "6326 - Turist Rehberliği",
-      "D": "1618 - Turizmi Teşvik"
+      "D": "1618 - Turizmi Teşvik",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: 6326 - Turist Rehberliği. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2552,7 +2468,8 @@ window.MKS_QUESTIONS = [
       "A": "2634 - Turizmi Teşvik",
       "B": "1618 - Seyahat Acentaları",
       "C": "2863 - Kültür ve Tabiat Varlıkları",
-      "D": "5682 - Kimlik Bildirme"
+      "D": "5682 - Kimlik Bildirme",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: 5682 - Kimlik Bildirme. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2566,7 +2483,8 @@ window.MKS_QUESTIONS = [
       "A": "Medeni Kanun",
       "B": "Borçlar Kanunu",
       "C": "Turizmi Teşvik Kanunu",
-      "D": "Ticaret Kanunu"
+      "D": "Ticaret Kanunu",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: Turizmi Teşvik Kanunu. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2580,7 +2498,8 @@ window.MKS_QUESTIONS = [
       "A": "Turizmi Teşvik Kanunu",
       "B": "Seyahat Acentaları Kanunu",
       "C": "Turist Rehberliği Meslek Kanunu",
-      "D": "Medeni Kanun"
+      "D": "Medeni Kanun",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: Medeni Kanun. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2594,7 +2513,8 @@ window.MKS_QUESTIONS = [
       "A": "TÜRSAB üyeliği",
       "B": "Turizm işletme belgesi",
       "C": "Kokart",
-      "D": "Kimlik bildirimi B. Seyahat acentaları ve turist rehberliği"
+      "D": "Kimlik bildirimi B. Seyahat acentaları ve turist rehberliği",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Turizm işletme belgesi. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2608,7 +2528,8 @@ window.MKS_QUESTIONS = [
       "A": "TÜREB",
       "B": "TÜRSAB",
       "C": "UNESCO",
-      "D": "TÜİK"
+      "D": "TÜİK",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: TÜRSAB. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2622,7 +2543,8 @@ window.MKS_QUESTIONS = [
       "A": "TÜREB",
       "B": "TÜRSAB",
       "C": "ICOMOS",
-      "D": "TURSİD"
+      "D": "TURSİD",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: TÜREB. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2636,7 +2558,8 @@ window.MKS_QUESTIONS = [
       "A": "A Grubu",
       "B": "B Grubu",
       "C": "C Grubu",
-      "D": "D Grubu"
+      "D": "D Grubu",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: A Grubu. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2650,7 +2573,8 @@ window.MKS_QUESTIONS = [
       "A": "A Grubu",
       "B": "B Grubu",
       "C": "C Grubu",
-      "D": "D Grubu"
+      "D": "D Grubu",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: C Grubu. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2664,7 +2588,8 @@ window.MKS_QUESTIONS = [
       "A": "A Grubu",
       "B": "B Grubu",
       "C": "C Grubu",
-      "D": "D Grubu"
+      "D": "D Grubu",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: B Grubu. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2678,7 +2603,8 @@ window.MKS_QUESTIONS = [
       "A": "Sadece yurt içi Türk vatandaşlarına tur yapar",
       "B": "Sadece bilet satışı yapar",
       "C": "Tüm seyahat acentalığı hizmetlerini yapabilir",
-      "D": "Yalnız rehberlik hizmeti verir"
+      "D": "Yalnız rehberlik hizmeti verir",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: Tüm seyahat acentalığı hizmetlerini yapabilir. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2692,7 +2618,8 @@ window.MKS_QUESTIONS = [
       "A": "Bilet satışı ağırlıklı faaliyet gösterir",
       "B": "Tüm hizmetleri yapar",
       "C": "Sadece kültür varlığı denetler",
-      "D": "Sadece konaklama tesisi işletir"
+      "D": "Sadece konaklama tesisi işletir",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Bilet satışı ağırlıklı faaliyet gösterir. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2706,7 +2633,8 @@ window.MKS_QUESTIONS = [
       "A": "Uluslararası tüm turları düzenler",
       "B": "Yalnız Türk vatandaşları için yurt içi tur düzenler",
       "C": "Rehberlere kokart verir",
-      "D": "Pasaport işlemlerini düzenler"
+      "D": "Pasaport işlemlerini düzenler",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Yalnız Türk vatandaşları için yurt içi tur düzenler. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2720,7 +2648,8 @@ window.MKS_QUESTIONS = [
       "A": "Kültür varlığını kamulaştırmak",
       "B": "Tur düzenlemek ve turistik hizmet satmak",
       "C": "Pasaport Kanunu çıkarmak",
-      "D": "Rehberlere ruhsatname vermek"
+      "D": "Rehberlere ruhsatname vermek",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Tur düzenlemek ve turistik hizmet satmak. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2734,7 +2663,8 @@ window.MKS_QUESTIONS = [
       "A": "Seyahat acentacılığı",
       "B": "Kimlik bildirimi",
       "C": "Kültür varlığı koruma",
-      "D": "Pasaport işlemleri"
+      "D": "Pasaport işlemleri",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Seyahat acentacılığı. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2748,7 +2678,8 @@ window.MKS_QUESTIONS = [
       "A": "Otel müşterisi",
       "B": "Turist rehberi",
       "C": "Seyahat acentası ortağı",
-      "D": "Pasaport polisi"
+      "D": "Pasaport polisi",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Turist rehberi. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2762,7 +2693,8 @@ window.MKS_QUESTIONS = [
       "A": "Rehberlik mesleğinin kabul ve icrasını",
       "B": "Otel müşterilerinin kimlik bildirimini",
       "C": "Acenta gruplarını",
-      "D": "Pasaport türlerini"
+      "D": "Pasaport türlerini",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Rehberlik mesleğinin kabul ve icrasını. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2776,7 +2708,8 @@ window.MKS_QUESTIONS = [
       "A": "Kültür varlığı kaçakçılığı",
       "B": "Rehber kokartı",
       "C": "Seyahat acentaları ve TÜRSAB",
-      "D": "Kimlik bildirimi"
+      "D": "Kimlik bildirimi",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: Seyahat acentaları ve TÜRSAB. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2790,7 +2723,8 @@ window.MKS_QUESTIONS = [
       "A": "TÜRSAB rehberleri, TÜREB acentaları ifade eder",
       "B": "TÜRSAB acentaları, TÜREB rehberleri ifade eder",
       "C": "İkisi de yalnız otellerle ilgilidir",
-      "D": "İkisi de pasaport işlemlerini düzenler"
+      "D": "İkisi de pasaport işlemlerini düzenler",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: TÜRSAB acentaları, TÜREB rehberleri ifade eder. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2804,7 +2738,8 @@ window.MKS_QUESTIONS = [
       "A": "Kokart",
       "B": "Ruhsatname",
       "C": "TÜREB",
-      "D": "Acenta grupları"
+      "D": "Acenta grupları",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: Acenta grupları. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2818,7 +2753,8 @@ window.MKS_QUESTIONS = [
       "A": "TÜRSAB",
       "B": "A grubu acenta",
       "C": "Tur satışı",
-      "D": "Kültür varlığı kaçakçılığı"
+      "D": "Kültür varlığı kaçakçılığı",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: Kültür varlığı kaçakçılığı. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2832,7 +2768,8 @@ window.MKS_QUESTIONS = [
       "A": "Yalnız Türk vatandaşlarına yurt içi tur",
       "B": "Tüm acentalık hizmetleri",
       "C": "Kokart ve ruhsatname",
-      "D": "Tarihî eser koruma"
+      "D": "Tarihî eser koruma",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Yalnız Türk vatandaşlarına yurt içi tur. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2846,7 +2783,8 @@ window.MKS_QUESTIONS = [
       "A": "Sadece rehber yetiştirir",
       "B": "Bilet satışıyla ilişkilidir",
       "C": "Yalnız kültür varlığı korur",
-      "D": "Kimlik bildirimi yapar"
+      "D": "Kimlik bildirimi yapar",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Bilet satışıyla ilişkilidir. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2860,24 +2798,11 @@ window.MKS_QUESTIONS = [
       "A": "Tüm seyahat acentalığı hizmetleri",
       "B": "Yalnız Türk vatandaşlarına yurt içi tur",
       "C": "Pasaport türleri",
-      "D": "Kimlik bildirimi"
+      "D": "Kimlik bildirimi",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Tüm seyahat acentalığı hizmetleri. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "MEV-045",
-    "category": "Turizm Mevzuatı Temel Kanunlar",
-    "topic": "Turizm Mevzuatı Temel Kanunlar",
-    "question": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
-    "options": {
-      "A": "TÜREB - seyahat acentaları",
-      "B": "TÜRSAB - turist rehberleri",
-      "C": "TÜRSAB - seyahat acentaları",
-      "D": "TÜREB - pasaport işlemleri"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: TÜRSAB - seyahat acentaları. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "MEV-046",
@@ -2888,7 +2813,8 @@ window.MKS_QUESTIONS = [
       "A": "Kokart",
       "B": "Ruhsatname",
       "C": "TÜREB",
-      "D": "TÜRSAB"
+      "D": "TÜRSAB",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: TÜRSAB. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2902,7 +2828,8 @@ window.MKS_QUESTIONS = [
       "A": "A-B-C grupları",
       "B": "TÜRSAB",
       "C": "Tur satışı",
-      "D": "TÜREB"
+      "D": "TÜREB",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: TÜREB. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2916,7 +2843,8 @@ window.MKS_QUESTIONS = [
       "A": "1618",
       "B": "2634",
       "C": "6326",
-      "D": "2863"
+      "D": "2863",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: 6326. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2930,7 +2858,8 @@ window.MKS_QUESTIONS = [
       "A": "1618",
       "B": "1774",
       "C": "6326",
-      "D": "5682"
+      "D": "5682",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 1618. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2944,7 +2873,8 @@ window.MKS_QUESTIONS = [
       "A": "2863",
       "B": "1618",
       "C": "6502",
-      "D": "6326 C. Koruma, kimlik, pasaport, tüketici ve karışık senaryolar"
+      "D": "6326 C. Koruma, kimlik, pasaport, tüketici ve karışık senaryolar",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: 1618. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2958,7 +2888,8 @@ window.MKS_QUESTIONS = [
       "A": "1774",
       "B": "5682",
       "C": "2863",
-      "D": "1618"
+      "D": "1618",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: 2863. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2972,7 +2903,8 @@ window.MKS_QUESTIONS = [
       "A": "Kimlik Bildirme Kanunu",
       "B": "Kültür ve Tabiat Varlıklarını Koruma Kanunu",
       "C": "Pasaport Kanunu",
-      "D": "Turist Rehberliği Kanunu"
+      "D": "Turist Rehberliği Kanunu",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Kültür ve Tabiat Varlıklarını Koruma Kanunu. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -2986,7 +2918,8 @@ window.MKS_QUESTIONS = [
       "A": "2863",
       "B": "6326",
       "C": "1774",
-      "D": "6502"
+      "D": "6502",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 2863. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3000,7 +2933,8 @@ window.MKS_QUESTIONS = [
       "A": "2634",
       "B": "2863",
       "C": "1774",
-      "D": "5682"
+      "D": "5682",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: 2863. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3014,7 +2948,8 @@ window.MKS_QUESTIONS = [
       "A": "1774",
       "B": "2634",
       "C": "6502",
-      "D": "2863"
+      "D": "2863",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 1774. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3028,7 +2963,8 @@ window.MKS_QUESTIONS = [
       "A": "1774 pasaport, 5682 kimliktir",
       "B": "1774 kimlik, 5682 pasaporttur",
       "C": "İkisi de rehberlikle ilgilidir",
-      "D": "İkisi de kültür varlığıyla ilgilidir"
+      "D": "İkisi de kültür varlığıyla ilgilidir",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: 1774 kimlik, 5682 pasaporttur. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3042,7 +2978,8 @@ window.MKS_QUESTIONS = [
       "A": "6502",
       "B": "1774",
       "C": "6326",
-      "D": "2863"
+      "D": "2863",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 6502. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3056,7 +2993,8 @@ window.MKS_QUESTIONS = [
       "A": "Tüketici hukuku",
       "B": "Kimlik bildirimi",
       "C": "Kültür varlığı koruma",
-      "D": "Rehberlik ruhsatnamesi"
+      "D": "Rehberlik ruhsatnamesi",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Tüketici hukuku. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3070,7 +3008,8 @@ window.MKS_QUESTIONS = [
       "A": "Sit alanı",
       "B": "Koruma kurulu",
       "C": "Kültür varlığı",
-      "D": "Turizm işletme belgesi"
+      "D": "Turizm işletme belgesi",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: Turizm işletme belgesi. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3084,7 +3023,8 @@ window.MKS_QUESTIONS = [
       "A": "Kokart",
       "B": "Kimlik bildirimi",
       "C": "Paket tur",
-      "D": "Turizm merkezi"
+      "D": "Turizm merkezi",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Kimlik bildirimi. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3098,7 +3038,8 @@ window.MKS_QUESTIONS = [
       "A": "Pasaport",
       "B": "TÜRSAB",
       "C": "Sit alanı",
-      "D": "Acenta grubu"
+      "D": "Acenta grubu",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Pasaport. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3112,7 +3053,8 @@ window.MKS_QUESTIONS = [
       "A": "Paket tur ve tüketici hakkı",
       "B": "Koruma kurulu",
       "C": "Kimlik kaydı",
-      "D": "Kokart"
+      "D": "Kokart",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Paket tur ve tüketici hakkı. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3126,7 +3068,8 @@ window.MKS_QUESTIONS = [
       "A": "Acenta, TÜRSAB, bilet",
       "B": "Teşvik, yatırım, belge",
       "C": "Kokart, ruhsatname, TÜREB",
-      "D": "Sit, kültür varlığı, koruma"
+      "D": "Sit, kültür varlığı, koruma",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Teşvik, yatırım, belge. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3140,7 +3083,8 @@ window.MKS_QUESTIONS = [
       "A": "Teşvik, yatırım, belge",
       "B": "Kimlik, otel, bildirim",
       "C": "Kültür varlığı, koruma, tarihî eser",
-      "D": "Acenta, TÜRSAB, tur"
+      "D": "Acenta, TÜRSAB, tur",
+      "E": "Likya"
     },
     "answer": "C",
     "explanation": "Doğru cevap C: Kültür varlığı, koruma, tarihî eser. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3154,7 +3098,8 @@ window.MKS_QUESTIONS = [
       "A": "Kimlik bildirimi",
       "B": "Kokart",
       "C": "Turizm merkezi",
-      "D": "Sit alanı"
+      "D": "Sit alanı",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Kimlik bildirimi. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3168,7 +3113,8 @@ window.MKS_QUESTIONS = [
       "A": "6326",
       "B": "5682",
       "C": "1774",
-      "D": "1618"
+      "D": "1618",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: 5682. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3182,7 +3128,8 @@ window.MKS_QUESTIONS = [
       "A": "1618",
       "B": "6502",
       "C": "1774",
-      "D": "2863"
+      "D": "2863",
+      "E": "Likya"
     },
     "answer": "B",
     "explanation": "Doğru cevap B: 6502. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3196,7 +3143,8 @@ window.MKS_QUESTIONS = [
       "A": "1618",
       "B": "6502",
       "C": "1774",
-      "D": "2863"
+      "D": "2863",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 1618. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3210,7 +3158,8 @@ window.MKS_QUESTIONS = [
       "A": "2634",
       "B": "1774",
       "C": "5682",
-      "D": "6326"
+      "D": "6326",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 2634. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3224,7 +3173,8 @@ window.MKS_QUESTIONS = [
       "A": "Turizm merkezi",
       "B": "Turizm işletme belgesi",
       "C": "Turizm yatırım belgesi",
-      "D": "Kokart"
+      "D": "Kokart",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: Kokart. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3238,7 +3188,8 @@ window.MKS_QUESTIONS = [
       "A": "TÜRSAB",
       "B": "Acenta grupları",
       "C": "Tur satışı",
-      "D": "Kültür varlığı"
+      "D": "Kültür varlığı",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: Kültür varlığı. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3252,7 +3203,8 @@ window.MKS_QUESTIONS = [
       "A": "Kokart",
       "B": "TÜREB",
       "C": "Ruhsatname",
-      "D": "Acenta grupları"
+      "D": "Acenta grupları",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: Acenta grupları. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3266,7 +3218,8 @@ window.MKS_QUESTIONS = [
       "A": "Sit alanı",
       "B": "Tarihî eser",
       "C": "Koruma kurulu",
-      "D": "Pasaport türleri"
+      "D": "Pasaport türleri",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: Pasaport türleri. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3280,7 +3233,8 @@ window.MKS_QUESTIONS = [
       "A": "2634 - Teşvik",
       "B": "1774 - Kimlik Bildirme",
       "C": "5682 - Pasaport",
-      "D": "6326 - Seyahat Acentaları"
+      "D": "6326 - Seyahat Acentaları",
+      "E": "Likya"
     },
     "answer": "D",
     "explanation": "Doğru cevap D: 6326 - Seyahat Acentaları. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3294,7 +3248,8 @@ window.MKS_QUESTIONS = [
       "A": "2634 - 1618 - 6326 - 2863 - 1774 - 5682 - 6502",
       "B": "1618 - 2634 - 2863 - 6326 - 5682 - 1774 - 6502",
       "C": "2634 - 6326 - 1618 - 1774 - 2863 - 6502 - 5682",
-      "D": "2863 - 1618 - 6326 - 2634 - 1774 - 5682 - 6502"
+      "D": "2863 - 1618 - 6326 - 2634 - 1774 - 5682 - 6502",
+      "E": "Likya"
     },
     "answer": "A",
     "explanation": "Doğru cevap A: 2634 - 1618 - 6326 - 2863 - 1774 - 5682 - 6502. Bu soru Turizm Mevzuatı Temel Kanunlar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
@@ -3675,21 +3630,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap A: Efes. Bu soru Türkiye Turizm Coğrafyası - Temel Mantık başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TTC-026",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
-    "question": "Ayder Yaylası hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Rize",
-      "B": "Trabzon",
-      "C": "Artvin",
-      "D": "Ordu",
-      "E": "Giresun"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Rize. Bu soru Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TTC-027",
     "category": "Türkiye Turizm Coğrafyası",
     "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
@@ -4035,36 +3975,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap A: Şanlıurfa. Bu soru Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TTC-050",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme",
-    "question": "Safranbolu hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Karabük",
-      "B": "Bolu",
-      "C": "Bartın",
-      "D": "Kastamonu",
-      "E": "Zonguldak Mini Test 11 - 5 Şıklı Tekrar Testi"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Karabük. Bu soru Türkiye Turizm Coğrafyası - Şehir / Destinasyon Eşleştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-051",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Ayder Yaylası hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Trabzon",
-      "B": "Rize",
-      "C": "Artvin",
-      "D": "Ordu",
-      "E": "Giresun"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Rize. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TTC-052",
     "category": "Türkiye Turizm Coğrafyası",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
@@ -4080,51 +3990,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap C: Trabzon. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TTC-053",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Kafkasör Yaylası hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Rize",
-      "B": "Trabzon",
-      "C": "Ordu",
-      "D": "Artvin",
-      "E": "Gümüşhane"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Artvin. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-054",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Perşembe Yaylası hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Rize",
-      "B": "Trabzon",
-      "C": "Artvin",
-      "D": "Ordu",
-      "E": "Giresun"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Ordu. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-055",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Sarıkamış kayak merkezi hangi ilimizdedir?",
-    "options": {
-      "A": "Erzurum",
-      "B": "Kars",
-      "C": "Kayseri",
-      "D": "Bolu",
-      "E": "Bursa"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Kars. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TTC-056",
     "category": "Türkiye Turizm Coğrafyası",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
@@ -4138,36 +4003,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "C",
     "explanation": "Doğru cevap C: Erzurum. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-057",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Gönen Kaplıcaları hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Yalova",
-      "B": "Bursa",
-      "C": "Kütahya",
-      "D": "Balıkesir",
-      "E": "Afyonkarahisar"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Balıkesir. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-058",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Kozaklı termal turizm merkezi hangi ilimizdedir?",
-    "options": {
-      "A": "Afyonkarahisar",
-      "B": "Denizli",
-      "C": "Nevşehir",
-      "D": "Kütahya",
-      "E": "Ankara"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Nevşehir. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "TTC-059",
@@ -4200,81 +4035,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap B: Denizli. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TTC-061",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Meryem Ana Evi hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Hatay",
-      "B": "İzmir",
-      "C": "Konya",
-      "D": "Trabzon",
-      "E": "Van"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: İzmir. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-062",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "St. Pierre Kilisesi hangi ilimizdedir?",
-    "options": {
-      "A": "İzmir",
-      "B": "Hatay",
-      "C": "Van",
-      "D": "Antalya",
-      "E": "Konya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Hatay. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-063",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Sümela Manastırı hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Rize",
-      "B": "Trabzon",
-      "C": "Artvin",
-      "D": "Van",
-      "E": "Kars"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Trabzon. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-064",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Akdamar Kilisesi hangi ilimizdedir?",
-    "options": {
-      "A": "Trabzon",
-      "B": "Van",
-      "C": "Hatay",
-      "D": "İzmir",
-      "E": "Konya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Van. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-065",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "St. Nicholas Kilisesi hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Hatay",
-      "B": "Van",
-      "C": "Antalya",
-      "D": "Trabzon",
-      "E": "İstanbul"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Antalya. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TTC-066",
     "category": "Türkiye Turizm Coğrafyası",
     "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
@@ -4288,96 +4048,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "A",
     "explanation": "Doğru cevap A: İzmir. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-067",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Troya Antik Kenti hangi ilimizdedir?",
-    "options": {
-      "A": "İzmir",
-      "B": "Çanakkale",
-      "C": "Çorum",
-      "D": "Kars",
-      "E": "Karabük"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Çanakkale. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-068",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Hattuşa antik kenti hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Şanlıurfa",
-      "B": "Çorum",
-      "C": "İzmir",
-      "D": "Kars",
-      "E": "Nevşehir"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Çorum. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-069",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Ani Harabeleri hangi ilimizdedir?",
-    "options": {
-      "A": "Van",
-      "B": "Şanlıurfa",
-      "C": "Kars",
-      "D": "Çorum",
-      "E": "Aksaray"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Kars. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-070",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Göbeklitepe hangi ilimizde yer alır?",
-    "options": {
-      "A": "Adıyaman",
-      "B": "Nevşehir",
-      "C": "Şanlıurfa",
-      "D": "Kars",
-      "E": "Çanakkale"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Şanlıurfa. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-071",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Nemrut Dağı hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Kars",
-      "B": "Adıyaman",
-      "C": "Çorum",
-      "D": "Karabük",
-      "E": "Denizli"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Adıyaman. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-072",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Safranbolu hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Bolu",
-      "B": "Kastamonu",
-      "C": "Karabük",
-      "D": "Bartın",
-      "E": "Zonguldak"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Karabük. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "TTC-073",
@@ -4410,36 +4080,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap E: Sümela Manastırı - Rize. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TTC-075",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar",
-    "question": "Aşağıdakilerden hangisi doğru eşleştirilmiştir?",
-    "options": {
-      "A": "Efes - Çanakkale",
-      "B": "Troya - İzmir",
-      "C": "Hattuşa - Çorum",
-      "D": "Göbeklitepe - Adıyaman",
-      "E": "Ani Harabeleri - Van Mini Test 12 - Pekiştirme Testi"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Hattuşa - Çorum. Bu soru Türkiye Turizm Coğrafyası - 5 Şıklı Tekrar başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-076",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Ayder Yaylası hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Trabzon",
-      "B": "Rize",
-      "C": "Artvin",
-      "D": "Ordu",
-      "E": "Giresun"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Rize. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TTC-077",
     "category": "Türkiye Turizm Coğrafyası",
     "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
@@ -4453,351 +4093,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Trabzon. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-078",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Kafkasör Yaylası hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Rize",
-      "B": "Trabzon",
-      "C": "Artvin",
-      "D": "Ordu",
-      "E": "Samsun"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Artvin. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-079",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Perşembe Yaylası hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Rize",
-      "B": "Trabzon",
-      "C": "Artvin",
-      "D": "Ordu",
-      "E": "Giresun"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Ordu. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-080",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Palandöken kayak merkezi hangi ilimizdedir?",
-    "options": {
-      "A": "Bursa",
-      "B": "Bolu",
-      "C": "Erzurum",
-      "D": "Kars",
-      "E": "Kayseri"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Erzurum. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-081",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Sarıkamış kayak merkezi hangi ilimizdedir?",
-    "options": {
-      "A": "Erzurum",
-      "B": "Kars",
-      "C": "Kayseri",
-      "D": "Bursa",
-      "E": "Bolu"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Kars. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-082",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Uludağ kayak merkezi hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Bursa",
-      "B": "Erzurum",
-      "C": "Bolu",
-      "D": "Kayseri",
-      "E": "Kars"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Bursa. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-083",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Erciyes kayak merkezi hangi ilimizdedir?",
-    "options": {
-      "A": "Erzurum",
-      "B": "Kayseri",
-      "C": "Bursa",
-      "D": "Bolu",
-      "E": "Kars"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Kayseri. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-084",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Kartalkaya kayak merkezi hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Kars",
-      "B": "Bursa",
-      "C": "Bolu",
-      "D": "Erzurum",
-      "E": "Isparta"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Bolu. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-085",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Gönen Kaplıcaları hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Yalova",
-      "B": "Bursa",
-      "C": "Balıkesir",
-      "D": "Kütahya",
-      "E": "Afyonkarahisar"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Balıkesir. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-086",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Kozaklı termal turizm merkezi hangi ilimizdedir?",
-    "options": {
-      "A": "Denizli",
-      "B": "Afyonkarahisar",
-      "C": "Nevşehir",
-      "D": "Ankara",
-      "E": "Yalova"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Nevşehir. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-087",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Kızılcahamam termal turizm merkezi hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Ankara",
-      "B": "Denizli",
-      "C": "Kütahya",
-      "D": "Balıkesir",
-      "E": "Bursa"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Ankara. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-088",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Pamukkale ve Karahayıt hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Afyonkarahisar",
-      "B": "Denizli",
-      "C": "Yalova",
-      "D": "Bursa",
-      "E": "Kütahya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Denizli. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-089",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Meryem Ana Evi hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Hatay",
-      "B": "İzmir",
-      "C": "Konya",
-      "D": "Trabzon",
-      "E": "Van"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: İzmir. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-090",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "St. Pierre Kilisesi hangi ilimizdedir?",
-    "options": {
-      "A": "İzmir",
-      "B": "Hatay",
-      "C": "Van",
-      "D": "Antalya",
-      "E": "Konya"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Hatay. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-091",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Sümela Manastırı hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Rize",
-      "B": "Trabzon",
-      "C": "Artvin",
-      "D": "Kars",
-      "E": "Van"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Trabzon. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-092",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Akdamar Kilisesi hangi ilimizdedir?",
-    "options": {
-      "A": "İzmir",
-      "B": "Hatay",
-      "C": "Van",
-      "D": "Trabzon",
-      "E": "Konya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Van. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-093",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "St. Nicholas Kilisesi hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Hatay",
-      "B": "Antalya",
-      "C": "Van",
-      "D": "İzmir",
-      "E": "Trabzon"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Antalya. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-094",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Efes Antik Kenti hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "İzmir",
-      "B": "Çanakkale",
-      "C": "Çorum",
-      "D": "Şanlıurfa",
-      "E": "Kars"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: İzmir. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-095",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Troya Antik Kenti hangi ilimizdedir?",
-    "options": {
-      "A": "İzmir",
-      "B": "Çanakkale",
-      "C": "Çorum",
-      "D": "Adıyaman",
-      "E": "Karabük"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Çanakkale. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-096",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Hattuşa hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Şanlıurfa",
-      "B": "Çorum",
-      "C": "İzmir",
-      "D": "Kars",
-      "E": "Nevşehir"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Çorum. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-097",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Göbeklitepe hangi ilimizde yer alır?",
-    "options": {
-      "A": "Adıyaman",
-      "B": "Nevşehir",
-      "C": "Şanlıurfa",
-      "D": "Kars",
-      "E": "Çanakkale"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Şanlıurfa. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-098",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Nemrut Dağı hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Kars",
-      "B": "Adıyaman",
-      "C": "Çorum",
-      "D": "Karabük",
-      "E": "Denizli"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Adıyaman. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-099",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Ani Harabeleri hangi ilimizdedir?",
-    "options": {
-      "A": "Van",
-      "B": "Şanlıurfa",
-      "C": "Kars",
-      "D": "Çorum",
-      "E": "Aksaray"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Kars. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TTC-100",
-    "category": "Türkiye Turizm Coğrafyası",
-    "topic": "Türkiye Turizm Coğrafyası - Pekiştirme",
-    "question": "Safranbolu hangi ilimizle ilişkilidir?",
-    "options": {
-      "A": "Bolu",
-      "B": "Kastamonu",
-      "C": "Karabük",
-      "D": "Bartın",
-      "E": "Zonguldak"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Karabük. Bu soru Türkiye Turizm Coğrafyası - Pekiştirme başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "TYD-001",
@@ -4918,36 +4213,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "A",
     "explanation": "Doğru cevap A: İstanbul Surları. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-009",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
-    "options": {
-      "A": "Kariye - Selçuklu - çini",
-      "B": "Yerebatan Sarnıcı - Bizans - su yapısı",
-      "C": "Ayasofya - Lidya - para",
-      "D": "İstanbul Surları - Kommagene - heykel",
-      "E": "Kariye - Frig - tümülüs"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Yerebatan Sarnıcı - Bizans - su yapısı. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-010",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Ayasofya - Bizans",
-      "B": "Yerebatan Sarnıcı - Bizans",
-      "C": "Kariye - Bizans",
-      "D": "İstanbul Surları - Bizans",
-      "E": "Yerebatan Sarnıcı - Osmanlı Batılılaşma sarayı"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Yerebatan Sarnıcı - Osmanlı Batılılaşma sarayı. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "TYD-011",
@@ -5265,21 +4530,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap A: Bursa - Osmanlı köyü. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TYD-032",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
-    "options": {
-      "A": "Selimiye - İstanbul - I. Ahmed",
-      "B": "Süleymaniye - İstanbul - Kanuni",
-      "C": "Sultanahmet - Edirne - II. Selim",
-      "D": "Bursa Ulu Camii - Konya - Selçuklu",
-      "E": "Divriği Ulu Camii - Erzurum - İlhanlı"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Süleymaniye - İstanbul - Kanuni. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TYD-033",
     "category": "Tarihî Yapılar / Destinasyon Kimliği",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
@@ -5308,21 +4558,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Osmanlı geç dönem ve Batılılaşma etkileri. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-035",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Topkapı - Fatih",
-      "B": "Dolmabahçe - Abdülmecid",
-      "C": "Yıldız - II. Abdülhamid",
-      "D": "Beylerbeyi - Abdülaziz",
-      "E": "Selimiye - I. Ahmed C. Selçuklu, Beylikler ve Kervansaraylar"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Selimiye - I. Ahmed C. Selçuklu, Beylikler ve Kervansaraylar. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "TYD-036",
@@ -5460,21 +4695,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap B: Anadolu Selçuklu - I. Alaeddin Keykubad. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TYD-045",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "İnce Minareli Medrese - Konya",
-      "B": "Karatay Medresesi - Konya",
-      "C": "Gök Medrese - Sivas",
-      "D": "Çifte Minareli Medrese - Erzurum",
-      "E": "Sultanhanı - Kars"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Sultanhanı - Kars. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TYD-046",
     "category": "Tarihî Yapılar / Destinasyon Kimliği",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
@@ -5533,21 +4753,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "B",
     "explanation": "Doğru cevap B: Taş işçiliği. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-050",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
-    "options": {
-      "A": "Sultanhanı - Aksaray - Selçuklu",
-      "B": "Sultanhanı - Kars - Orta Çağ",
-      "C": "Sultanhanı - İzmir - İyonya",
-      "D": "Sultanhanı - Van - Urartu",
-      "E": "Sultanhanı - Adıyaman - Kommagene D. Antik Kentler, Uygarlıklar ve Arkeolojik Kimlik"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Sultanhanı - Aksaray - Selçuklu. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "TYD-051",
@@ -5820,36 +5025,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap A: Kars ile ilişkilidir ve Orta Çağ izleri taşır. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TYD-069",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Göbeklitepe - Şanlıurfa - Neolitik",
-      "B": "Çatalhöyük - Konya - Neolitik",
-      "C": "Gordion - Ankara - Frig",
-      "D": "Sardes - Manisa - Lidya",
-      "E": "Hattuşa - Kars - Hitit"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Hattuşa - Kars - Hitit. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-070",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Efes - Celsus Kütüphanesi",
-      "B": "Bergama - Asklepion",
-      "C": "Didyma - Apollon Tapınağı",
-      "D": "Aizanoi - Zeus Tapınağı",
-      "E": "Zeugma - Midas Tümülüsü"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Zeugma - Midas Tümülüsü. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TYD-071",
     "category": "Tarihî Yapılar / Destinasyon Kimliği",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
@@ -5908,21 +5083,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Zeugma. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-075",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdakilerden hangisi doğru eşleştirilmiştir?",
-    "options": {
-      "A": "Hattuşa - Hitit - Çorum",
-      "B": "Gordion - Lidya - Manisa",
-      "C": "Sardes - Frig - Ankara",
-      "D": "Nemrut - Roma - Gaziantep",
-      "E": "Zeugma - Kommagene - Adıyaman E. İnanç Merkezleri ve Dinî Kimlik"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Hattuşa - Hitit - Çorum. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "TYD-076",
@@ -6030,21 +5190,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap A: İstanbul. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TYD-083",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Meryem Ana Evi - İzmir/Selçuk",
-      "B": "St. Pierre Kilisesi - Hatay",
-      "C": "St. Nicholas Kilisesi - Antalya/Demre",
-      "D": "Akdamar Kilisesi - Van",
-      "E": "Sümela Manastırı - Rize"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Sümela Manastırı - Rize. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TYD-084",
     "category": "Tarihî Yapılar / Destinasyon Kimliği",
     "topic": "Tarihî Yapılar / Destinasyon Kimliği",
@@ -6148,81 +5293,6 @@ window.MKS_QUESTIONS = [
     },
     "answer": "A",
     "explanation": "Doğru cevap A: Akdamar - Van. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-091",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki yapı-dönem eşleştirmelerinden hangisi doğrudur?",
-    "options": {
-      "A": "Ayasofya - Anadolu Selçuklu",
-      "B": "Sultanhanı - Bizans",
-      "C": "Dolmabahçe Sarayı - Osmanlı Batılılaşma",
-      "D": "Hattuşa - Osmanlı",
-      "E": "Gordion - Lidya"
-    },
-    "answer": "C",
-    "explanation": "Doğru cevap C: Dolmabahçe Sarayı - Osmanlı Batılılaşma. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-092",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Ayasofya - Bizans - I. Justinianus",
-      "B": "Yerebatan Sarnıcı - Bizans su yapısı",
-      "C": "Kariye - Bizans mozaik/fresk",
-      "D": "Topkapı Sarayı - Osmanlı - Fatih",
-      "E": "Dolmabahçe Sarayı - Anadolu Selçuklu - Alaeddin Keykubad"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Dolmabahçe Sarayı - Anadolu Selçuklu - Alaeddin Keykubad. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-093",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdakilerden hangisi yanlış eşleştirilmiştir?",
-    "options": {
-      "A": "Sardes - Lidya - Manisa",
-      "B": "Gordion - Frig - Ankara",
-      "C": "Hattuşa - Hitit - Çorum",
-      "D": "Nemrut - Kommagene - Adıyaman",
-      "E": "Zeugma - Lidya - Manisa"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Zeugma - Lidya - Manisa. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-094",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdakilerden hangisi yanlış eşleştirilmiştir?",
-    "options": {
-      "A": "İnce Minareli Medrese - Konya",
-      "B": "Karatay Medresesi - Konya",
-      "C": "Gök Medrese - Sivas",
-      "D": "Çifte Minareli Medrese - Erzurum",
-      "E": "Sultanhanı - Kars"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Sultanhanı - Kars. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TYD-095",
-    "category": "Tarihî Yapılar / Destinasyon Kimliği",
-    "topic": "Tarihî Yapılar / Destinasyon Kimliği",
-    "question": "Aşağıdakilerden hangisi doğru eşleştirilmiştir?",
-    "options": {
-      "A": "İshak Paşa Sarayı - Ağrı/Doğubayazıt - Osmanlı geç dönem",
-      "B": "Dolmabahçe Sarayı - Bursa - Erken Osmanlı",
-      "C": "Topkapı Sarayı - Edirne - II. Selim",
-      "D": "Beylerbeyi Sarayı - Konya - Selçuklu",
-      "E": "Yıldız Sarayı - Çorum - Hitit"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: İshak Paşa Sarayı - Ağrı/Doğubayazıt - Osmanlı geç dönem. Bu soru Tarihî Yapılar / Destinasyon Kimliği başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
     "id": "TYD-096",
@@ -7035,51 +6105,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap D: Kültepe / Kaniş. Bu soru Tarih Öncesi Çağlar / İlk Yerleşimler başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TON-050",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Yarımburgaz - İstanbul",
-      "B": "Çatalhöyük - Konya",
-      "C": "Aşıklı Höyük - Aksaray",
-      "D": "Karain - Antalya",
-      "E": "Göbeklitepe - Gaziantep"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Göbeklitepe - Gaziantep. Bu soru Tarih Öncesi Çağlar / İlk Yerleşimler başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TON-051",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "question": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
-    "options": {
-      "A": "Çayönü - Diyarbakır",
-      "B": "Aslantepe - Konya",
-      "C": "Canhasan - Trabzon",
-      "D": "Kültepe - Şanlıurfa",
-      "E": "Hacılar - Kayseri"
-    },
-    "answer": "A",
-    "explanation": "Doğru cevap A: Çayönü - Diyarbakır. Bu soru Tarih Öncesi Çağlar / İlk Yerleşimler başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TON-052",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-    "options": {
-      "A": "Beldibi - Mezolitik",
-      "B": "Kariye - Paleolitik mağara",
-      "C": "Kültepe - Asur ticaret kolonileri",
-      "D": "Göbeklitepe - Neolitik",
-      "E": "Karain - Paleolitik"
-    },
-    "answer": "B",
-    "explanation": "Doğru cevap B: Kariye - Paleolitik mağara. Bu soru Tarih Öncesi Çağlar / İlk Yerleşimler başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TON-053",
     "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
@@ -7620,36 +6645,6 @@ window.MKS_QUESTIONS = [
     "explanation": "Doğru cevap C: Paleolitik - Mezolitik - Neolitik - Kalkolitik - Tunç. Bu soru Tarih Öncesi Çağlar / İlk Yerleşimler başlığındaki anahtar kavram/eşleştirmeyi ölçer."
   },
   {
-    "id": "TON-089",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "question": "Aşağıdakilerden hangisi yanlış eşleştirilmiştir?",
-    "options": {
-      "A": "Aşıklı - Aksaray",
-      "B": "Hacılar - Burdur",
-      "C": "Karain - Antalya",
-      "D": "Kültepe - Şanlıurfa",
-      "E": "Çatalhöyük - Konya"
-    },
-    "answer": "D",
-    "explanation": "Doğru cevap D: Kültepe - Şanlıurfa. Bu soru Tarih Öncesi Çağlar / İlk Yerleşimler başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
-    "id": "TON-090",
-    "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
-    "question": "Aşağıdakilerden hangisi doğru eşleştirilmiştir?",
-    "options": {
-      "A": "Canhasan - Trabzon",
-      "B": "Göbeklitepe - Gaziantep",
-      "C": "Aslantepe - Kayseri",
-      "D": "Çayönü - Konya",
-      "E": "Yarımburgaz - İstanbul"
-    },
-    "answer": "E",
-    "explanation": "Doğru cevap E: Yarımburgaz - İstanbul. Bu soru Tarih Öncesi Çağlar / İlk Yerleşimler başlığındaki anahtar kavram/eşleştirmeyi ölçer."
-  },
-  {
     "id": "TON-091",
     "category": "Tarih Öncesi Çağlar / İlk Yerleşimler",
     "topic": "Tarih Öncesi Çağlar / İlk Yerleşimler",
@@ -7798,5 +6793,1505 @@ window.MKS_QUESTIONS = [
     },
     "answer": "E",
     "explanation": "Doğru cevap E: Aslantepe - Antalya. Bu soru Tarih Öncesi Çağlar / İlk Yerleşimler başlığındaki anahtar kavram/eşleştirmeyi ölçer."
+  },
+  {
+    "id": "MKS-ANTIK-V2-001",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Xanthos-Letoon aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Likya. Xanthos-Letoon UNESCO alanıdır; Likya’nın en kritik eşleştirmesidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-002",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Patara aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Pamfilya",
+      "B": "Likya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Likya. Patara Likya Birliği Meclisi ve Aziz Nikolaos’un doğum yeri kabul edilmesiyle önemlidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-003",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Myra/Demre aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Pamfilya",
+      "B": "Pisidia",
+      "C": "Likya",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Likya. Myra/Demre kaya mezarları ve St. Nicholas bağlantısıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-004",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Tlos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Pamfilya",
+      "B": "Pisidia",
+      "C": "Karya",
+      "D": "Likya",
+      "E": "İyonya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Likya. Tlos Likya kentleri arasında yer alır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-005",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Olympos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Pamfilya",
+      "B": "Pisidia",
+      "C": "Karya",
+      "D": "İyonya",
+      "E": "Likya"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Likya. Olympos Antalya/Kumluca çevresinde Likya kıyı kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-006",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Phaselis aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Likya. Phaselis Antalya/Kemer çevresinde Likya liman kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-007",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Perge aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Pamfilya. Perge Antalya/Aksu çevresinde Pamfilya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-008",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Aspendos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pisidia",
+      "C": "Pamfilya",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Pamfilya. Aspendos Pamfilya’da, iyi korunmuş Roma tiyatrosuyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-009",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Side aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pisidia",
+      "C": "Karya",
+      "D": "Pamfilya",
+      "E": "İyonya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Pamfilya. Side Pamfilya’da liman kenti ve Apollon Tapınağı ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-010",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Attaleia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pisidia",
+      "C": "Karya",
+      "D": "İyonya",
+      "E": "Pamfilya"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Pamfilya. Attaleia Antalya’nın antik adıdır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-011",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Sagalassos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Pisidia",
+      "B": "Likya",
+      "C": "Pamfilya",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Pisidia. Sagalassos Burdur/Ağlasun çevresinde Pisidia kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-012",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Pisidia Antiocheia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pisidia",
+      "C": "Pamfilya",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Pisidia. Pisidia Antiocheia Isparta/Yalvaç çevresindedir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-013",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Halikarnassos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Karya",
+      "D": "Pisidia",
+      "E": "İyonya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Karya. Halikarnassos bugünkü Bodrum’dur; Mozole ve Herodotos ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-014",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Knidos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Karya. Knidos Datça çevresinde Karya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-015",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Kaunos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "İyonya",
+      "E": "Karya"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Karya. Kaunos Dalyan/Ortaca çevresinde kaya mezarlarıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-016",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Labraunda aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Karya",
+      "B": "Likya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "İyonya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Karya. Labraunda Zeus Labrandos kutsal alanıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-017",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Stratonikeia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Karya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "İyonya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Karya. Stratonikeia Muğla/Yatağan çevresinde yaşayan antik kent olarak bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-018",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Aphrodisias aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Karya",
+      "D": "Pisidia",
+      "E": "İyonya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Karya. Aphrodisias Aydın/Karacasu, Aphrodite kültü ve heykeltıraşlıkla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-019",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Efes aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "İyonya",
+      "E": "Karya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: İyonya. Efes İzmir/Selçuk çevresinde İyonya/Roma hattında önemli kenttir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-020",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Milet aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: İyonya. Milet Aydın çevresinde bilim ve felsefeyle bilinen İyon kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-021",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Didyma aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "İyonya",
+      "B": "Likya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: İyonya. Didyma Aydın/Didim çevresinde Apollon Tapınağı ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-022",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Priene aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "İyonya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: İyonya. Priene Aydın çevresinde planlı kent yapısıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-023",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Teos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "İyonya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: İyonya. Teos İzmir/Seferihisar çevresinde Dionysos Tapınağı ile anılır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-024",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Erythrai aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "İyonya",
+      "E": "Karya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: İyonya. Erythrai İzmir/Çeşme-Ildırı çevresinde İyon kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-025",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Klazomenai aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: İyonya. Klazomenai İzmir/Urla çevresinde zeytinyağı işlikleriyle anılabilir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-026",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Phokaia/Foça aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "İyonya",
+      "B": "Likya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: İyonya. Phokaia/Foça denizcilik ve kolonizasyonla ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-027",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Kyme aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Aiolis",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Aiolis. Kyme Aiolis kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-028",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Aigai aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Aiolis",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Aiolis. Aigai Manisa/Yunusemre çevresinde Aiolis kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-029",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Troya aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Troas",
+      "E": "Karya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Troas. Troya Çanakkale’de, Homeros ve İlyada ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-030",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Assos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "Troas"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Troas. Assos Çanakkale/Ayvacık çevresinde Athena Tapınağı ve Aristoteles ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-031",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Alexandria Troas aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Troas",
+      "B": "Likya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Troas. Alexandria Troas Çanakkale çevresindeki Troas kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-032",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Sardes aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Lidya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Lidya. Sardes Manisa/Salihli’de Lidya başkentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-033",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Philadelphia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Lidya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Lidya. Philadelphia Alaşehir/Manisa çevresinde Lidya hattında düşünülür."
+  },
+  {
+    "id": "MKS-ANTIK-V2-034",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Thyateira aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Lidya",
+      "E": "Karya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Lidya. Thyateira Akhisar/Manisa çevresinde Lidya hattındadır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-035",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Gordion aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "Frigya"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Frigya. Gordion Ankara/Polatlı çevresinde Frig başkentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-036",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Pessinus aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Frigya",
+      "B": "Likya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Frigya. Pessinus Frigya’da Kibele kültüyle ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-037",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Midas/Yazılıkaya aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Frigya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Frigya. Midas/Yazılıkaya Frig kaya anıtlarıyla ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-038",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Tarsus aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Kilikya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Kilikya. Tarsus Mersin’de, St. Paul ve Kleopatra Kapısı ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-039",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Anemurium aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Kilikya",
+      "E": "Karya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Kilikya. Anemurium Mersin/Anamur çevresindedir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-040",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Kızkalesi/Korykos aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "Kilikya"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Kilikya. Kızkalesi/Korykos Mersin/Erdemli çevresindedir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-041",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Uzuncaburç aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Kilikya",
+      "B": "Likya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Kilikya. Uzuncaburç Mersin/Silifke çevresindedir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-042",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Soli-Pompeiopolis aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Kilikya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Kilikya. Soli-Pompeiopolis Mersin çevresinde Kilikya hattındadır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-043",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Nemrut Dağı aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Kommagene",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Kommagene. Nemrut Dağı Adıyaman’da Kommagene Krallığı ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-044",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Arsameia aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Kommagene",
+      "E": "Karya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Kommagene. Arsameia Adıyaman çevresinde Kommagene merkezidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-045",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Cendere Köprüsü aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "Kommagene"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Kommagene. Cendere Köprüsü Adıyaman/Kommagene hattında sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-V2-046",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Karakuş Tümülüsü aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Kommagene",
+      "B": "Likya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Kommagene. Karakuş Tümülüsü Adıyaman/Kommagene hattındadır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-047",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Tuşpa aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Urartu",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Urartu. Tuşpa Van çevresinde Urartu başkentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-048",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Van Kalesi aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Urartu",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Urartu. Van Kalesi Urartu/Tuşpa bağlantısıyla önemlidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-049",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Çavuştepe aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Urartu",
+      "E": "Karya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Urartu. Çavuştepe Van/Gürpınar çevresinde Urartu kalesidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-050",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Ayanis aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "Urartu"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Urartu. Ayanis Van Gölü kıyısında Urartu merkezi/kalesidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-051",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Göreme aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Kapadokya",
+      "B": "Likya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Kapadokya. Göreme kaya kiliseleri ve freskleriyle Kapadokya’nın merkezidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-052",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Derinkuyu aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Kapadokya",
+      "C": "Pamfilya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Kapadokya. Derinkuyu Nevşehir’de yer altı şehridir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-053",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Kaymaklı aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Kapadokya",
+      "D": "Pisidia",
+      "E": "Karya"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Kapadokya. Kaymaklı Nevşehir’de yer altı şehridir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-054",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Ihlara Vadisi aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Kapadokya",
+      "E": "Karya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Kapadokya. Ihlara Vadisi Aksaray’dadır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-055",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Antik Bölge-Kent",
+    "question": "Soğanlı Vadisi aşağıdaki antik bölge/hatlardan hangisiyle ilişkilidir?",
+    "options": {
+      "A": "Likya",
+      "B": "Pamfilya",
+      "C": "Pisidia",
+      "D": "Karya",
+      "E": "Kapadokya"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Kapadokya. Soğanlı Vadisi Kayseri çevresindedir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-056",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Aziz Nikolaos / Noel Baba için doğru eşleştirme hangisidir?",
+    "options": {
+      "A": "Patara doğumlu kabul edilir; Myra/Demre’de piskoposluk yapmıştır",
+      "B": "Hatay’da doğmuş ve St. Pierre’de görev yapmıştır",
+      "C": "Tarsus doğumlu kabul edilir; Yalvaç ile ilişkilidir",
+      "D": "Efes’te Artemis Tapınağı’nı yaptırmıştır",
+      "E": "Bodrum’da tarih yazıcılığını başlatmıştır"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Patara doğumlu kabul edilir; Myra/Demre’de piskoposluk yapmıştır. Aziz Nikolaos Patara-Myra-Demre hattıyla ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-057",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "St. Nicholas Kilisesi hangi yerle ilişkilidir?",
+    "options": {
+      "A": "Hatay/Antakya",
+      "B": "Antalya/Demre",
+      "C": "İzmir/Selçuk",
+      "D": "Mersin/Tarsus",
+      "E": "Isparta/Yalvaç"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Antalya/Demre. St. Nicholas Kilisesi Demre’dedir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-058",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "St. Pierre Kilisesi hangi yerle ilişkilidir?",
+    "options": {
+      "A": "Antalya/Demre",
+      "B": "İzmir/Selçuk",
+      "C": "Hatay/Antakya",
+      "D": "Mersin/Tarsus",
+      "E": "Isparta/Yalvaç"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Hatay/Antakya. St. Pierre Kilisesi Antakya/Hatay’dadır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-059",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "St. Paul / Aziz Paulus için doğru eşleştirme hangisidir?",
+    "options": {
+      "A": "Patara + Myra",
+      "B": "Hatay + St. Pierre",
+      "C": "Bodrum + Herodotos",
+      "D": "Tarsus + Yalvaç/Pisidia Antiocheia",
+      "E": "Gordion + Midas"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Tarsus + Yalvaç/Pisidia Antiocheia. St. Paul Tarsus doğumlu kabul edilir; Yalvaç/Pisidia Antiocheia ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-060",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Meryem Ana Evi hangi yerle ilişkilidir?",
+    "options": {
+      "A": "Antalya/Demre",
+      "B": "Hatay/Antakya",
+      "C": "Mersin/Tarsus",
+      "D": "Van/Akdamar",
+      "E": "İzmir/Selçuk"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: İzmir/Selçuk. Meryem Ana Evi Selçuk/İzmir çevresindedir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-061",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Herodotos için doğru eşleştirme hangisidir?",
+    "options": {
+      "A": "Halikarnassos/Bodrum + tarihin babası",
+      "B": "Milet + şehir planı",
+      "C": "Gordion + Frig kralı",
+      "D": "Sardes + zengin Lidya kralı",
+      "E": "Assos + Athena Tapınağı"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Halikarnassos/Bodrum + tarihin babası. Herodotos Halikarnassos/Bodrum doğumludur."
+  },
+  {
+    "id": "MKS-ANTIK-V2-062",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Homeros hangi eserler ve kent anlatısıyla bilinir?",
+    "options": {
+      "A": "Kral Yolu + Sardes",
+      "B": "İlyada/Odysseia + Troya",
+      "C": "Mozole + Halikarnassos",
+      "D": "Yer altı şehirleri + Kapadokya",
+      "E": "Kibele + Pessinus"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: İlyada/Odysseia + Troya. Homeros Troya anlatıları ve İlyada/Odysseia ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-063",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Aristoteles bu konu kapsamında hangi kentle ilişkilendirilebilir?",
+    "options": {
+      "A": "Tarsus",
+      "B": "Patara",
+      "C": "Assos",
+      "D": "Aigai",
+      "E": "Sardes"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Assos. Aristoteles’in Assos’ta bir süre bulunduğu bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-064",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Thales hangi kent/bölgeyle ilişkilidir?",
+    "options": {
+      "A": "Sardes/Lidya",
+      "B": "Gordion/Frigya",
+      "C": "Tuşpa/Urartu",
+      "D": "Milet/İyonya",
+      "E": "Myra/Likya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Milet/İyonya. Thales Miletli filozoftur."
+  },
+  {
+    "id": "MKS-ANTIK-V2-065",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Hippodamos hangi kent ve alanla ilişkilendirilir?",
+    "options": {
+      "A": "Bodrum + Mozole",
+      "B": "Patara + Aziz Nikolaos",
+      "C": "Sardes + para",
+      "D": "Nemrut + dev heykeller",
+      "E": "Milet + ızgara planlı şehircilik"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Milet + ızgara planlı şehircilik. Hippodamos Milet ve şehir planlamasıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-066",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Kroisos/Krezüs hangi uygarlıkla ilişkilidir?",
+    "options": {
+      "A": "Lidya",
+      "B": "Frigya",
+      "C": "Urartu",
+      "D": "Karya",
+      "E": "İyonya"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Lidya. Krezüs Lidya kralıdır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-067",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Midas hangi uygarlık/kentle ilişkilidir?",
+    "options": {
+      "A": "Lidya/Sardes",
+      "B": "Frigya/Gordion",
+      "C": "Karya/Halikarnassos",
+      "D": "Kommagene/Nemrut",
+      "E": "Urartu/Tuşpa"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Frigya/Gordion. Midas Frig kralıdır ve Gordion ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-068",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "I. Antiochos hangi krallık ve alanla ilişkilidir?",
+    "options": {
+      "A": "Lidya + Sardes",
+      "B": "Frigya + Pessinus",
+      "C": "Kommagene + Nemrut Dağı",
+      "D": "Karya + Knidos",
+      "E": "İyonya + Efes"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Kommagene + Nemrut Dağı. I. Antiochos Kommagene kralıdır; Nemrut Dağı ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-069",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "II. Attalos hangi kent/şehir adıyla ilişkilidir?",
+    "options": {
+      "A": "Halikarnassos/Bodrum",
+      "B": "Sardes/Manisa",
+      "C": "Tuşpa/Van",
+      "D": "Attaleia/Antalya",
+      "E": "Patara/Antalya"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Attaleia/Antalya. Antalya’nın antik adı Attaleia, II. Attalos ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-070",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Urartuların baş tanrısı hangisidir?",
+    "options": {
+      "A": "Teşup",
+      "B": "Kibele",
+      "C": "Artemis",
+      "D": "Apollon",
+      "E": "Haldi"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Haldi. Haldi Urartu baş tanrısıdır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-071",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Friglerde Ana Tanrıça kültü hangi adla bilinir?",
+    "options": {
+      "A": "Kibele",
+      "B": "Haldi",
+      "C": "Artemis",
+      "D": "Apollon",
+      "E": "Teşup"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Kibele. Kibele Frigya ve Pessinus ile ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-072",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Didyma hangi tapınakla bilinir?",
+    "options": {
+      "A": "Artemis Tapınağı",
+      "B": "Apollon Tapınağı",
+      "C": "Zeus Tapınağı",
+      "D": "Athena Tapınağı",
+      "E": "Haldi Tapınağı"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Apollon Tapınağı. Didyma Apollon Tapınağı ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-073",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Efes hangi tapınakla bilinir?",
+    "options": {
+      "A": "Apollon Tapınağı",
+      "B": "Zeus Labrandos",
+      "C": "Artemis Tapınağı",
+      "D": "Athena Tapınağı",
+      "E": "Haldi Tapınağı"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Artemis Tapınağı. Efes Artemis Tapınağı ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-074",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Labraunda hangi kutsal alanla bilinir?",
+    "options": {
+      "A": "Apollon Didymaios",
+      "B": "Artemis Ephesia",
+      "C": "Kibele/Pessinus",
+      "D": "Zeus Labrandos",
+      "E": "Haldi/Tuşpa"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Zeus Labrandos. Labraunda Zeus Labrandos kutsal alanıdır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-075",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Aizanoi için doğru eşleştirme hangisidir?",
+    "options": {
+      "A": "Burdur + Antoninler Çeşmesi",
+      "B": "Aydın + Apollon Tapınağı",
+      "C": "Antalya + St. Nicholas",
+      "D": "Muğla + Kibele",
+      "E": "Kütahya + Zeus Tapınağı"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Kütahya + Zeus Tapınağı. Aizanoi Kütahya’da Zeus Tapınağı ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-076",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Sagalassos için doğru eşleştirme hangisidir?",
+    "options": {
+      "A": "Burdur/Ağlasun + Antoninler Çeşmesi",
+      "B": "Kütahya + Zeus Tapınağı",
+      "C": "Aydın + Apollon Tapınağı",
+      "D": "Antalya/Demre + St. Nicholas",
+      "E": "Muğla/Bodrum + Mozole"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Burdur/Ağlasun + Antoninler Çeşmesi. Sagalassos Burdur/Ağlasun ve Antoninler Çeşmesiyle bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-077",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Kaunos için doğru eşleştirme hangisidir?",
+    "options": {
+      "A": "Datça + Apollon Tapınağı",
+      "B": "Dalyan/Ortaca + kaya mezarları",
+      "C": "Bodrum + Athena Tapınağı",
+      "D": "Burdur + tiyatro",
+      "E": "Mersin + yer altı şehri"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Dalyan/Ortaca + kaya mezarları. Kaunos Karya’da kaya mezarlarıyla tanınır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-078",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Halikarnas Mozolesi için doğru eşleştirme hangisidir?",
+    "options": {
+      "A": "Gordion + Midas",
+      "B": "Sardes + Krezüs",
+      "C": "Bodrum/Halikarnassos + Mausolos",
+      "D": "Nemrut + Antiochos",
+      "E": "Tarsus + St. Paul"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Bodrum/Halikarnassos + Mausolos. Halikarnas Mozolesi Mausolos adına yaptırılmıştır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-079",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Kişiler ve İnanç",
+    "question": "Aphrodisias için doğru eşleştirme hangisidir?",
+    "options": {
+      "A": "Burdur + Antoninler",
+      "B": "Kütahya + Zeus",
+      "C": "Antalya/Demre + St. Nicholas",
+      "D": "Aydın/Karacasu + Aphrodite + heykeltıraşlık",
+      "E": "İzmir/Selçuk + Artemis"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Aydın/Karacasu + Aphrodite + heykeltıraşlık. Aphrodisias Aydın/Karacasu’da, Aphrodite ve heykeltıraşlıkla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-082",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Aşağıdakilerden hangisi Likya hattında değildir?",
+    "options": {
+      "A": "Xanthos",
+      "B": "Aspendos",
+      "C": "Letoon",
+      "D": "Patara",
+      "E": "Myra"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Aspendos. Aspendos Pamfilya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-083",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Aşağıdakilerden hangisi Pamfilya hattında değildir?",
+    "options": {
+      "A": "Perge",
+      "B": "Aspendos",
+      "C": "Myra",
+      "D": "Side",
+      "E": "Attaleia"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Myra. Myra Likya/Demre hattındadır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-084",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Aşağıdakilerden hangisi Karya hattında değildir?",
+    "options": {
+      "A": "Halikarnassos",
+      "B": "Knidos",
+      "C": "Kaunos",
+      "D": "Perge",
+      "E": "Labraunda"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Perge. Perge Pamfilya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-085",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Aşağıdakilerden hangisi İyonya hattında değildir?",
+    "options": {
+      "A": "Efes",
+      "B": "Milet",
+      "C": "Didyma",
+      "D": "Priene",
+      "E": "Sardes"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Sardes. Sardes Lidya başkentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-086",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Aşağıdaki kişi-kent eşleştirmelerinden hangisi yanlıştır?",
+    "options": {
+      "A": "Aziz Nikolaos — Hatay/Antakya",
+      "B": "St. Paul — Tarsus",
+      "C": "Herodotos — Halikarnassos",
+      "D": "Midas — Gordion",
+      "E": "Krezüs — Sardes"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Aziz Nikolaos — Hatay/Antakya. Aziz Nikolaos Antalya/Demre ve Patara-Myra hattıyla ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-087",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "St. Pierre, St. Nicholas ve St. Paul eşleştirmesi için doğru seçenek hangisidir?",
+    "options": {
+      "A": "St. Pierre-Demre, St. Nicholas-Hatay, St. Paul-Efes",
+      "B": "St. Pierre-Hatay, St. Nicholas-Demre, St. Paul-Tarsus",
+      "C": "St. Pierre-Tarsus, St. Nicholas-Selçuk, St. Paul-Demre",
+      "D": "St. Pierre-Van, St. Nicholas-Tarsus, St. Paul-Hatay",
+      "E": "St. Pierre-Bodrum, St. Nicholas-Patara, St. Paul-Kars"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: St. Pierre-Hatay, St. Nicholas-Demre, St. Paul-Tarsus. Üçlü tuzak: St. Pierre Hatay, St. Nicholas Demre, St. Paul Tarsus."
+  },
+  {
+    "id": "MKS-ANTIK-V2-088",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Nemrut Dağı ile Nemrut Krater Gölü ayrımı için doğru ifade hangisidir?",
+    "options": {
+      "A": "İkisi de Adıyaman’dadır",
+      "B": "İkisi de Bitlis’tedir",
+      "C": "Nemrut Dağı Adıyaman, Nemrut Krater Gölü Bitlis",
+      "D": "Nemrut Dağı Van’dadır",
+      "E": "Nemrut Krater Gölü Antalya’dadır"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Nemrut Dağı Adıyaman, Nemrut Krater Gölü Bitlis. Nemrut Dağı Kommagene/Adıyaman; Nemrut Krater Gölü Bitlis’tedir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-089",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Aşağıdakilerden hangisi aynı bölgenin kentleri değildir?",
+    "options": {
+      "A": "Xanthos, Letoon, Myra",
+      "B": "Halikarnassos, Knidos, Kaunos",
+      "C": "Efes, Milet, Didyma",
+      "D": "Perge, Aspendos, Patara",
+      "E": "Troya, Assos, Alexandria Troas"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Perge, Aspendos, Patara. Perge-Aspendos Pamfilya, Patara ise Likya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-090",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Aşağıdakilerden hangisi aynı bölgenin kentleridir?",
+    "options": {
+      "A": "Perge, Sagalassos, Side",
+      "B": "Sardes, Efes, Milet",
+      "C": "Tuşpa, Patara, Myra",
+      "D": "Gordion, Nemrut, Tarsus",
+      "E": "Halikarnassos, Knidos, Kaunos"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Halikarnassos, Knidos, Kaunos. Halikarnassos-Knidos-Kaunos Karya kentleridir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-093",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Aşağıdakilerden hangisi Kilikya hattındadır?",
+    "options": {
+      "A": "Aizanoi",
+      "B": "Sagalassos",
+      "C": "Anemurium",
+      "D": "Xanthos",
+      "E": "Assos"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Anemurium. Anemurium Mersin/Anamur çevresindeki Kilikya kentidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-094",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "Aşağıdakilerden hangisi Kommagene hattındadır?",
+    "options": {
+      "A": "Kızkalesi",
+      "B": "Olympos",
+      "C": "Pessinus",
+      "D": "Karakuş Tümülüsü",
+      "E": "Klazomenai"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Karakuş Tümülüsü. Karakuş Tümülüsü Adıyaman/Kommagene hattında sorulur."
+  },
+  {
+    "id": "MKS-ANTIK-V2-095",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Roma tiyatrosu” denince en doğrudan hangi kent akla gelir?",
+    "options": {
+      "A": "Patara",
+      "B": "Tuşpa",
+      "C": "Sardes",
+      "D": "Pessinus",
+      "E": "Aspendos"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Aspendos. Aspendos iyi korunmuş Roma tiyatrosu ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-096",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Likya Birliği Meclisi” denince hangi kent akla gelir?",
+    "options": {
+      "A": "Patara",
+      "B": "Perge",
+      "C": "Aspendos",
+      "D": "Sagalassos",
+      "E": "Aigai"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Patara. Patara Likya Birliği Meclisi ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-097",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Yaşayan antik kent” ifadesi hangi yerle ilişkilidir?",
+    "options": {
+      "A": "Priene",
+      "B": "Stratonikeia",
+      "C": "Aigai",
+      "D": "Olympos",
+      "E": "Anemurium"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Stratonikeia. Stratonikeia Muğla/Yatağan çevresindedir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-098",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Dionysos Tapınağı” hangi İyon kentiyle ilişkilidir?",
+    "options": {
+      "A": "Didyma",
+      "B": "Efes",
+      "C": "Teos",
+      "D": "Sardes",
+      "E": "Aizanoi"
+    },
+    "answer": "C",
+    "explanation": "Doğru cevap C: Teos. Teos İzmir/Seferihisar çevresinde Dionysos Tapınağı ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-099",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Zeytinyağı işlikleri” ifadesi hangi İyon kenti için kullanılabilir?",
+    "options": {
+      "A": "Priene",
+      "B": "Milet",
+      "C": "Erythrai",
+      "D": "Klazomenai",
+      "E": "Sardes"
+    },
+    "answer": "D",
+    "explanation": "Doğru cevap D: Klazomenai. Klazomenai İzmir/Urla çevresinde zeytinyağı işlikleriyle anılabilir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-100",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Denizcilik ve kolonizasyon” ifadesi İyonya içinde hangi kentle özellikle ilişkilidir?",
+    "options": {
+      "A": "Tuşpa",
+      "B": "Gordion",
+      "C": "Sardes",
+      "D": "Pessinus",
+      "E": "Phokaia/Foça"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Phokaia/Foça. Phokaia/Foça denizcilik ve kolonizasyonla ilişkilidir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-EXTRA-001",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Celsus Kütüphanesi” ifadesi hangi antik kentle ilişkilidir?",
+    "options": {
+      "A": "Efes",
+      "B": "Sardes",
+      "C": "Perge",
+      "D": "Sagalassos",
+      "E": "Tuşpa"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Efes. Efes İzmir/Selçuk çevresinde Celsus Kütüphanesi ve Artemis Tapınağı ile bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-EXTRA-002",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Aphrodite heykeli” ifadesi Karya içinde en çok hangi kentle ilişkilendirilir?",
+    "options": {
+      "A": "Knidos",
+      "B": "Kaunos",
+      "C": "Halikarnassos",
+      "D": "Perge",
+      "E": "Tarsus"
+    },
+    "answer": "A",
+    "explanation": "Doğru cevap A: Knidos. Knidos Datça çevresindedir ve Aphrodite heykeliyle anılır."
+  },
+  {
+    "id": "MKS-ANTIK-V2-EXTRA-003",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Kızılırmak kıyısı ve çömlekçilik” ifadesi Kapadokya’da hangi merkezle ilişkilidir?",
+    "options": {
+      "A": "Ürgüp",
+      "B": "Avanos",
+      "C": "Göreme",
+      "D": "Ihlara",
+      "E": "Soğanlı"
+    },
+    "answer": "B",
+    "explanation": "Doğru cevap B: Avanos. Avanos çömlekçilik ve Kızılırmak kıyısıyla bilinir."
+  },
+  {
+    "id": "MKS-ANTIK-V2-EXTRA-004",
+    "category": "Anadolu Antik Bölgeleri ve Önemli Kişiler",
+    "topic": "Karışık Tuzak",
+    "question": "“Sütunlu cadde, stadion ve Antalya/Aksu” ifadesi hangi Pamfilya kentini anlatır?",
+    "options": {
+      "A": "Aspendos",
+      "B": "Side",
+      "C": "Patara",
+      "D": "Myra",
+      "E": "Perge"
+    },
+    "answer": "E",
+    "explanation": "Doğru cevap E: Perge. Perge Antalya/Aksu çevresindedir; sütunlu cadde ve stadionla bilinir."
   }
 ];
