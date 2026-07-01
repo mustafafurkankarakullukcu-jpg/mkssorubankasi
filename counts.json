@@ -1,20 +1,37 @@
 {
-  "total": 4231,
-  "base_v7": 4131,
-  "mart_2026_deneme_added": 100,
-  "domains": {
-    "Eski Soru Bankası ve Karma Testler": 589,
-    "Turizm Mevzuatı": 138,
-    "Anadolu Medeniyetleri, Arkeoloji ve Mitoloji": 382,
-    "Genel Türk Tarihi ve Kültürü": 852,
-    "Roma-Yunan-Bizans, Sanat Tarihi ve Müzecilik": 430,
-    "Turizm Bilgisi, Sosyoloji ve Meslek": 443,
-    "Halk Bilimi, Edebiyat ve Genel Kültür": 187,
-    "Türkiye Turizm Coğrafyası ve Kültürel Miras": 414,
-    "Sağlık, İlk Yardım ve Turist Sağlığı": 79,
-    "Deneme Sınavları": 600,
-    "Diğer AÖF Konu Soruları": 117
+  "total": 4431,
+  "counts": {
+    "Genel turizm bilgisi, turizm mevzuatı, turizm sosyolojisi": 552,
+    "Türkiye’nin tarihi ve turizm coğrafyası": 871,
+    "Genel Türk tarihi ve kültürü": 586,
+    "Osmanlı İmparatorluğu tarihi": 331,
+    "Arkeoloji ve mitoloji": 257,
+    "Roma, Yunan ve Bizans tarihi": 108,
+    "Genel sanat tarihi": 68,
+    "Dinler tarihi": 102,
+    "Genel sağlık bilgisi, ilk yardım, sağlık turizmi, turist sağlığı ve turist psikolojisi": 81,
+    "İletişim becerileri ve meslek etiği": 159,
+    "Anadolu medeniyetleri tarihi": 351,
+    "Türk halk bilimi, Türk dili ve edebiyatı ile geleneksel Türk el sanatları": 61,
+    "Türkiye'nin flora ve faunası, doğa tarihi": 117,
+    "Müzecilik ve tarihi eserlere ilişkin suçlar": 187,
+    "Deneme Sınavları": 600
   },
-  "categories": 109,
-  "mart_2026_category": "Mart 2026 MKS B Kitapçığı - 100 Soru"
+  "headings": [
+    "Genel turizm bilgisi, turizm mevzuatı, turizm sosyolojisi",
+    "Türkiye’nin tarihi ve turizm coğrafyası",
+    "Genel Türk tarihi ve kültürü",
+    "Osmanlı İmparatorluğu tarihi",
+    "Arkeoloji ve mitoloji",
+    "Roma, Yunan ve Bizans tarihi",
+    "Genel sanat tarihi",
+    "Dinler tarihi",
+    "Genel sağlık bilgisi, ilk yardım, sağlık turizmi, turist sağlığı ve turist psikolojisi",
+    "İletişim becerileri ve meslek etiği",
+    "Anadolu medeniyetleri tarihi",
+    "Türk halk bilimi, Türk dili ve edebiyatı ile geleneksel Türk el sanatları",
+    "Türkiye'nin flora ve faunası, doğa tarihi",
+    "Müzecilik ve tarihi eserlere ilişkin suçlar",
+    "Deneme Sınavları"
+  ]
 }
