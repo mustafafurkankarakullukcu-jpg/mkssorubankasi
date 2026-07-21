@@ -1,0 +1,10 @@
+MKS V4 KALİTE KONTROL RAPORU
+
+Toplam soru: 5457
+Kaldırılan birebir tekrar: 1
+MKS Kokan bölümü: 95 sorunun teknik yapısı kontrol edildi.
+Yeniden yazılan yüksek riskli MKS soruları: 15
+Kontroller: boş soru, cevap indeksi, seçenek sayısı, aynı sorudaki seçenek tekrarları, kategori içi birebir soru tekrarları.
+Öncelikli doğruluk düzeltmeleri: Çatalhöyük, Göbeklitepe, Kadeş, El-Cezerî, Karain, Alacahöyük demir hançeri ve uyumsuz seçenekli MKS maddeleri.
+
+Not: Binlerce tarih/kültür sorusunun tümü için mutlak hatasızlık iddiası bilimsel olarak doğru olmaz. V4, bariz ve yüksek riskli sorunları temizleyen, teknik doğrulamadan geçen sürümdür.
