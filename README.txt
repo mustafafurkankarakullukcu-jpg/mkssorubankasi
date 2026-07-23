@@ -1,4 +1,3 @@
-MKS Soru Bankası V12 - Tam Ayrılmış Konu Başlıkları
-GitHub Pages için sadece index.html yüklemeniz yeterlidir.
-Toplam soru: 4431
-Konu başlığı: 30
+MKS İnteraktif Test Bankası - Eşleştirmeli sürüm
+
+index.html dosyasını tarayıcıda açabilir veya klasörü Netlify'a yükleyebilirsiniz.
