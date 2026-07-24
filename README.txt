@@ -1,3 +1,1 @@
-MKS İnteraktif Test Bankası - Eşleştirmeli sürüm
-
-index.html dosyasını tarayıcıda açabilir veya klasörü Netlify'a yükleyebilirsiniz.
+MKS interaktif test – düzeltilmiş ve Detay / Kılçık Sorular eklenmiş sürüm. GitHub/Netlify için index.html dosyasını mevcut dosyanızla değiştirin.
